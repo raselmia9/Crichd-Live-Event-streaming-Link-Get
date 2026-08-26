@@ -20,63 +20,35 @@ async def fetch_match_details(context, match):
         if detail_url:
             await page.goto(detail_url, timeout=20000)
 
-            # ১. আপনার নতুন আইডিয়া অনুযায়ী: ডিটেইল পেজের ডেট/টাইম সেকশনের ওপর থেকে লিগের নাম (যেমন: LaLiga, EPL) তোলা
-            try:
-                # ক্যালেন্ডার আইকন বা ডেটের আশপাশের এলিমেন্ট বা হেডার টার্গেট করা
-                # ক্রিকএইচডিতে এই টেক্সট সাধারণত ডেটের ঠিক উপরে বা লোগোর পাশের হেডিংয়ে থাকে
-                league_elem = await page.query_selector(".event-title, h3, h4, .league-name, div[style*='font'], .panel-heading, div > span")
-                if league_elem:
-                    # পেজের ওপরের অংশ থেকে টেক্সট স্ক্যান করা
-                    full_body_lines = (await page.inner_text("body")).split("\n")
-                    for line in full_body_lines:
-                        l_clean = line.strip()
-                        # লিগের নামগুলো সাধারণত ছোট হয় এবং এগুলোতে UTC বা ব্লা-ব্লা থাকে না
-                        if l_clean and l_clean in ["LaLiga", "EPL", "Champions League", "MotoGP", "Bundesliga", "French Ligue 1", "Serie A", "Premier League", "Liga Portugal", "EFL"]:
-                            event_title = l_clean
-                            break
+            # পুরো পেজের টেক্সট একবারে নিয়ে লাইন বাই লাইন আলাদা করা
+            body_text = await page.inner_text("body")
+            lines = [line.strip() for line in body_text.split("\n") if line.strip()]
+
+            # ১. যেভাবে ডেট ও টাইম নেওয়া হয়, ঠিক একইভাবে ইভেন্টের নাম এবং ডেট-টাইম বের করা
+            for i in range(len(lines)):
+                line = lines[i]
                 
-                # যদি নির্দিষ্ট লিস্টে না মিলে, তবে ক্যালেন্ডার আইকনের আগের বা ওপরের টেক্সট খোঁজা
-                if event_title == "Live Sports":
-                    # পেজের একদম ওপরের হেডিং বা টেক্সট ব্লক চেক করা
-                    possible_titles = await page.evaluate('''() => {
-                        let elements = document.querySelectorAll('div, span, h3, h4');
-                        for (let el of elements) {
-                            let text = el.innerText.trim();
-                            if (text && text.length > 2 && text.length < 25 && !text.includes('UTC') && !text.includes('Starts') && !text.includes('vs')) {
-                                // যদি এর নিচে ক্যালেন্ডার বা ডেট থাকে
-                                if (el.nextElementSibling && el.nextElementSibling.innerText.includes('UTC')) {
-                                    return text;
-                                }
-                            }
-                        }
-                        return null;
-                    }''')
-                    if possible_titles:
-                        event_title = possible_titles
+                # ডেট এবং টাইম খোঁজার লজিক
+                if "UTC" in line or ("AM" in line or "PM" in line and ("at" in line or "," in line)):
+                    if match_date_time == "N/A":
+                        match_date_time = line
+                    
+                    # যেহেতু ডেট-টাইমের ঠিক উপরেই লিগের নাম থাকে, তাই এক বা দুই ধাপ আগের লাইন চেক করা
+                    if i > 0 and event_title == "Live Sports":
+                        possible_event = lines[i - 1]
+                        # শর্ত: নামটা খুব বড় হবে না এবং এতে কোনো সময় বা 'vs' থাকবে না
+                        if len(possible_event) < 30 and "UTC" not in possible_event and "vs" not in possible_event.lower() and "Starts" not in possible_event:
+                            event_title = possible_event
 
-            except Exception as ex:
-                print(f"Event name extract error: {ex}")
+            # যদি ওপরের লজিকে না পায়, ব্যাকআপ হিসেবে কমন লিগগুলোর নাম টেক্সটে খোঁজা
+            if event_title == "Live Sports":
+                known_leagues = ["LaLiga", "EPL", "Champions League", "MotoGP", "Bundesliga", "French Ligue 1", "Serie A", "Premier League", "Liga Portugal", "EFL", "ICC", "BPL", "IPL"]
+                for l in known_leagues:
+                    if l in body_text:
+                        event_title = l
+                        break
 
-            # যদি এখনো না পাওয়া যায়, JSON থেকে আসা নাম বা আগের ব্যাকআপ রাখা
-            if event_title == "Live Sports" and match.get("event_name"):
-                event_title = match.get("event_name")
-
-            # ২. সঠিক ডেট এবং টাইম সংগ্রহ করা
-            date_elem = await page.query_selector(".date-time, .schedule-date, time, span")
-            if date_elem:
-                text = await date_elem.inner_text()
-                if "UTC" in text or "202" in text:
-                    match_date_time = text.strip()
-
-            if match_date_time == "N/A":
-                body_text = await page.inner_text("body")
-                for line in body_text.split("\n"):
-                    if "UTC" in line or "AM" in line or "PM" in line:
-                        if "at" in line or "," in line:
-                            match_date_time = line.strip()
-                            break
-
-            # ৩. টেবিল বা Watch বাটন থেকে লিংক সংগ্রহ করা
+            # ২. টেবিল বা Watch বাটন থেকে লিংক সংগ্রহ করা
             rows = await page.query_selector_all("table tr, .channels-list tr, div.flex")
             
             link_count = 1
@@ -93,7 +65,7 @@ async def fetch_match_details(context, match):
                                 page_links.append(formatted_link)
                                 link_count += 1
 
-            # যদি কোনো লিংক বা Watch বাটন না থাকে, আপনার নির্দিষ্ট মেসেজ বসবে
+            # যদি কোনো লিংক না থাকে, নির্দিষ্ট মেসেজ বসবে
             if not page_links:
                 page_links.append("Stream links will be activated before 1 hr of starting time.")
 
@@ -102,7 +74,7 @@ async def fetch_match_details(context, match):
 
     await page.close()
 
-    # মাল্টি স্ট্রিমিং ফরম্যাট তৈরি
+    # ফরম্যাট তৈরি করা
     if len(page_links) == 1 and "Stream links" in page_links[0]:
         multi_streaming_str = page_links[0]
     else:
@@ -115,7 +87,7 @@ async def fetch_match_details(context, match):
         "team2_logo": match.get("team2_logo", ""),
         "team1_name": match.get("team1_name", "Team 1"),
         "team2_name": match.get("team2_name", "Team 2"),
-        "date_and_time": match_date_time if match_date_time != "N/A" else match.get("date_and_time", "CrichD"),
+        "date_and_time": match_date_time,
         "multi_streaming": multi_streaming_str,
     }
 
@@ -144,7 +116,7 @@ async def main():
     with open("crichd_matches.json", "w", encoding="utf-8") as f:
         json.dump(final_output, f, indent=4, ensure_ascii=False)
 
-    print("সফলভাবে সঠিক লিগ নাম, টাইম এবং লিংকসহ ফাইল আপডেট করা হয়েছে!")
+    print("সফলভাবে সঠিক ইভেন্ট নাম, টাইম এবং লিংকসহ ফাইল আপডেট করা হয়েছে!")
 
 if __name__ == "__main__":
     asyncio.run(main())
