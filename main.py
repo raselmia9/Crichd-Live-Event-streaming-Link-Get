@@ -34,32 +34,48 @@ async def fetch_match_details(context, match):
                             match_date_time = line.strip()
                             break
 
-            # ২. ডিটেইল পেজের ভেতরের টেবিল বা চ্যানেল সেকশন থেকে সুনির্দিষ্ট লিংকগুলো সংগ্রহ করা
-            # এখানে শুধু /watch/ বা /live/ বা সংশ্লিষ্ট স্ট্রিম লিংকগুলো ফিল্টার করা হবে যাতে জেনেরিক লিংক না আসে
-            links_elements = await page.query_selector_all("table a, .channels-list a, tr a, td a")
+            # ২. টেবিলের ভেতর থাকা "Watch" বাটন বা লিংকগুলো খুঁজে বের করা
+            # স্ক্রিনশট অনুযায়ী টেবিলে Link 1, Link 2 এবং Watch লেখা থাকে
+            rows = await page.query_selector_all("table tr, .channels-list tr, div.flex")
             
-            for link in links_elements:
-                href = await link.get_attribute("href")
-                link_text = await link.inner_text()
-                
-                if href and ("/watch/" in href or "/live/" in href or "stream" in href or "link" in link_text.lower()):
-                    full_link = href if href.startswith("http") else "https://m.crichd.pk" + href
-                    
-                    # ডুপ্লিকেট এড়াতে এবং নাম ঠিক রাখতে
-                    link_name = f"Link{len(page_links) + 1}"
-                    formatted_link = f"{link_name},,{full_link}"
-                    
-                    if formatted_link not in page_links and full_link != detail_url:
-                        page_links.append(formatted_link)
+            link_count = 1
+            for row in rows:
+                row_text = await row.inner_text()
+                if "Link" in row_text or "Watch" in row_text:
+                    # রো এর ভেতরে থাকা a ট্যাগ খোঁজা
+                    link_elem = await row.query_selector("a")
+                    if link_elem:
+                        href = await link_elem.get_attribute("href")
+                        if href:
+                            full_link = href if href.startswith("http") else "https://m.crichd.pk" + href
+                            formatted_link = f"Link{link_count},,{full_link}"
+                            if formatted_link not in page_links:
+                                page_links.append(formatted_link)
+                                link_count += 1
+                    else:
+                        # যদি সরাসরি a ট্যাগ না থাকে, পুরো রো তে ক্লিক করার ব্যবস্থা বা ডিফল্ট স্ট্রাকচার হ্যান্ডেল করা
+                        pass
+
+            # যদি ওপরের নিয়মে না পায়, সাধারণ সব a ট্যাগ চেক করা যাতে Watch বা Link আছে
+            if not page_links:
+                all_links = await page.query_selector_all("a")
+                for l in all_links:
+                    text = await l.inner_text()
+                    href = await l.get_attribute("href")
+                    if href and ("watch" in href.lower() or "stream" in href.lower() or "link" in text.lower()):
+                        full_link = href if href.startswith("http") else "https://m.crichd.pk" + href
+                        if full_link != detail_url and f"Link,,{full_link}" not in str(page_links):
+                            page_links.append(f"Link{len(page_links) + 1},,{full_link}")
 
     except Exception as e:
         print(f"Error for {match.get('detail_url')}: {e}")
 
     await page.close()
 
-    # ফরম্যাট তৈরি করা
+    # ফরম্যাট তৈরি করা (যেমন: Link1,,URL),Link2,,URL))
     multi_streaming_str = ")".join(page_links) + ")" if page_links else match.get("multi_streaming", "")
 
+    # আউটপুট থেকে detail_url বাদ দেওয়া হয়েছে
     return {
         "event_name": match.get("event_name", "Live Sports"),
         "team1_logo": match.get("team1_logo", ""),
@@ -68,7 +84,6 @@ async def fetch_match_details(context, match):
         "team2_name": match.get("team2_name", "Team 2"),
         "date_and_time": match_date_time if match_date_time != "N/A" else match.get("date_and_time", "CrichD"),
         "multi_streaming": multi_streaming_str,
-        "detail_url": match.get("detail_url", "")
     }
 
 async def main():
@@ -79,7 +94,7 @@ async def main():
         return
 
     matches_data = response.json()
-    print(f"মোট {len(matches_data)} টি ম্যাচ পাওয়া গেছে। আলাদা লিংকগুলো প্রসেস করা হচ্ছে...")
+    print(f"মোট {len(matches_data)} টি ম্যাচ পাওয়া গেছে। মাল্টি-পেজ লিংক সংগ্রহ করা হচ্ছে...")
 
     final_output = []
 
@@ -87,16 +102,17 @@ async def main():
         browser = await p.chromium.launch(headless=True)
         context = await browser.new_context()
 
+        # একসাথে সব পেজ প্রসেস করার জন্য টাস্ক
         tasks = [fetch_match_details(context, match) for match in matches_data]
         final_output = await asyncio.gather(*tasks)
 
         await browser.close()
 
-    # ফাইনাল ডেটা crichd_matches.json ফাইলে সেভ করা
+    # ফাইনাল ডেটা crichd_matches.json ফাইলে সেভ করা (detail_url ছাড়া)
     with open("crichd_matches.json", "w", encoding="utf-8") as f:
         json.dump(final_output, f, indent=4, ensure_ascii=False)
 
-    print("সফলভাবে প্রতিটি ম্যাচের আলাদা লিংকসহ 'crichd_matches.json' আপডেট করা হয়েছে!")
+    print("সফলভাবে `detail_url` বাদ দিয়ে এবং সঠিক মাল্টি-পেজ লিংকসহ ফাইল আপডেট করা হয়েছে!")
 
 if __name__ == "__main__":
     asyncio.run(main())
