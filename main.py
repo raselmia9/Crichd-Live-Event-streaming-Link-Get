@@ -12,6 +12,7 @@ async def fetch_match_details(context, match):
     await page.route("**/*.{png,jpg,jpeg,gif,css,svg}", lambda route: route.abort())
 
     match_date_time = "N/A"
+    # প্রথমে গিটহাব JSON থেকে আসা ইভেন্ট নাম বা ডিফল্ট মান ধরা
     event_title = match.get("event_name", "Live Sports")
     page_links = []
 
@@ -20,12 +21,24 @@ async def fetch_match_details(context, match):
         if detail_url:
             await page.goto(detail_url, timeout=20000)
 
-            # ১. সঠিক ইভেন্টের নাম সংগ্রহ করা (যেমন: French Ligue 1, LaLiga ইত্যাদি)
-            event_elem = await page.query_selector(".event-title, h3, h4, .league-name, div[style*='font']")
+            # ১. ডিটেইল পেজ থেকে সঠিক ইভেন্টের নাম সংগ্রহ করার নিখুঁত সিলেক্টর
+            # ক্রিকএইচডি পেজে ইভেন্ট বা লিগের নাম সাধারণত ওপরের দিকে বা লোগোর পাশে থাকে
+            event_elem = await page.query_selector(".event-title, h3, h4, .league-name, div[style*='font'], .panel-heading")
             if event_elem:
                 e_text = await event_elem.inner_text()
-                if e_text and len(e_text.strip()) > 2 and "UTC" not in e_text:
-                    event_title = e_text.strip().split("\n")[0]
+                if e_text and len(e_text.strip()) > 2:
+                    cleaned_text = e_text.strip().split("\n")[0]
+                    if "UTC" not in cleaned_text and "Starts" not in cleaned_text:
+                        event_title = cleaned_text
+
+            # যদি ওপরেরটায় না পায়, পেজের প্রথম হেডিং বা টেক্সট চেক করা
+            if event_title == "Live Sports" or not event_title:
+                h_tags = await page.query_selector_all("h1, h2, h3")
+                for h in h_tags:
+                    htext = await h.inner_text()
+                    if htext and len(htext.strip()) > 2 and "Live" not in htext and "UTC" not in htext:
+                        event_title = htext.strip().split("\n")[0]
+                        break
 
             # ২. সঠিক ডেট এবং টাইম সংগ্রহ করা
             date_elem = await page.query_selector(".date-time, .schedule-date, time, span")
@@ -59,7 +72,7 @@ async def fetch_match_details(context, match):
                                 page_links.append(formatted_link)
                                 link_count += 1
 
-            # যদি কোনো Watch বাটন বা টেবিল লিংক না থাকে, তবে নির্দিষ্ট টেক্সট বসবে
+            # যদি কোনো লিংক না থাকে, নির্দিষ্ট মেসেজ বসবে
             if not page_links:
                 page_links.append("Stream links will be activated before 1 hr of starting time.")
 
@@ -68,13 +81,13 @@ async def fetch_match_details(context, match):
 
     await page.close()
 
-    # ফরম্যাট তৈরি করা (যদি একাধিক লিংক থাকে তবে যুক্ত হবে, না হলে ওই মেসেজটি থাকবে)
+    # ফরম্যাট তৈরি করা
     if len(page_links) == 1 and "Stream links" in page_links[0]:
         multi_streaming_str = page_links[0]
     else:
         multi_streaming_str = ")".join(page_links) + ")" if page_links else "Stream links will be activated before 1 hr of starting time."
 
-    # ফাইনাল ডিকশনারি (detail_url বাদ দেওয়া হয়েছে)
+    # ফাইনাল আউটপুট (detail_url বাদ দিয়ে)
     return {
         "event_name": event_title,
         "team1_logo": match.get("team1_logo", ""),
@@ -93,7 +106,7 @@ async def main():
         return
 
     matches_data = response.json()
-    print(f"মোট {len(matches_data)} টি ম্যাচ পাওয়া গেছে। তথ্য প্রসেস করা হচ্ছে...")
+    print(f"মোট {len(matches_data)} টি ম্যাচ পাওয়া গেছে। ডেটা প্রসেস করা হচ্ছে...")
 
     final_output = []
 
@@ -110,7 +123,7 @@ async def main():
     with open("crichd_matches.json", "w", encoding="utf-8") as f:
         json.dump(final_output, f, indent=4, ensure_ascii=False)
 
-    print("সফলভাবে সঠিক ইভেন্ট নাম, টাইম এবং লিংক/মেসেজসহ ফাইল আপডেট করা হয়েছে!")
+    print("সফলভাবে সঠিক ইভেন্ট নামসহ ফাইল আপডেট করা হয়েছে!")
 
 if __name__ == "__main__":
     asyncio.run(main())
