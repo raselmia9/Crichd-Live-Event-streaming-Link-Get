@@ -54,42 +54,6 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/newcastle-united-vs-west-brom/1451)Link2,,https://crichd.pk/charlie/newcastle-united-vs-west-brom/1452)"
     },
     {
-        "event_name": "EFL",
-        "team1_logo": "https://cdn.img4every1.org/team/preston-north-end/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-        "team1_name": "Preston North EndEverton",
-        "team2_name": "Preston North End",
-        "date_and_time": "Aug 26, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/preston-vs-everton/1449)Link2,,https://crichd.pk/charlie/preston-vs-everton/1450)"
-    },
-    {
-        "event_name": "EFL",
-        "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/luton-town/logo.webp",
-        "team1_name": "ChelseaLuton Town",
-        "team2_name": "Chelsea",
-        "date_and_time": "Aug 27, 2026 at 06:30 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "EFL",
-        "team1_logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/afc-wimbledon/logo.webp",
-        "team1_name": "FulhamAFC Wimbledon",
-        "team2_name": "Fulham",
-        "date_and_time": "Aug 27, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "EFL",
-        "team1_logo": "https://cdn.img4every1.org/team/birmingham-city/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
-        "team1_name": "Birmingham CityWrexham",
-        "team2_name": "Birmingham City",
-        "date_and_time": "Aug 28, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
         "event_name": "Champions League",
         "team1_logo": "https://cdn.img4every1.org/team/levski-sofia/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/aek-athens/logo.webp",
@@ -124,6 +88,15 @@
         "team2_name": "Fenerbahçe",
         "date_and_time": "Aug 26, 2026 at 07:00 PM UTC",
         "multi_streaming": "Link1,,https://crichd.pk/charlie/fenerbahce-vs-lyon/1447)"
+    },
+    {
+        "event_name": "EFL",
+        "team1_logo": "https://cdn.img4every1.org/team/preston-north-end/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/everton/logo.webp",
+        "team1_name": "Preston North EndEverton",
+        "team2_name": "Preston North End",
+        "date_and_time": "Aug 26, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/preston-vs-everton/1449)Link2,,https://crichd.pk/charlie/preston-vs-everton/1450)"
     },
     {
         "event_name": "Champions League",
@@ -204,6 +177,33 @@
         "team1_name": "Real MadridMálaga",
         "team2_name": "Real Madrid",
         "date_and_time": "Aug 30, 2026 at 03:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "EFL",
+        "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/luton-town/logo.webp",
+        "team1_name": "ChelseaLuton Town",
+        "team2_name": "Chelsea",
+        "date_and_time": "Aug 27, 2026 at 06:30 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "EFL",
+        "team1_logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/afc-wimbledon/logo.webp",
+        "team1_name": "FulhamAFC Wimbledon",
+        "team2_name": "Fulham",
+        "date_and_time": "Aug 27, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "EFL",
+        "team1_logo": "https://cdn.img4every1.org/team/birmingham-city/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
+        "team1_name": "Birmingham CityWrexham",
+        "team2_name": "Birmingham City",
+        "date_and_time": "Aug 28, 2026 at 07:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
