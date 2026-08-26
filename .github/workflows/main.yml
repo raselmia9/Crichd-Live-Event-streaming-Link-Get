@@ -1,9 +1,9 @@
-name: Crichd Stream Scraper
+name: Crichd Multi-Page Scraper
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */3 * * *' # প্রতি ৩ ঘণ্টা পর পর অটোমেটিক রান হবে
+    - cron: '*/30 * * * *' # প্রতি ৩০ মিনিট পর পর অটোমেটিক রান হবে
 
 jobs:
   scrape:
@@ -32,6 +32,5 @@ jobs:
         git config --global user.name "GitHub Action"
         git config --global user.email "action@github.com"
         git add crichd_matches.json
-        git commit -m "Auto-update streaming links [skip ci]" || exit 0
+        git commit -m "Auto-update multi-page links every 30 mins [skip ci]" || exit 0
         git push
-        
