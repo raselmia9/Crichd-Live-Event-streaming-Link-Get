@@ -3,7 +3,7 @@ name: Crichd Multi-Page Scraper
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/30 * * * *' # প্রতি ৩০ মিনিট পর পর অটোমেটিক রান হবে
+    - cron: '*/10 * * * *' # প্রতি ৩০ মিনিট পর পর অটোমেটিক রান হবে
 
 jobs:
   scrape:
