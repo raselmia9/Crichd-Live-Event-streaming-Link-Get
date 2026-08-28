@@ -27,42 +27,6 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/us-open-2026/1437)Link2,,https://crichd.pk/charlie/us-open-2026/1438)Link3,,https://crichd.pk/charlie/us-open-2026/1439)Link4,,https://crichd.pk/charlie/us-open-2026/1440)"
     },
     {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "team1_name": "Celta de VigoOsasuna",
-        "team2_name": "Celta de Vigo",
-        "date_and_time": "Aug 27, 2026 at 06:30 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/celta-vigo-vs-osasuna/1462)Link2,,https://crichd.pk/charlie/celta-vigo-vs-osasuna/1463)"
-    },
-    {
-        "event_name": "EFL",
-        "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/luton-town/logo.webp",
-        "team1_name": "ChelseaLuton Town",
-        "team2_name": "Chelsea",
-        "date_and_time": "Aug 27, 2026 at 06:30 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/chelsea-vs-luton-town/1464)"
-    },
-    {
-        "event_name": "EFL",
-        "team1_logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/afc-wimbledon/logo.webp",
-        "team1_name": "FulhamAFC Wimbledon",
-        "team2_name": "Fulham",
-        "date_and_time": "Aug 27, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/fulham-vs-wimbledon/1472)Link2,,https://crichd.pk/charlie/fulham-vs-wimbledon/1473)"
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "team1_name": "FC BarcelonaAthletic Club",
-        "team2_name": "FC Barcelona",
-        "date_and_time": "Aug 27, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/barcelona-vs-athletic-club/1466)Link2,,https://crichd.pk/charlie/barcelona-vs-athletic-club/1467)Link3,,https://crichd.pk/charlie/barcelona-vs-athletic-club/1468)Link4,,https://crichd.pk/charlie/barcelona-vs-athletic-club/1469)Link5,,https://crichd.pk/charlie/barcelona-vs-athletic-club/1470)Link6,,https://crichd.pk/charlie/barcelona-vs-athletic-club/1471)"
-    },
-    {
         "event_name": "MotoGP",
         "team1_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
@@ -78,7 +42,7 @@
         "team1_name": "Racing SantanderElche CF",
         "team2_name": "Racing Santander",
         "date_and_time": "Aug 28, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/racing-vs-elche/1481)Link2,,https://crichd.pk/charlie/racing-vs-elche/1482)Link3,,https://crichd.pk/charlie/racing-vs-elche/1483)Link4,,https://crichd.pk/charlie/racing-vs-elche/1484)"
     },
     {
         "event_name": "LaLiga",
@@ -87,7 +51,7 @@
         "team1_name": "Deportivo AlavésVillarreal",
         "team2_name": "Deportivo Alavés",
         "date_and_time": "Aug 28, 2026 at 07:30 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/alaves-vs-villarreal/1485)Link2,,https://crichd.pk/charlie/alaves-vs-villarreal/1486)Link3,,https://crichd.pk/charlie/alaves-vs-villarreal/1487)Link4,,https://crichd.pk/charlie/alaves-vs-villarreal/1488)"
     },
     {
         "event_name": "LaLiga",
@@ -150,7 +114,7 @@
         "team1_name": "Bayern MünchenStuttgart",
         "team2_name": "Bayern München",
         "date_and_time": "Aug 28, 2026 at 06:30 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/bayern-munchen-vs-stuttgart/1479)"
     },
     {
         "event_name": "French Ligue 1",
@@ -159,7 +123,7 @@
         "team1_name": "PSGLille",
         "team2_name": "PSG",
         "date_and_time": "Aug 28, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/psg-vs-lille/1489)Link2,,https://crichd.pk/charlie/psg-vs-lille/1490)"
     },
     {
         "event_name": "Serie A",
@@ -168,7 +132,7 @@
         "team1_name": "AC MilanVenezia",
         "team2_name": "AC Milan",
         "date_and_time": "Aug 28, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/ac-milan-vs-venezia/1480)"
     },
     {
         "event_name": "Serie A",
@@ -204,7 +168,7 @@
         "team1_name": "Manchester CityCrystal Palace",
         "team2_name": "Manchester City",
         "date_and_time": "Aug 28, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/manchester-city-vs-crystal-palace/1474)Link2,,https://crichd.pk/charlie/manchester-city-vs-crystal-palace/1475)Link3,,https://crichd.pk/charlie/manchester-city-vs-crystal-palace/1476)Link4,,https://crichd.pk/charlie/manchester-city-vs-crystal-palace/1477)Link5,,https://crichd.pk/charlie/manchester-city-vs-crystal-palace/1478)"
     },
     {
         "event_name": "Premier League",
@@ -285,6 +249,6 @@
         "team1_name": "Sporting CPRio Ave",
         "team2_name": "Sporting CP",
         "date_and_time": "Aug 28, 2026 at 07:15 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/sporting-cp-vs-rio-ave/1491)"
     }
 ]
