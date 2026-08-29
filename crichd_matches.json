@@ -9,15 +9,6 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/hockey-world-cup-2026/1260)Link2,,https://crichd.pk/charlie/hockey-world-cup-2026/1261)"
     },
     {
-        "event_name": "Snooker",
-        "team1_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "team1_name": "Wuhan OpenSnooker",
-        "team2_name": "Wuhan Open",
-        "date_and_time": "Aug 24, 2026 at 06:00 AM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/wuhan-open/1400)Link2,,https://crichd.pk/charlie/wuhan-open/1401)"
-    },
-    {
         "event_name": "ATP Tour",
         "team1_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
@@ -36,31 +27,22 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/motogp-grand-prix-of-aragon/1461)"
     },
     {
-        "event_name": "Premier League",
-        "team1_logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
-        "team1_name": "Nottingham Forest",
-        "team2_name": "Team 2",
-        "date_and_time": "Aug 29, 2026 at 11:30 AM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/liverpool-vs-nottm-forest/1497)Link2,,https://crichd.pk/charlie/liverpool-vs-nottm-forest/1498)Link3,,https://crichd.pk/charlie/liverpool-vs-nottm-forest/1499)Link4,,https://crichd.pk/charlie/liverpool-vs-nottm-forest/1500)Link5,,https://crichd.pk/charlie/liverpool-vs-nottm-forest/1501)"
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "team1_name": "Real BetisLevante",
+        "team2_name": "Real Betis",
+        "date_and_time": "Aug 29, 2026 at 03:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/real-betis-vs-levante/1506)Link2,,https://crichd.pk/charlie/real-betis-vs-levante/1507)Link3,,https://crichd.pk/charlie/real-betis-vs-levante/1508)Link4,,https://crichd.pk/charlie/real-betis-vs-levante/1509)"
     },
     {
-        "event_name": "Premier League",
-        "team1_logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
-        "team1_name": "Hull CityCoventry City",
-        "team2_name": "Hull City",
-        "date_and_time": "Aug 29, 2026 at 02:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/hull-city-vs-coventry-city/1502)Link2,,https://crichd.pk/charlie/hull-city-vs-coventry-city/1503)"
-    },
-    {
-        "event_name": "Premier League",
-        "team1_logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
-        "team1_name": "EvertonAFC Bournemouth",
-        "team2_name": "Everton",
-        "date_and_time": "Aug 29, 2026 at 02:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/everton-vs-bournemouth/1504)Link2,,https://crichd.pk/charlie/everton-vs-bournemouth/1505)"
+        "event_name": "Serie A",
+        "team1_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/torino/logo.webp",
+        "team1_name": "SassuoloTorino",
+        "team2_name": "Sassuolo",
+        "date_and_time": "Aug 29, 2026 at 04:30 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/sassuolo-vs-torino/1510)"
     },
     {
         "event_name": "Premier League",
@@ -72,60 +54,6 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/spurs-vs-newcastle/1511)Link2,,https://crichd.pk/charlie/spurs-vs-newcastle/1512)Link3,,https://crichd.pk/charlie/spurs-vs-newcastle/1513)Link4,,https://crichd.pk/charlie/spurs-vs-newcastle/1514)Link5,,https://crichd.pk/charlie/spurs-vs-newcastle/1515)"
     },
     {
-        "event_name": "Premier League",
-        "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
-        "team1_name": "ChelseaBrighton & Hove Albion",
-        "team2_name": "Chelsea",
-        "date_and_time": "Aug 30, 2026 at 01:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Premier League",
-        "team1_logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
-        "team1_name": "BrentfordLeeds United",
-        "team2_name": "Brentford",
-        "date_and_time": "Aug 30, 2026 at 01:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Premier League",
-        "team1_logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
-        "team1_name": "FulhamSunderland",
-        "team2_name": "Fulham",
-        "date_and_time": "Aug 30, 2026 at 01:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Premier League",
-        "team1_logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
-        "team1_name": "Manchester UnitedIpswich Town",
-        "team2_name": "Manchester United",
-        "date_and_time": "Aug 30, 2026 at 03:30 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Premier League",
-        "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "team1_name": "ArsenalAston Villa",
-        "team2_name": "Arsenal",
-        "date_and_time": "Aug 31, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "team1_name": "Real BetisLevante",
-        "team2_name": "Real Betis",
-        "date_and_time": "Aug 29, 2026 at 03:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/real-betis-vs-levante/1506)Link2,,https://crichd.pk/charlie/real-betis-vs-levante/1507)Link3,,https://crichd.pk/charlie/real-betis-vs-levante/1508)Link4,,https://crichd.pk/charlie/real-betis-vs-levante/1509)"
-    },
-    {
         "event_name": "LaLiga",
         "team1_logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
@@ -135,13 +63,31 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/espanyol-vs-real-sociedad/1516)Link2,,https://crichd.pk/charlie/espanyol-vs-real-sociedad/1517)"
     },
     {
+        "event_name": "Serie A",
+        "team1_logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/parma/logo.webp",
+        "team1_name": "JuventusParma",
+        "team2_name": "Juventus",
+        "date_and_time": "Aug 29, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/juventus-vs-parma/1518)Link2,,https://crichd.pk/charlie/juventus-vs-parma/1519)"
+    },
+    {
+        "event_name": "Serie A",
+        "team1_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
+        "team1_name": "Inter MilanCagliari",
+        "team2_name": "Inter Milan",
+        "date_and_time": "Aug 30, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
         "event_name": "LaLiga",
         "team1_logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
         "team1_name": "SevillaAtlético Madrid",
         "team2_name": "Sevilla",
         "date_and_time": "Aug 29, 2026 at 07:30 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/sevilla-vs-atletico-madrid/1520)Link2,,https://crichd.pk/charlie/sevilla-vs-atletico-madrid/1521)Link3,,https://crichd.pk/charlie/sevilla-vs-atletico-madrid/1522)"
     },
     {
         "event_name": "LaLiga",
@@ -189,30 +135,48 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/torino/logo.webp",
-        "team1_name": "SassuoloTorino",
-        "team2_name": "Sassuolo",
-        "date_and_time": "Aug 29, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/sassuolo-vs-torino/1510)"
-    },
-    {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/parma/logo.webp",
-        "team1_name": "JuventusParma",
-        "team2_name": "Juventus",
-        "date_and_time": "Aug 29, 2026 at 06:45 PM UTC",
+        "event_name": "Premier League",
+        "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+        "team1_name": "ChelseaBrighton & Hove Albion",
+        "team2_name": "Chelsea",
+        "date_and_time": "Aug 30, 2026 at 01:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
-        "team1_name": "Inter MilanCagliari",
-        "team2_name": "Inter Milan",
-        "date_and_time": "Aug 30, 2026 at 06:45 PM UTC",
+        "event_name": "Premier League",
+        "team1_logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
+        "team1_name": "BrentfordLeeds United",
+        "team2_name": "Brentford",
+        "date_and_time": "Aug 30, 2026 at 01:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Premier League",
+        "team1_logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
+        "team1_name": "FulhamSunderland",
+        "team2_name": "Fulham",
+        "date_and_time": "Aug 30, 2026 at 01:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Premier League",
+        "team1_logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
+        "team1_name": "Manchester UnitedIpswich Town",
+        "team2_name": "Manchester United",
+        "date_and_time": "Aug 30, 2026 at 03:30 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Premier League",
+        "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "team1_name": "ArsenalAston Villa",
+        "team2_name": "Arsenal",
+        "date_and_time": "Aug 31, 2026 at 07:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     }
 ]
