@@ -9,42 +9,6 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/us-open-2026/1437)Link2,,https://crichd.pk/charlie/us-open-2026/1438)Link3,,https://crichd.pk/charlie/us-open-2026/1439)Link4,,https://crichd.pk/charlie/us-open-2026/1440)"
     },
     {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/como/logo.webp",
-        "team1_name": "NapoliComo",
-        "team2_name": "Napoli",
-        "date_and_time": "Aug 30, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/napoli-vs-como/1537)Link2,,https://crichd.pk/charlie/napoli-vs-como/1539)"
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
-        "team1_name": "Deportivo La CoruñaValencia",
-        "team2_name": "Deportivo La Coruña",
-        "date_and_time": "Aug 30, 2026 at 05:30 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/deportivo-la-coruna-vs-valencia/1548)Link2,,https://crichd.pk/charlie/deportivo-la-coruna-vs-valencia/1549)Link3,,https://crichd.pk/charlie/deportivo-la-coruna-vs-valencia/1550)Link4,,https://crichd.pk/charlie/deportivo-la-coruna-vs-valencia/1551)"
-    },
-    {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "team1_name": "GenoaLazio",
-        "team2_name": "Genoa",
-        "date_and_time": "Aug 30, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/genoa-vs-lazio/1540)"
-    },
-    {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
-        "team1_name": "Inter MilanCagliari",
-        "team2_name": "Inter Milan",
-        "date_and_time": "Aug 30, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/inter-milan-vs-cagliari/1541)Link2,,https://crichd.pk/charlie/inter-milan-vs-cagliari/1542)"
-    },
-    {
         "event_name": "LaLiga",
         "team1_logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
@@ -81,12 +45,30 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "team1_name": "Real MadridReal Betis",
+        "team2_name": "Real Madrid",
+        "date_and_time": "Sep 04, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
         "event_name": "Premier League",
         "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
         "team1_name": "ArsenalAston Villa",
         "team2_name": "Arsenal",
         "date_and_time": "Aug 31, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Premier League",
+        "team1_logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
+        "team1_name": "Ipswich Town",
+        "team2_name": "Team 2",
+        "date_and_time": "Sep 04, 2026 at 07:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     }
 ]
