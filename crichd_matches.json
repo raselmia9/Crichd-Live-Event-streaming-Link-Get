@@ -1,5 +1,23 @@
 [
     {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "team1_name": "Real MadridMálaga",
+        "team2_name": "Real Madrid",
+        "date_and_time": "Aug 30, 2026 at 03:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/real-madrid-vs-malaga/1532)Link2,,https://crichd.pk/charlie/real-madrid-vs-malaga/1533)Link3,,https://crichd.pk/charlie/real-madrid-vs-malaga/1534)Link4,,https://crichd.pk/charlie/real-madrid-vs-malaga/1535)Link5,,https://crichd.pk/charlie/real-madrid-vs-malaga/1536)"
+    },
+    {
+        "event_name": "Premier League",
+        "team1_logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
+        "team1_name": "Manchester UnitedIpswich Town",
+        "team2_name": "Manchester United",
+        "date_and_time": "Aug 30, 2026 at 03:30 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/manchester-united-vs-ipswich/1543)Link2,,https://crichd.pk/charlie/manchester-united-vs-ipswich/1544)Link3,,https://crichd.pk/charlie/manchester-united-vs-ipswich/1545)Link4,,https://crichd.pk/charlie/manchester-united-vs-ipswich/1546)Link5,,https://crichd.pk/charlie/manchester-united-vs-ipswich/1547)"
+    },
+    {
         "event_name": "FIH Hockey World Cup",
         "team1_logo": "https://cdn.img4every1.org/league/fih-hockey-world-cup/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/fih-hockey-world-cup/logo.webp",
@@ -16,15 +34,6 @@
         "team2_name": "US Open 2026",
         "date_and_time": "Aug 24, 2026 at 02:00 PM UTC",
         "multi_streaming": "Link1,,https://crichd.pk/charlie/us-open-2026/1437)Link2,,https://crichd.pk/charlie/us-open-2026/1438)Link3,,https://crichd.pk/charlie/us-open-2026/1439)Link4,,https://crichd.pk/charlie/us-open-2026/1440)"
-    },
-    {
-        "event_name": "MotoGP",
-        "team1_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-        "team1_name": "MotoGP Grand Prix of AragonMotoGP",
-        "team2_name": "MotoGP Grand Prix of Aragon",
-        "date_and_time": "Aug 28, 2026 at 07:00 AM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/motogp-grand-prix-of-aragon/1461)"
     },
     {
         "event_name": "Premier League",
@@ -54,31 +63,31 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/fulham-vs-sunderland/1527)Link2,,https://crichd.pk/charlie/fulham-vs-sunderland/1528)"
     },
     {
-        "event_name": "Premier League",
-        "team1_logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
-        "team1_name": "Manchester UnitedIpswich Town",
-        "team2_name": "Manchester United",
-        "date_and_time": "Aug 30, 2026 at 03:30 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/manchester-united-vs-ipswich/1543)Link2,,https://crichd.pk/charlie/manchester-united-vs-ipswich/1544)Link3,,https://crichd.pk/charlie/manchester-united-vs-ipswich/1545)Link4,,https://crichd.pk/charlie/manchester-united-vs-ipswich/1546)Link5,,https://crichd.pk/charlie/manchester-united-vs-ipswich/1547)"
+        "event_name": "Serie A",
+        "team1_logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/como/logo.webp",
+        "team1_name": "NapoliComo",
+        "team2_name": "Napoli",
+        "date_and_time": "Aug 30, 2026 at 04:30 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/napoli-vs-como/1537)Link2,,https://crichd.pk/charlie/napoli-vs-como/1539)"
     },
     {
-        "event_name": "Premier League",
-        "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "team1_name": "ArsenalAston Villa",
-        "team2_name": "Arsenal",
-        "date_and_time": "Aug 31, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "event_name": "Serie A",
+        "team1_logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+        "team1_name": "GenoaLazio",
+        "team2_name": "Genoa",
+        "date_and_time": "Aug 30, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/genoa-vs-lazio/1540)"
     },
     {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
-        "team1_name": "Real MadridMálaga",
-        "team2_name": "Real Madrid",
-        "date_and_time": "Aug 30, 2026 at 03:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/real-madrid-vs-malaga/1532)Link2,,https://crichd.pk/charlie/real-madrid-vs-malaga/1533)Link3,,https://crichd.pk/charlie/real-madrid-vs-malaga/1534)Link4,,https://crichd.pk/charlie/real-madrid-vs-malaga/1535)Link5,,https://crichd.pk/charlie/real-madrid-vs-malaga/1536)"
+        "event_name": "Serie A",
+        "team1_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
+        "team1_name": "Inter MilanCagliari",
+        "team2_name": "Inter Milan",
+        "date_and_time": "Aug 30, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/inter-milan-vs-cagliari/1541)Link2,,https://crichd.pk/charlie/inter-milan-vs-cagliari/1542)"
     },
     {
         "event_name": "LaLiga",
@@ -96,7 +105,7 @@
         "team1_name": "Celta de VigoAthletic Club",
         "team2_name": "Celta de Vigo",
         "date_and_time": "Aug 30, 2026 at 07:30 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/celta-vigo-vs-athletic-club/1552)Link2,,https://crichd.pk/charlie/celta-vigo-vs-athletic-club/1553)Link3,,https://crichd.pk/charlie/celta-vigo-vs-athletic-club/1554)Link4,,https://crichd.pk/charlie/celta-vigo-vs-athletic-club/1555)"
     },
     {
         "event_name": "LaLiga",
@@ -126,12 +135,12 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
-        "team1_name": "Inter MilanCagliari",
-        "team2_name": "Inter Milan",
-        "date_and_time": "Aug 30, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/inter-milan-vs-cagliari/1541)Link2,,https://crichd.pk/charlie/inter-milan-vs-cagliari/1542)"
+        "event_name": "Premier League",
+        "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "team1_name": "ArsenalAston Villa",
+        "team2_name": "Arsenal",
+        "date_and_time": "Aug 31, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     }
 ]
