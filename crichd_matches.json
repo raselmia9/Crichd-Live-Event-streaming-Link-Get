@@ -1,5 +1,14 @@
 [
     {
+        "event_name": "Premier League",
+        "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "team1_name": "ArsenalAston Villa",
+        "team2_name": "Arsenal",
+        "date_and_time": "Aug 31, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/arsenal-vs-aston-villa/1557)Link2,,https://crichd.pk/charlie/arsenal-vs-aston-villa/1558)Link3,,https://crichd.pk/charlie/arsenal-vs-aston-villa/1559)Link4,,https://crichd.pk/charlie/arsenal-vs-aston-villa/1560)Link5,,https://crichd.pk/charlie/arsenal-vs-aston-villa/1561)Link6,,https://crichd.pk/charlie/arsenal-vs-aston-villa/1562)"
+    },
+    {
         "event_name": "ATP Tour",
         "team1_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
@@ -9,6 +18,24 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/us-open-2026/1437)Link2,,https://crichd.pk/charlie/us-open-2026/1438)Link3,,https://crichd.pk/charlie/us-open-2026/1439)Link4,,https://crichd.pk/charlie/us-open-2026/1440)"
     },
     {
+        "event_name": "Snooker",
+        "team1_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+        "team1_name": "British OpenSnooker",
+        "team2_name": "British Open",
+        "date_and_time": "Aug 31, 2026 at 12:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/british-open/1556)"
+    },
+    {
+        "event_name": "Serie A",
+        "team1_logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
+        "team1_name": "AS RomaLecce",
+        "team2_name": "AS Roma",
+        "date_and_time": "Aug 31, 2026 at 04:30 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/roma-vs-lecce/1572)Link2,,https://crichd.pk/charlie/roma-vs-lecce/1573)"
+    },
+    {
         "event_name": "LaLiga",
         "team1_logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
@@ -16,6 +43,15 @@
         "team2_name": "Getafe",
         "date_and_time": "Aug 31, 2026 at 05:30 PM UTC",
         "multi_streaming": "Link1,,https://crichd.pk/charlie/getafe-vs-osasuna/1563)Link2,,https://crichd.pk/charlie/getafe-vs-osasuna/1564)Link3,,https://crichd.pk/charlie/getafe-vs-osasuna/1565)Link4,,https://crichd.pk/charlie/getafe-vs-osasuna/1566)"
+    },
+    {
+        "event_name": "Serie A",
+        "team1_logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
+        "team1_name": "AtalantaBologna",
+        "team2_name": "Atalanta",
+        "date_and_time": "Aug 31, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/atalanta-vs-bologna/1574)Link2,,https://crichd.pk/charlie/atalanta-vs-bologna/1575)"
     },
     {
         "event_name": "LaLiga",
@@ -45,13 +81,40 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Premier League",
-        "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "team1_name": "ArsenalAston Villa",
-        "team2_name": "Arsenal",
-        "date_and_time": "Aug 31, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/arsenal-vs-aston-villa/1557)Link2,,https://crichd.pk/charlie/arsenal-vs-aston-villa/1558)Link3,,https://crichd.pk/charlie/arsenal-vs-aston-villa/1559)Link4,,https://crichd.pk/charlie/arsenal-vs-aston-villa/1560)Link5,,https://crichd.pk/charlie/arsenal-vs-aston-villa/1561)Link6,,https://crichd.pk/charlie/arsenal-vs-aston-villa/1562)"
+        "event_name": "Coppa Italia",
+        "team1_logo": "https://cdn.img4every1.org/team/cremonese/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/parma/logo.webp",
+        "team1_name": "CremoneseParma",
+        "team2_name": "Cremonese",
+        "date_and_time": "Sep 01, 2026 at 04:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/cremonese-vs-parma/1576)"
+    },
+    {
+        "event_name": "Coppa Italia",
+        "team1_logo": "https://cdn.img4every1.org/team/torino/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/monza/logo.webp",
+        "team1_name": "TorinoMonza",
+        "team2_name": "Torino",
+        "date_and_time": "Sep 01, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/torino-vs-monza/1577)"
+    },
+    {
+        "event_name": "EFL",
+        "team1_logo": "https://cdn.img4every1.org/team/stoke-city/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/norwich-city/logo.webp",
+        "team1_name": "Stoke CityNorwich City",
+        "team2_name": "Stoke City",
+        "date_and_time": "Sep 01, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/stoke-city-vs-norwich-city/1578)Link2,,https://crichd.pk/charlie/stoke-city-vs-norwich-city/1579)"
+    },
+    {
+        "event_name": "Saudi Pro League",
+        "team1_logo": "https://cdn.img4every1.org/team/al-hilal/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/al-ahli/logo.webp",
+        "team1_name": "Al HilalAl Ahli",
+        "team2_name": "Al Hilal",
+        "date_and_time": "Sep 01, 2026 at 11:15 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/al-hilal-vs-al-ahli/1580)"
     },
     {
         "event_name": "Premier League",
