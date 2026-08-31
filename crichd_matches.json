@@ -10,15 +10,6 @@
     },
     {
         "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "team1_name": "Celta de VigoAthletic Club",
-        "team2_name": "Celta de Vigo",
-        "date_and_time": "Aug 30, 2026 at 07:30 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/celta-vigo-vs-athletic-club/1552)Link2,,https://crichd.pk/charlie/celta-vigo-vs-athletic-club/1553)Link3,,https://crichd.pk/charlie/celta-vigo-vs-athletic-club/1554)Link4,,https://crichd.pk/charlie/celta-vigo-vs-athletic-club/1555)"
-    },
-    {
-        "event_name": "LaLiga",
         "team1_logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
         "team1_name": "GetafeOsasuna",
