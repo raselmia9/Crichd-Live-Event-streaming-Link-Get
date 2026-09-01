@@ -27,33 +27,6 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/cremonese-vs-parma/1576)Link2,,https://crichd.pk/charlie/cremonese-vs-parma/1590)Link3,,https://crichd.pk/charlie/cremonese-vs-parma/1591)Link4,,https://crichd.pk/charlie/cremonese-vs-parma/1592)"
     },
     {
-        "event_name": "Coppa Italia",
-        "team1_logo": "https://cdn.img4every1.org/team/torino/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/monza/logo.webp",
-        "team1_name": "TorinoMonza",
-        "team2_name": "Torino",
-        "date_and_time": "Sep 01, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/torino-vs-monza/1577)Link2,,https://crichd.pk/charlie/torino-vs-monza/1593)Link3,,https://crichd.pk/charlie/torino-vs-monza/1594)"
-    },
-    {
-        "event_name": "Coppa Italia",
-        "team1_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
-        "team1_name": "SassuoloFrosinone Calcio",
-        "team2_name": "Sassuolo",
-        "date_and_time": "Sep 02, 2026 at 01:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/sassuolo-vs-frosinone/1585)"
-    },
-    {
-        "event_name": "Coppa Italia",
-        "team1_logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
-        "team1_name": "VeneziaUdinese",
-        "team2_name": "Venezia",
-        "date_and_time": "Sep 02, 2026 at 04:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/venezia-vs-udinese/1586)"
-    },
-    {
         "event_name": "EFL",
         "team1_logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
@@ -106,6 +79,33 @@
         "team2_name": "Bayern München",
         "date_and_time": "Sep 02, 2026 at 06:45 PM UTC",
         "multi_streaming": "Link1,,https://crichd.pk/charlie/bayern-munich-vs-osnabruck/1584)"
+    },
+    {
+        "event_name": "Coppa Italia",
+        "team1_logo": "https://cdn.img4every1.org/team/torino/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/monza/logo.webp",
+        "team1_name": "TorinoMonza",
+        "team2_name": "Torino",
+        "date_and_time": "Sep 01, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/torino-vs-monza/1577)Link2,,https://crichd.pk/charlie/torino-vs-monza/1593)Link3,,https://crichd.pk/charlie/torino-vs-monza/1594)"
+    },
+    {
+        "event_name": "Coppa Italia",
+        "team1_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
+        "team1_name": "SassuoloFrosinone Calcio",
+        "team2_name": "Sassuolo",
+        "date_and_time": "Sep 02, 2026 at 01:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/sassuolo-vs-frosinone/1585)"
+    },
+    {
+        "event_name": "Coppa Italia",
+        "team1_logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
+        "team1_name": "VeneziaUdinese",
+        "team2_name": "Venezia",
+        "date_and_time": "Sep 02, 2026 at 04:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/venezia-vs-udinese/1586)"
     },
     {
         "event_name": "Saudi Pro League",
