@@ -18,31 +18,58 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/british-open/1556)"
     },
     {
-        "event_name": "DFB Pokal",
-        "team1_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/osnabruck/logo.webp",
-        "team1_name": "Bayern MünchenOsnabrück",
-        "team2_name": "Bayern München",
-        "date_and_time": "Sep 02, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/bayern-munich-vs-osnabruck/1584)Link2,,https://crichd.pk/charlie/bayern-munich-vs-osnabruck/1596)"
+        "event_name": "NRL",
+        "team1_logo": "https://cdn.img4every1.org/team/dolphins-nrl/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/gold-coast-titans/logo.webp",
+        "team1_name": "DolphinsGold Coast Titans",
+        "team2_name": "Dolphins",
+        "date_and_time": "Sep 03, 2026 at 08:00 AM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/dolphins-vs-titans/1611)Link2,,https://crichd.pk/charlie/dolphins-vs-titans/1612)"
     },
     {
-        "event_name": "EFL",
-        "team1_logo": "https://cdn.img4every1.org/team/millwall-fc/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
-        "team1_name": "Millwall FCWrexham",
-        "team2_name": "Millwall FC",
-        "date_and_time": "Sep 02, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/millwall-vs-wrexham/1589)"
+        "event_name": "NRL",
+        "team1_logo": "https://cdn.img4every1.org/team/canterbury-bulldogs/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/brisbane-broncos/logo.webp",
+        "team1_name": "Canterbury BulldogsBrisbane Broncos",
+        "team2_name": "Canterbury Bulldogs",
+        "date_and_time": "Sep 03, 2026 at 09:45 AM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/canterbury-bulldogs-vs-brisbane-broncos/1605)Link2,,https://crichd.pk/charlie/canterbury-bulldogs-vs-brisbane-broncos/1606)"
     },
     {
-        "event_name": "EFL",
-        "team1_logo": "https://cdn.img4every1.org/team/burnley-fc/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/middlesbrough/logo.webp",
-        "team1_name": "Burnley FCMiddlesbrough",
-        "team2_name": "Burnley FC",
-        "date_and_time": "Sep 02, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/burnley-vs-middlesbrough/1587)Link2,,https://crichd.pk/charlie/burnley-vs-middlesbrough/1588)"
+        "event_name": "NRL",
+        "team1_logo": "https://cdn.img4every1.org/team/south-sydney-rabbitohs/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/sydney-roosters/logo.webp",
+        "team1_name": "South Sydney RabbitohsSydney Roosters",
+        "team2_name": "South Sydney Rabbitohs",
+        "date_and_time": "Sep 04, 2026 at 10:00 AM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/rabbitohs-vs-roosters/1614)Link2,,https://crichd.pk/charlie/rabbitohs-vs-roosters/1615)Link3,,https://crichd.pk/charlie/rabbitohs-vs-roosters/1616)"
+    },
+    {
+        "event_name": "AFL",
+        "team1_logo": "https://cdn.img4every1.org/team/fremantle/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/hawthorn-hawks/logo.webp",
+        "team1_name": "FremantleHawthorn Hawks",
+        "team2_name": "Fremantle",
+        "date_and_time": "Sep 03, 2026 at 10:00 AM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/fremantle-vs-hawthorn/1604)"
+    },
+    {
+        "event_name": "AFL",
+        "team1_logo": "https://cdn.img4every1.org/team/geelong-cats/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/carlton/logo.webp",
+        "team1_name": "Geelong CatsCarlton",
+        "team2_name": "Geelong Cats",
+        "date_and_time": "Sep 04, 2026 at 09:30 AM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/geelong-cats-vs-carlton/1613)"
+    },
+    {
+        "event_name": "PGA Tour",
+        "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team1_name": "Omega European MastersPGA Tour",
+        "team2_name": "Omega European Masters",
+        "date_and_time": "Sep 03, 2026 at 11:00 AM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/omega-european-masters/1607)"
     },
     {
         "event_name": "Coppa Italia",
@@ -162,6 +189,15 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
+        "event_name": "Formula 1",
+        "team1_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "team1_name": "F1 Italian Grand PrixFormula 1",
+        "team2_name": "F1 Italian Grand Prix",
+        "date_and_time": "Sep 04, 2026 at 06:30 AM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/italian-gp/1608)Link2,,https://crichd.pk/charlie/italian-gp/1609)Link3,,https://crichd.pk/charlie/italian-gp/1610)"
+    },
+    {
         "event_name": "Bundesliga",
         "team1_logo": "https://cdn.img4every1.org/team/koln/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
@@ -222,15 +258,6 @@
         "team1_name": "AS RomaAtalanta",
         "team2_name": "AS Roma",
         "date_and_time": "Sep 05, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "team1_name": "AC MilanJuventus",
-        "team2_name": "AC Milan",
-        "date_and_time": "Sep 06, 2026 at 06:45 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
