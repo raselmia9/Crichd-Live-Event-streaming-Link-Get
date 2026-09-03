@@ -18,42 +18,6 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/british-open/1556)"
     },
     {
-        "event_name": "NRL",
-        "team1_logo": "https://cdn.img4every1.org/team/dolphins-nrl/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/gold-coast-titans/logo.webp",
-        "team1_name": "DolphinsGold Coast Titans",
-        "team2_name": "Dolphins",
-        "date_and_time": "Sep 03, 2026 at 08:00 AM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/dolphins-vs-titans/1611)Link2,,https://crichd.pk/charlie/dolphins-vs-titans/1612)"
-    },
-    {
-        "event_name": "NRL",
-        "team1_logo": "https://cdn.img4every1.org/team/canterbury-bulldogs/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/brisbane-broncos/logo.webp",
-        "team1_name": "Canterbury BulldogsBrisbane Broncos",
-        "team2_name": "Canterbury Bulldogs",
-        "date_and_time": "Sep 03, 2026 at 09:45 AM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/canterbury-bulldogs-vs-brisbane-broncos/1605)Link2,,https://crichd.pk/charlie/canterbury-bulldogs-vs-brisbane-broncos/1606)"
-    },
-    {
-        "event_name": "AFL",
-        "team1_logo": "https://cdn.img4every1.org/team/fremantle/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/hawthorn-hawks/logo.webp",
-        "team1_name": "FremantleHawthorn Hawks",
-        "team2_name": "Fremantle",
-        "date_and_time": "Sep 03, 2026 at 10:00 AM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/fremantle-vs-hawthorn/1604)"
-    },
-    {
-        "event_name": "AFL",
-        "team1_logo": "https://cdn.img4every1.org/team/geelong-cats/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/carlton/logo.webp",
-        "team1_name": "Geelong CatsCarlton",
-        "team2_name": "Geelong Cats",
-        "date_and_time": "Sep 04, 2026 at 09:30 AM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/geelong-cats-vs-carlton/1613)"
-    },
-    {
         "event_name": "PGA Tour",
         "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -69,7 +33,7 @@
         "team1_name": "PalermoMantova",
         "team2_name": "Palermo",
         "date_and_time": "Sep 03, 2026 at 04:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/palermo-vs-mantova/1603)"
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/palermo-vs-mantova/1603)Link2,,https://crichd.pk/charlie/palermo-vs-mantova/1620)Link3,,https://crichd.pk/charlie/palermo-vs-mantova/1621)Link4,,https://crichd.pk/charlie/palermo-vs-mantova/1622)"
     },
     {
         "event_name": "Coppa Italia",
@@ -78,6 +42,42 @@
         "team1_name": "Hellas VeronaCagliari",
         "team2_name": "Hellas Verona",
         "date_and_time": "Sep 03, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/hellas-verona-vs-cagliari/1623)Link2,,https://crichd.pk/charlie/hellas-verona-vs-cagliari/1624)"
+    },
+    {
+        "event_name": "Saudi Pro League",
+        "team1_logo": "https://cdn.img4every1.org/team/al-diriyah/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/al-qadsiah/logo.webp",
+        "team1_name": "Al DiriyahAl Qadsiah",
+        "team2_name": "Al Diriyah",
+        "date_and_time": "Sep 03, 2026 at 06:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/diriyah-vs-al-qadisiyah/1625)Link2,,https://crichd.pk/charlie/diriyah-vs-al-qadisiyah/1626)"
+    },
+    {
+        "event_name": "Saudi Pro League",
+        "team1_logo": "https://cdn.img4every1.org/team/al-ahli/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/al-riyadh/logo.webp",
+        "team1_name": "Al AhliAl Riyadh",
+        "team2_name": "Al Ahli",
+        "date_and_time": "Sep 04, 2026 at 06:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/al-ahli-saudi-vs-al-riyadh/1629)"
+    },
+    {
+        "event_name": "Saudi Pro League",
+        "team1_logo": "https://cdn.img4every1.org/team/al-shabab/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/al-hilal/logo.webp",
+        "team1_name": "Al ShababAl Hilal",
+        "team2_name": "Al Shabab",
+        "date_and_time": "Sep 04, 2026 at 06:15 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/al-shabab-vs-al-hilal/1627)Link2,,https://crichd.pk/charlie/al-shabab-vs-al-hilal/1628)"
+    },
+    {
+        "event_name": "Saudi Pro League",
+        "team1_logo": "https://cdn.img4every1.org/team/al-nassr/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/al-ittihad/logo.webp",
+        "team1_name": "Al-NassrAl Ittihad",
+        "team2_name": "Al-Nassr",
+        "date_and_time": "Sep 05, 2026 at 06:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
@@ -114,7 +114,7 @@
         "team1_name": "Celta de VigoReal Sociedad",
         "team2_name": "Celta de Vigo",
         "date_and_time": "Sep 03, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/celta-vigo-vs-real-sociedad/1617)Link2,,https://crichd.pk/charlie/celta-vigo-vs-real-sociedad/1618)Link3,,https://crichd.pk/charlie/celta-vigo-vs-real-sociedad/1619)"
     },
     {
         "event_name": "LaLiga",
@@ -171,15 +171,6 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "team1_name": "MálagaLevante",
-        "team2_name": "Málaga",
-        "date_and_time": "Sep 06, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
         "event_name": "Formula 1",
         "team1_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
@@ -187,6 +178,15 @@
         "team2_name": "F1 Italian Grand Prix",
         "date_and_time": "Sep 04, 2026 at 06:30 AM UTC",
         "multi_streaming": "Link1,,https://crichd.pk/charlie/italian-gp/1608)Link2,,https://crichd.pk/charlie/italian-gp/1609)Link3,,https://crichd.pk/charlie/italian-gp/1610)"
+    },
+    {
+        "event_name": "AFL",
+        "team1_logo": "https://cdn.img4every1.org/team/geelong-cats/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/carlton/logo.webp",
+        "team1_name": "Geelong CatsCarlton",
+        "team2_name": "Geelong Cats",
+        "date_and_time": "Sep 04, 2026 at 09:30 AM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/geelong-cats-vs-carlton/1613)"
     },
     {
         "event_name": "NRL",
