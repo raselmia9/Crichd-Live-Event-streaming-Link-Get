@@ -27,51 +27,6 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/omega-european-masters/1607)"
     },
     {
-        "event_name": "Coppa Italia",
-        "team1_logo": "https://cdn.img4every1.org/team/palermo/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/mantova/logo.webp",
-        "team1_name": "PalermoMantova",
-        "team2_name": "Palermo",
-        "date_and_time": "Sep 03, 2026 at 04:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/palermo-vs-mantova/1603)Link2,,https://crichd.pk/charlie/palermo-vs-mantova/1620)Link3,,https://crichd.pk/charlie/palermo-vs-mantova/1621)Link4,,https://crichd.pk/charlie/palermo-vs-mantova/1622)"
-    },
-    {
-        "event_name": "Saudi Pro League",
-        "team1_logo": "https://cdn.img4every1.org/team/al-diriyah/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/al-qadsiah/logo.webp",
-        "team1_name": "Al DiriyahAl Qadsiah",
-        "team2_name": "Al Diriyah",
-        "date_and_time": "Sep 03, 2026 at 06:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/diriyah-vs-al-qadisiyah/1625)Link2,,https://crichd.pk/charlie/diriyah-vs-al-qadisiyah/1626)"
-    },
-    {
-        "event_name": "Saudi Pro League",
-        "team1_logo": "https://cdn.img4every1.org/team/al-ahli/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/al-riyadh/logo.webp",
-        "team1_name": "Al AhliAl Riyadh",
-        "team2_name": "Al Ahli",
-        "date_and_time": "Sep 04, 2026 at 06:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/al-ahli-saudi-vs-al-riyadh/1629)"
-    },
-    {
-        "event_name": "Saudi Pro League",
-        "team1_logo": "https://cdn.img4every1.org/team/al-shabab/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/al-hilal/logo.webp",
-        "team1_name": "Al ShababAl Hilal",
-        "team2_name": "Al Shabab",
-        "date_and_time": "Sep 04, 2026 at 06:15 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/al-shabab-vs-al-hilal/1627)Link2,,https://crichd.pk/charlie/al-shabab-vs-al-hilal/1628)"
-    },
-    {
-        "event_name": "Saudi Pro League",
-        "team1_logo": "https://cdn.img4every1.org/team/al-nassr/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/al-ittihad/logo.webp",
-        "team1_name": "Al-NassrAl Ittihad",
-        "team2_name": "Al-Nassr",
-        "date_and_time": "Sep 05, 2026 at 06:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
         "event_name": "French Ligue 1",
         "team1_logo": "https://cdn.img4every1.org/team/lille/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/toulouse/logo.webp",
@@ -79,24 +34,6 @@
         "team2_name": "Lille",
         "date_and_time": "Sep 03, 2026 at 06:45 PM UTC",
         "multi_streaming": "Link1,,https://crichd.pk/charlie/lille-vs-toulouse/1601)Link2,,https://crichd.pk/charlie/lille-vs-toulouse/1602)"
-    },
-    {
-        "event_name": "French Ligue 1",
-        "team1_logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/auxerre/logo.webp",
-        "team1_name": "Olympique LyonnaisAuxerre",
-        "team2_name": "Olympique Lyonnais",
-        "date_and_time": "Sep 04, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "French Ligue 1",
-        "team1_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/as-monaco/logo.webp",
-        "team1_name": "PSGAS Monaco",
-        "team2_name": "PSG",
-        "date_and_time": "Sep 04, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "Coppa Italia",
@@ -115,60 +52,6 @@
         "team2_name": "Celta de Vigo",
         "date_and_time": "Sep 03, 2026 at 07:00 PM UTC",
         "multi_streaming": "Link1,,https://crichd.pk/charlie/celta-vigo-vs-real-sociedad/1617)Link2,,https://crichd.pk/charlie/celta-vigo-vs-real-sociedad/1618)Link3,,https://crichd.pk/charlie/celta-vigo-vs-real-sociedad/1619)"
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "team1_name": "Real MadridReal Betis",
-        "team2_name": "Real Madrid",
-        "date_and_time": "Sep 04, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "team1_name": "Atlético MadridAthletic Club",
-        "team2_name": "Atlético Madrid",
-        "date_and_time": "Sep 05, 2026 at 02:15 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
-        "team1_name": "Rayo VallecanoRacing Santander",
-        "team2_name": "Rayo Vallecano",
-        "date_and_time": "Sep 05, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
-        "team1_name": "VillarrealDeportivo La Coruña",
-        "team2_name": "Villarreal",
-        "date_and_time": "Sep 05, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
-        "team1_name": "FC BarcelonaValencia",
-        "team2_name": "FC Barcelona",
-        "date_and_time": "Sep 06, 2026 at 02:15 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "team1_name": "Deportivo AlavésOsasuna",
-        "team2_name": "Deportivo Alavés",
-        "date_and_time": "Sep 06, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "Formula 1",
@@ -196,6 +79,51 @@
         "team2_name": "South Sydney Rabbitohs",
         "date_and_time": "Sep 04, 2026 at 10:00 AM UTC",
         "multi_streaming": "Link1,,https://crichd.pk/charlie/rabbitohs-vs-roosters/1614)Link2,,https://crichd.pk/charlie/rabbitohs-vs-roosters/1615)Link3,,https://crichd.pk/charlie/rabbitohs-vs-roosters/1616)"
+    },
+    {
+        "event_name": "French Ligue 1",
+        "team1_logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/auxerre/logo.webp",
+        "team1_name": "Olympique LyonnaisAuxerre",
+        "team2_name": "Olympique Lyonnais",
+        "date_and_time": "Sep 04, 2026 at 05:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "French Ligue 1",
+        "team1_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/as-monaco/logo.webp",
+        "team1_name": "PSGAS Monaco",
+        "team2_name": "PSG",
+        "date_and_time": "Sep 04, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Saudi Pro League",
+        "team1_logo": "https://cdn.img4every1.org/team/al-ahli/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/al-riyadh/logo.webp",
+        "team1_name": "Al AhliAl Riyadh",
+        "team2_name": "Al Ahli",
+        "date_and_time": "Sep 04, 2026 at 06:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/al-ahli-saudi-vs-al-riyadh/1629)"
+    },
+    {
+        "event_name": "Saudi Pro League",
+        "team1_logo": "https://cdn.img4every1.org/team/al-shabab/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/al-hilal/logo.webp",
+        "team1_name": "Al ShababAl Hilal",
+        "team2_name": "Al Shabab",
+        "date_and_time": "Sep 04, 2026 at 06:15 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/al-shabab-vs-al-hilal/1627)Link2,,https://crichd.pk/charlie/al-shabab-vs-al-hilal/1628)"
+    },
+    {
+        "event_name": "Saudi Pro League",
+        "team1_logo": "https://cdn.img4every1.org/team/al-nassr/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/al-ittihad/logo.webp",
+        "team1_name": "Al-NassrAl Ittihad",
+        "team2_name": "Al-Nassr",
+        "date_and_time": "Sep 05, 2026 at 06:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "Bundesliga",
@@ -258,6 +186,78 @@
         "team1_name": "AS RomaAtalanta",
         "team2_name": "AS Roma",
         "date_and_time": "Sep 05, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Serie A",
+        "team1_logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "team1_name": "AC MilanJuventus",
+        "team2_name": "AC Milan",
+        "date_and_time": "Sep 06, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "team1_name": "Real MadridReal Betis",
+        "team2_name": "Real Madrid",
+        "date_and_time": "Sep 04, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "team1_name": "Atlético MadridAthletic Club",
+        "team2_name": "Atlético Madrid",
+        "date_and_time": "Sep 05, 2026 at 02:15 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
+        "team1_name": "Rayo VallecanoRacing Santander",
+        "team2_name": "Rayo Vallecano",
+        "date_and_time": "Sep 05, 2026 at 04:30 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
+        "team1_name": "VillarrealDeportivo La Coruña",
+        "team2_name": "Villarreal",
+        "date_and_time": "Sep 05, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
+        "team1_name": "FC BarcelonaValencia",
+        "team2_name": "FC Barcelona",
+        "date_and_time": "Sep 06, 2026 at 02:15 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "team1_name": "Deportivo AlavésOsasuna",
+        "team2_name": "Deportivo Alavés",
+        "date_and_time": "Sep 06, 2026 at 04:30 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "team1_name": "MálagaLevante",
+        "team2_name": "Málaga",
+        "date_and_time": "Sep 06, 2026 at 04:30 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
