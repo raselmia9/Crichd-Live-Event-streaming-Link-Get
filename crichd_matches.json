@@ -27,24 +27,6 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/indycar-monterey-grand-prix/1682)Link2,,https://crichd.pk/charlie/indycar-monterey-grand-prix/1683)"
     },
     {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "team1_name": "AC MilanJuventus",
-        "team2_name": "AC Milan",
-        "date_and_time": "Sep 06, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/milan-vs-juventus/1708)Link2,,https://crichd.pk/charlie/milan-vs-juventus/1709)"
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
-        "team1_name": "SevillaEspanyol",
-        "team2_name": "Sevilla",
-        "date_and_time": "Sep 06, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/sevilla-vs-espanyol/1723)"
-    },
-    {
         "event_name": "LaLiga",
         "team1_logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
