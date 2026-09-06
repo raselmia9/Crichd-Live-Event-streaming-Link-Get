@@ -1,32 +1,5 @@
 [
     {
-        "event_name": "Formula 1",
-        "team1_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "team1_name": "F1 Italian Grand PrixFormula 1",
-        "team2_name": "F1 Italian Grand Prix",
-        "date_and_time": "Sep 04, 2026 at 06:30 AM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/italian-gp/1608)Link2,,https://crichd.pk/charlie/italian-gp/1609)Link3,,https://crichd.pk/charlie/italian-gp/1610)"
-    },
-    {
-        "event_name": "Premier League",
-        "team1_logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-        "team1_name": "Manchester UnitedEverton",
-        "team2_name": "Manchester United",
-        "date_and_time": "Sep 06, 2026 at 01:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/manchester-united-vs-everton/1693)Link2,,https://crichd.pk/charlie/manchester-united-vs-everton/1694)Link3,,https://crichd.pk/charlie/manchester-united-vs-everton/1695)Link4,,https://crichd.pk/charlie/manchester-united-vs-everton/1696)Link5,,https://crichd.pk/charlie/manchester-united-vs-everton/1697)Link6,,https://crichd.pk/charlie/manchester-united-vs-everton/1698)"
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
-        "team1_name": "FC BarcelonaValencia",
-        "team2_name": "FC Barcelona",
-        "date_and_time": "Sep 06, 2026 at 02:15 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/barcelona-vs-valencia/1715)Link2,,https://crichd.pk/charlie/barcelona-vs-valencia/1716)Link3,,https://crichd.pk/charlie/barcelona-vs-valencia/1717)Link4,,https://crichd.pk/charlie/barcelona-vs-valencia/1718)Link5,,https://crichd.pk/charlie/barcelona-vs-valencia/1719)"
-    },
-    {
         "event_name": "Premier League",
         "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
@@ -54,15 +27,6 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/british-open/1556)"
     },
     {
-        "event_name": "PGA Tour",
-        "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team1_name": "Omega European MastersPGA Tour",
-        "team2_name": "Omega European Masters",
-        "date_and_time": "Sep 03, 2026 at 11:00 AM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/omega-european-masters/1607)"
-    },
-    {
         "event_name": "MotorSports",
         "team1_logo": "https://cdn.img4every1.org/league/motorsports-streams-free/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/motorsports-streams-free/logo.webp",
@@ -70,24 +34,6 @@
         "team2_name": "IndyCar Monterey Grand Prix",
         "date_and_time": "Sep 05, 2026 at 05:00 PM UTC",
         "multi_streaming": "Link1,,https://crichd.pk/charlie/indycar-monterey-grand-prix/1682)Link2,,https://crichd.pk/charlie/indycar-monterey-grand-prix/1683)"
-    },
-    {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/parma/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/monza/logo.webp",
-        "team1_name": "ParmaMonza",
-        "team2_name": "Parma",
-        "date_and_time": "Sep 06, 2026 at 01:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/parma-vs-monza/1710)"
-    },
-    {
-        "event_name": "Bundesliga",
-        "team1_logo": "https://cdn.img4every1.org/team/hamburger-sv/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/mainz-05/logo.webp",
-        "team1_name": "Hamburger SVMainz 05",
-        "team2_name": "Hamburger SV",
-        "date_and_time": "Sep 06, 2026 at 01:30 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/hamburger-vs-mainz-05/1712)"
     },
     {
         "event_name": "Bundesliga",
@@ -108,24 +54,6 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/bologna-vs-sassuolo/1707)Link2,,https://crichd.pk/charlie/bologna-vs-sassuolo/1711)"
     },
     {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "team1_name": "AC MilanJuventus",
-        "team2_name": "AC Milan",
-        "date_and_time": "Sep 06, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/milan-vs-juventus/1708)Link2,,https://crichd.pk/charlie/milan-vs-juventus/1709)"
-    },
-    {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
-        "team1_name": "LazioUdinese",
-        "team2_name": "Lazio",
-        "date_and_time": "Sep 07, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
         "event_name": "LaLiga",
         "team1_logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
@@ -142,6 +70,24 @@
         "team2_name": "Málaga",
         "date_and_time": "Sep 06, 2026 at 04:30 PM UTC",
         "multi_streaming": "Link1,,https://crichd.pk/charlie/malaga-vs-levante/1722)"
+    },
+    {
+        "event_name": "Serie A",
+        "team1_logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "team1_name": "AC MilanJuventus",
+        "team2_name": "AC Milan",
+        "date_and_time": "Sep 06, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/milan-vs-juventus/1708)Link2,,https://crichd.pk/charlie/milan-vs-juventus/1709)"
+    },
+    {
+        "event_name": "Serie A",
+        "team1_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
+        "team1_name": "LazioUdinese",
+        "team2_name": "Lazio",
+        "date_and_time": "Sep 07, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "LaLiga",
