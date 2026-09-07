@@ -10,24 +10,6 @@
     },
     {
         "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
-        "team1_name": "CagliariLecce",
-        "team2_name": "Cagliari",
-        "date_and_time": "Sep 07, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/cagliari-vs-lecce/1729)Link2,,https://crichd.pk/charlie/cagliari-vs-lecce/1730)"
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "team1_name": "Celta de VigoGetafe",
-        "team2_name": "Celta de Vigo",
-        "date_and_time": "Sep 07, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/celta-de-vigo-vs-getafe/1726)Link2,,https://crichd.pk/charlie/celta-de-vigo-vs-getafe/1727)Link3,,https://crichd.pk/charlie/celta-de-vigo-vs-getafe/1728)"
-    },
-    {
-        "event_name": "Serie A",
         "team1_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
         "team1_name": "LazioUdinese",
