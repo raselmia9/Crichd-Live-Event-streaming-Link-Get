@@ -9,42 +9,6 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/us-open-2026/1437)Link2,,https://crichd.pk/charlie/us-open-2026/1438)Link3,,https://crichd.pk/charlie/us-open-2026/1439)Link4,,https://crichd.pk/charlie/us-open-2026/1440)"
     },
     {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
-        "team1_name": "LazioUdinese",
-        "team2_name": "Lazio",
-        "date_and_time": "Sep 07, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/lazio-vs-udinese/1731)Link2,,https://crichd.pk/charlie/lazio-vs-udinese/1732)"
-    },
-    {
-        "event_name": "EFL",
-        "team1_logo": "https://cdn.img4every1.org/team/afc-wimbledon/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/bromley/logo.webp",
-        "team1_name": "AFC WimbledonBromley",
-        "team2_name": "AFC Wimbledon",
-        "date_and_time": "Sep 07, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/afc-wimbledon-vs-bromley/1724)Link2,,https://crichd.pk/charlie/afc-wimbledon-vs-bromley/1725)"
-    },
-    {
-        "event_name": "Liga Portugal",
-        "team1_logo": "https://cdn.img4every1.org/team/estoril/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/arouca/logo.webp",
-        "team1_name": "EstorilArouca",
-        "team2_name": "Estoril",
-        "date_and_time": "Sep 07, 2026 at 07:15 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/estoril-vs-arouca/1736)"
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
-        "team1_name": "Real SociedadElche CF",
-        "team2_name": "Real Sociedad",
-        "date_and_time": "Sep 07, 2026 at 07:30 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/elche-vs-real-sociedad/1733)Link2,,https://crichd.pk/charlie/elche-vs-real-sociedad/1734)Link3,,https://crichd.pk/charlie/elche-vs-real-sociedad/1735)"
-    },
-    {
         "event_name": "Champions League",
         "team1_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/club-brugge/logo.webp",
