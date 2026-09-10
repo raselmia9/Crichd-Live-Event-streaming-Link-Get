@@ -51,7 +51,7 @@
         "team1_name": "LensSlavia Praha",
         "team2_name": "Lens",
         "date_and_time": "Sep 10, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/lens-vs-slavia-praha/1810)Link2,,https://crichd.pk/charlie/lens-vs-slavia-praha/1811)"
     },
     {
         "event_name": "Champions League",
@@ -60,7 +60,7 @@
         "team1_name": "Manchester UnitedSabah Baku",
         "team2_name": "Manchester United",
         "date_and_time": "Sep 10, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/manchester-united-vs-sabah/1812)Link2,,https://crichd.pk/charlie/manchester-united-vs-sabah/1813)Link3,,https://crichd.pk/charlie/manchester-united-vs-sabah/1814)Link4,,https://crichd.pk/charlie/manchester-united-vs-sabah/1815)Link5,,https://crichd.pk/charlie/manchester-united-vs-sabah/1816)"
     },
     {
         "event_name": "Champions League",
@@ -69,7 +69,7 @@
         "team1_name": "Bayern MünchenFK Bodo Glimt",
         "team2_name": "Bayern München",
         "date_and_time": "Sep 10, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/bayern-munchen-vs-bodo-glimt/1817)Link2,,https://crichd.pk/charlie/bayern-munchen-vs-bodo-glimt/1818)Link3,,https://crichd.pk/charlie/bayern-munchen-vs-bodo-glimt/1819)Link4,,https://crichd.pk/charlie/bayern-munchen-vs-bodo-glimt/1820)Link5,,https://crichd.pk/charlie/bayern-munchen-vs-bodo-glimt/1821)"
     },
     {
         "event_name": "Champions League",
@@ -78,7 +78,7 @@
         "team1_name": "ComoRB Leipzig",
         "team2_name": "Como",
         "date_and_time": "Sep 10, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/como-vs-rb-leipzig/1822)Link2,,https://crichd.pk/charlie/como-vs-rb-leipzig/1823)Link3,,https://crichd.pk/charlie/como-vs-rb-leipzig/1824)"
     },
     {
         "event_name": "EFL",
@@ -124,6 +124,24 @@
         "team2_name": "Chicago Bears",
         "date_and_time": "Sep 13, 2026 at 05:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "MotoGP",
+        "team1_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "team1_name": "MotoGP San Marino Grand PrixMotoGP",
+        "team2_name": "MotoGP San Marino Grand Prix",
+        "date_and_time": "Sep 11, 2026 at 07:00 AM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/motogp-san-marino-grand-prix/1805)"
+    },
+    {
+        "event_name": "Formula 1",
+        "team1_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "team1_name": "f1 Spanish Grand PrixFormula 1",
+        "team2_name": "f1 Spanish Grand Prix",
+        "date_and_time": "Sep 11, 2026 at 08:00 AM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/f1-spanish-grand-prix/1807)Link2,,https://crichd.pk/charlie/f1-spanish-grand-prix/1808)Link3,,https://crichd.pk/charlie/f1-spanish-grand-prix/1809)"
     },
     {
         "event_name": "Bundesliga",
