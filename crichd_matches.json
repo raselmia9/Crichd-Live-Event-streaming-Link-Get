@@ -45,51 +45,6 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/f1-spanish-grand-prix/1807)Link2,,https://crichd.pk/charlie/f1-spanish-grand-prix/1808)Link3,,https://crichd.pk/charlie/f1-spanish-grand-prix/1809)"
     },
     {
-        "event_name": "Bundesliga",
-        "team1_logo": "https://cdn.img4every1.org/team/union-berlin/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
-        "team1_name": "Union BerlinSchalke 04",
-        "team2_name": "Union Berlin",
-        "date_and_time": "Sep 11, 2026 at 06:30 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/union-berlin-vs-schalke-04/1825)"
-    },
-    {
-        "event_name": "French Ligue 1",
-        "team1_logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
-        "team1_name": "RennesOlympique Marseille",
-        "team2_name": "Rennes",
-        "date_and_time": "Sep 11, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/rennes-vs-olympique-marseille/1832)Link2,,https://crichd.pk/charlie/rennes-vs-olympique-marseille/1833)Link3,,https://crichd.pk/charlie/rennes-vs-olympique-marseille/1834)"
-    },
-    {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
-        "team1_name": "VeneziaFiorentina",
-        "team2_name": "Venezia",
-        "date_and_time": "Sep 11, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/venezia-vs-fiorentina/1826)Link2,,https://crichd.pk/charlie/venezia-vs-fiorentina/1830)"
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-        "team1_name": "ValenciaSevilla",
-        "team2_name": "Valencia",
-        "date_and_time": "Sep 11, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/valencia-vs-sevilla/1827)Link2,,https://crichd.pk/charlie/valencia-vs-sevilla/1828)Link3,,https://crichd.pk/charlie/valencia-vs-sevilla/1829)"
-    },
-    {
-        "event_name": "EFL",
-        "team1_logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
-        "team1_name": "West Ham UnitedWrexham",
-        "team2_name": "West Ham United",
-        "date_and_time": "Sep 11, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/west-ham-united-vs-wrexham/1768)Link2,,https://crichd.pk/charlie/west-ham-united-vs-wrexham/1831)"
-    },
-    {
         "event_name": "LaLiga",
         "team1_logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
