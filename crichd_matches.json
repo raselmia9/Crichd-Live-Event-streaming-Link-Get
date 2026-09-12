@@ -1,14 +1,5 @@
 [
     {
-        "event_name": "Premier League",
-        "team1_logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-        "team1_name": "Tottenham HotspurEverton",
-        "team2_name": "Tottenham Hotspur",
-        "date_and_time": "Sep 12, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/spurs-vs-everton/1863)Link2,,https://crichd.pk/charlie/spurs-vs-everton/1864)Link3,,https://crichd.pk/charlie/spurs-vs-everton/1865)Link4,,https://crichd.pk/charlie/spurs-vs-everton/1866)Link5,,https://crichd.pk/charlie/spurs-vs-everton/1867)Link6,,https://crichd.pk/charlie/spurs-vs-everton/1868)"
-    },
-    {
         "event_name": "LaLiga",
         "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
@@ -72,24 +63,6 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/f1-spanish-grand-prix/1807)Link2,,https://crichd.pk/charlie/f1-spanish-grand-prix/1808)Link3,,https://crichd.pk/charlie/f1-spanish-grand-prix/1809)"
     },
     {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "team1_name": "Elche CFAthletic Club",
-        "team2_name": "Elche CF",
-        "date_and_time": "Sep 12, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/elche-vs-athletic-club/1875)Link2,,https://crichd.pk/charlie/elche-vs-athletic-club/1876)Link3,,https://crichd.pk/charlie/elche-vs-athletic-club/1877)"
-    },
-    {
-        "event_name": "Bundesliga",
-        "team1_logo": "https://cdn.img4every1.org/team/koln/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/werder-bremen/logo.webp",
-        "team1_name": "KölnWerder Bremen",
-        "team2_name": "Köln",
-        "date_and_time": "Sep 12, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/koln-vs-werder-bremen/1846)Link2,,https://crichd.pk/charlie/koln-vs-werder-bremen/1847)"
-    },
-    {
         "event_name": "Serie A",
         "team1_logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
@@ -97,33 +70,6 @@
         "team2_name": "Atalanta",
         "date_and_time": "Sep 12, 2026 at 06:45 PM UTC",
         "multi_streaming": "Link1,,https://crichd.pk/charlie/atalanta-vs-cagliari/1842)"
-    },
-    {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/monza/logo.webp",
-        "team1_name": "LecceMonza",
-        "team2_name": "Lecce",
-        "date_and_time": "Sep 13, 2026 at 01:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
-        "team1_name": "BolognaNapoli",
-        "team2_name": "Bologna",
-        "date_and_time": "Sep 13, 2026 at 04:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
-        "team1_name": "JuventusSassuolo",
-        "team2_name": "Juventus",
-        "date_and_time": "Sep 13, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "EFL",
@@ -177,6 +123,33 @@
         "team1_name": "Manchester UnitedManchester City",
         "team2_name": "Manchester United",
         "date_and_time": "Sep 13, 2026 at 03:30 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Serie A",
+        "team1_logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/monza/logo.webp",
+        "team1_name": "LecceMonza",
+        "team2_name": "Lecce",
+        "date_and_time": "Sep 13, 2026 at 01:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Serie A",
+        "team1_logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+        "team1_name": "BolognaNapoli",
+        "team2_name": "Bologna",
+        "date_and_time": "Sep 13, 2026 at 04:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Serie A",
+        "team1_logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
+        "team1_name": "JuventusSassuolo",
+        "team2_name": "Juventus",
+        "date_and_time": "Sep 13, 2026 at 06:45 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
