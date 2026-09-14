@@ -6,7 +6,34 @@
         "team1_name": "AS RomaTorino",
         "team2_name": "AS Roma",
         "date_and_time": "Sep 14, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/roma-vs-torino/1929)"
+    },
+    {
+        "event_name": "Serie A",
+        "team1_logo": "https://cdn.img4every1.org/team/parma/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/como/logo.webp",
+        "team1_name": "ParmaComo",
+        "team2_name": "Parma",
+        "date_and_time": "Sep 14, 2026 at 04:30 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/parma-vs-como/1931)"
+    },
+    {
+        "event_name": "Liga Portugal",
+        "team1_logo": "https://cdn.img4every1.org/team/rio-ave/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/estrela/logo.webp",
+        "team1_name": "Rio AveEstrela",
+        "team2_name": "Rio Ave",
+        "date_and_time": "Sep 14, 2026 at 05:45 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/rio-ave-vs-estrela/1932)"
+    },
+    {
+        "event_name": "Liga Portugal",
+        "team1_logo": "https://cdn.img4every1.org/team/sporting-braga/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/estoril/logo.webp",
+        "team1_name": "Sporting BragaEstoril",
+        "team2_name": "Sporting Braga",
+        "date_and_time": "Sep 14, 2026 at 07:45 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/sporting-braga-vs-estoril/1933)"
     },
     {
         "event_name": "Serie A",
@@ -15,7 +42,7 @@
         "team1_name": "Inter MilanUdinese",
         "team2_name": "Inter Milan",
         "date_and_time": "Sep 14, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/inter-milan-vs-udinese/1930)Link2,,https://crichd.pk/charlie/inter-milan-vs-udinese/1934)"
     },
     {
         "event_name": "Premier League",
@@ -302,15 +329,6 @@
         "team2_logo": "https://cdn.img4every1.org/team/lech-poznan/logo.webp",
         "team1_name": "Crystal PalaceLech Poznan",
         "team2_name": "Crystal Palace",
-        "date_and_time": "Sep 17, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Europa League",
-        "team1_logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team1_name": "AFC BournemouthReal Sociedad",
-        "team2_name": "AFC Bournemouth",
         "date_and_time": "Sep 17, 2026 at 07:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     }
