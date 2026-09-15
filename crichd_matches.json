@@ -1,30 +1,21 @@
 [
     {
-        "event_name": "Coppa Italia",
-        "team1_logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sudtirol/logo.webp",
-        "team1_name": "GenoaSüdtirol",
-        "team2_name": "Genoa",
-        "date_and_time": "Sep 15, 2026 at 04:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/genoa-vs-sudtirol/1935)Link2,,https://crichd.pk/charlie/genoa-vs-sudtirol/1936)Link3,,https://crichd.pk/charlie/genoa-vs-sudtirol/1937)"
+        "event_name": "EFL",
+        "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
+        "team1_name": "ArsenalIpswich Town",
+        "team2_name": "Arsenal",
+        "date_and_time": "Sep 15, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/arsenal-vs-ipswich/1948)Link2,,https://crichd.pk/charlie/arsenal-vs-ipswich/1949)Link3,,https://crichd.pk/charlie/arsenal-vs-ipswich/1962)"
     },
     {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
-        "team1_name": "Rayo VallecanoEspanyol",
-        "team2_name": "Rayo Vallecano",
-        "date_and_time": "Sep 15, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/rayo-vallecano-vs-espanyol/1938)Link2,,https://crichd.pk/charlie/rayo-vallecano-vs-espanyol/1939)Link3,,https://crichd.pk/charlie/rayo-vallecano-vs-espanyol/1940)"
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
-        "team1_name": "ValenciaDeportivo Alavés",
-        "team2_name": "Valencia",
-        "date_and_time": "Sep 15, 2026 at 06:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/valencia-vs-alaves/1941)Link2,,https://crichd.pk/charlie/valencia-vs-alaves/1942)"
+        "event_name": "EFL",
+        "team1_logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
+        "team1_name": "Tottenham Hotspur",
+        "team2_name": "Team 2",
+        "date_and_time": "Sep 15, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/liverpool-vs-spurs/1945)Link2,,https://crichd.pk/charlie/liverpool-vs-spurs/1946)Link3,,https://crichd.pk/charlie/liverpool-vs-spurs/1947)Link4,,https://crichd.pk/charlie/liverpool-vs-spurs/1950)"
     },
     {
         "event_name": "LaLiga",
@@ -34,60 +25,6 @@
         "team2_name": "Real Madrid",
         "date_and_time": "Sep 15, 2026 at 07:30 PM UTC",
         "multi_streaming": "Link1,,https://crichd.pk/charlie/real-madrid-vs-elche/1956)Link2,,https://crichd.pk/charlie/real-madrid-vs-elche/1957)Link3,,https://crichd.pk/charlie/real-madrid-vs-elche/1958)Link4,,https://crichd.pk/charlie/real-madrid-vs-elche/1959)Link5,,https://crichd.pk/charlie/real-madrid-vs-elche/1960)Link6,,https://crichd.pk/charlie/real-madrid-vs-elche/1961)"
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "team1_name": "OsasunaAtlético Madrid",
-        "team2_name": "Osasuna",
-        "date_and_time": "Sep 16, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
-        "team1_name": "SevillaDeportivo La Coruña",
-        "team2_name": "Sevilla",
-        "date_and_time": "Sep 16, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "team1_name": "LevanteAthletic Club",
-        "team2_name": "Levante",
-        "date_and_time": "Sep 16, 2026 at 07:30 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Copa Del Rey",
-        "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
-        "team1_name": "FC BarcelonaRacing Santander",
-        "team2_name": "FC Barcelona",
-        "date_and_time": "Jan 15, 2026 at 08:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "team1_name": "Real BetisGetafe",
-        "team2_name": "Real Betis",
-        "date_and_time": "Sep 17, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "team1_name": "MálagaVillarreal",
-        "team2_name": "Málaga",
-        "date_and_time": "Sep 17, 2026 at 07:30 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "EFL",
@@ -109,57 +46,12 @@
     },
     {
         "event_name": "EFL",
-        "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
-        "team1_name": "ArsenalIpswich Town",
-        "team2_name": "Arsenal",
-        "date_and_time": "Sep 15, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/arsenal-vs-ipswich/1948)Link2,,https://crichd.pk/charlie/arsenal-vs-ipswich/1949)"
-    },
-    {
-        "event_name": "EFL",
-        "team1_logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
-        "team1_name": "Tottenham Hotspur",
-        "team2_name": "Team 2",
-        "date_and_time": "Sep 15, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/liverpool-vs-spurs/1945)Link2,,https://crichd.pk/charlie/liverpool-vs-spurs/1946)Link3,,https://crichd.pk/charlie/liverpool-vs-spurs/1947)Link4,,https://crichd.pk/charlie/liverpool-vs-spurs/1950)"
-    },
-    {
-        "event_name": "EFL",
         "team1_logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/reading/logo.webp",
         "team1_name": "BrentfordReading",
         "team2_name": "Brentford",
         "date_and_time": "Sep 15, 2026 at 07:00 PM UTC",
         "multi_streaming": "Link1,,https://crichd.pk/charlie/reading-vs-brentford/1954)Link2,,https://crichd.pk/charlie/reading-vs-brentford/1955)"
-    },
-    {
-        "event_name": "EFL",
-        "team1_logo": "https://cdn.img4every1.org/team/fleetwood-town/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sheffield-united/logo.webp",
-        "team1_name": "Fleetwood TownSheffield United",
-        "team2_name": "Fleetwood Town",
-        "date_and_time": "Sep 16, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "EFL",
-        "team1_logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
-        "team1_name": "EvertonWolverhampton Wanderers",
-        "team2_name": "Everton",
-        "date_and_time": "Sep 16, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "EFL",
-        "team1_logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
-        "team1_name": "Manchester UnitedBrighton & Hove Albion",
-        "team2_name": "Manchester United",
-        "date_and_time": "Sep 16, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "Coppa Italia",
@@ -243,6 +135,114 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+        "team1_name": "OsasunaAtlético Madrid",
+        "team2_name": "Osasuna",
+        "date_and_time": "Sep 16, 2026 at 05:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
+        "team1_name": "SevillaDeportivo La Coruña",
+        "team2_name": "Sevilla",
+        "date_and_time": "Sep 16, 2026 at 05:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "team1_name": "LevanteAthletic Club",
+        "team2_name": "Levante",
+        "date_and_time": "Sep 16, 2026 at 07:30 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Copa Del Rey",
+        "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
+        "team1_name": "FC BarcelonaRacing Santander",
+        "team2_name": "FC Barcelona",
+        "date_and_time": "Jan 15, 2026 at 08:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "team1_name": "Real BetisGetafe",
+        "team2_name": "Real Betis",
+        "date_and_time": "Sep 17, 2026 at 05:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "team1_name": "MálagaVillarreal",
+        "team2_name": "Málaga",
+        "date_and_time": "Sep 17, 2026 at 07:30 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "EFL",
+        "team1_logo": "https://cdn.img4every1.org/team/fleetwood-town/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/sheffield-united/logo.webp",
+        "team1_name": "Fleetwood TownSheffield United",
+        "team2_name": "Fleetwood Town",
+        "date_and_time": "Sep 16, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "EFL",
+        "team1_logo": "https://cdn.img4every1.org/team/everton/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
+        "team1_name": "EvertonWolverhampton Wanderers",
+        "team2_name": "Everton",
+        "date_and_time": "Sep 16, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "EFL",
+        "team1_logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+        "team1_name": "Manchester UnitedBrighton & Hove Albion",
+        "team2_name": "Manchester United",
+        "date_and_time": "Sep 16, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "EFL",
+        "team1_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
+        "team1_name": "Aston VillaCoventry City",
+        "team2_name": "Aston Villa",
+        "date_and_time": "Sep 16, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "EFL",
+        "team1_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/norwich-city/logo.webp",
+        "team1_name": "Manchester CityNorwich City",
+        "team2_name": "Manchester City",
+        "date_and_time": "Sep 17, 2026 at 06:30 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "EFL",
+        "team1_logo": "https://cdn.img4every1.org/team/milton-keynes-dons/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/afc-wimbledon/logo.webp",
+        "team1_name": "Milton Keynes DonsAFC Wimbledon",
+        "team2_name": "Milton Keynes Dons",
+        "date_and_time": "Sep 17, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/mk-dons-vs-wimbledon/1928)"
+    },
+    {
         "event_name": "Europa League",
         "team1_logo": "https://cdn.img4every1.org/team/ofi/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
@@ -321,6 +321,33 @@
         "team1_name": "Bayern MünchenUnion Berlin",
         "team2_name": "Bayern München",
         "date_and_time": "Sep 18, 2026 at 06:30 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "French Ligue 1",
+        "team1_logo": "https://cdn.img4every1.org/team/lens/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/as-monaco/logo.webp",
+        "team1_name": "LensAS Monaco",
+        "team2_name": "Lens",
+        "date_and_time": "Sep 18, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Serie A",
+        "team1_logo": "https://cdn.img4every1.org/team/monza/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
+        "team1_name": "MonzaSassuolo",
+        "team2_name": "Monza",
+        "date_and_time": "Sep 18, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Premier League",
+        "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
+        "team1_name": "ChelseaBrentford",
+        "team2_name": "Chelsea",
+        "date_and_time": "Sep 18, 2026 at 07:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     }
 ]
