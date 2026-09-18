@@ -1,5 +1,14 @@
 [
     {
+        "event_name": "Premier League",
+        "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
+        "team1_name": "ChelseaBrentford",
+        "team2_name": "Chelsea",
+        "date_and_time": "Sep 18, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/chelsea-vs-brentford/2029)Link2,,https://crichd.pk/charlie/chelsea-vs-brentford/2030)Link3,,https://crichd.pk/charlie/chelsea-vs-brentford/2031)Link4,,https://crichd.pk/charlie/chelsea-vs-brentford/2032)Link5,,https://crichd.pk/charlie/chelsea-vs-brentford/2033)Link6,,https://crichd.pk/charlie/chelsea-vs-brentford/2034)"
+    },
+    {
         "event_name": "PGA Tour",
         "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -162,60 +171,6 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/wakefield-trinity-vs-leigh-leopards/2040)"
     },
     {
-        "event_name": "Premier League",
-        "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
-        "team1_name": "ChelseaBrentford",
-        "team2_name": "Chelsea",
-        "date_and_time": "Sep 18, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/chelsea-vs-brentford/2029)Link2,,https://crichd.pk/charlie/chelsea-vs-brentford/2030)Link3,,https://crichd.pk/charlie/chelsea-vs-brentford/2031)Link4,,https://crichd.pk/charlie/chelsea-vs-brentford/2032)Link5,,https://crichd.pk/charlie/chelsea-vs-brentford/2033)Link6,,https://crichd.pk/charlie/chelsea-vs-brentford/2034)"
-    },
-    {
-        "event_name": "Premier League",
-        "team1_logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "team1_name": "Tottenham HotspurAston Villa",
-        "team2_name": "Tottenham Hotspur",
-        "date_and_time": "Sep 19, 2026 at 11:30 AM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Premier League",
-        "team1_logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
-        "team1_name": "Hull CityNewcastle United",
-        "team2_name": "Hull City",
-        "date_and_time": "Sep 19, 2026 at 02:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Premier League",
-        "team1_logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-        "team1_name": "Ipswich TownEverton",
-        "team2_name": "Ipswich Town",
-        "date_and_time": "Sep 19, 2026 at 02:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Premier League",
-        "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
-        "team1_name": "ArsenalBrighton & Hove Albion",
-        "team2_name": "Arsenal",
-        "date_and_time": "Sep 19, 2026 at 02:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Premier League",
-        "team1_logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
-        "team1_name": "Nottingham ForestCoventry City",
-        "team2_name": "Nottingham Forest",
-        "date_and_time": "Sep 19, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
         "event_name": "EFL",
         "team1_logo": "https://cdn.img4every1.org/team/bristol-city/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/watford/logo.webp",
@@ -322,5 +277,50 @@
         "team2_name": "Sydney Roosters",
         "date_and_time": "Sep 19, 2026 at 09:45 AM UTC",
         "multi_streaming": "Link1,,https://crichd.pk/charlie/sydney-roosters-vs-sharks/2043)"
+    },
+    {
+        "event_name": "Premier League",
+        "team1_logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "team1_name": "Tottenham HotspurAston Villa",
+        "team2_name": "Tottenham Hotspur",
+        "date_and_time": "Sep 19, 2026 at 11:30 AM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Premier League",
+        "team1_logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
+        "team1_name": "Hull CityNewcastle United",
+        "team2_name": "Hull City",
+        "date_and_time": "Sep 19, 2026 at 02:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Premier League",
+        "team1_logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/everton/logo.webp",
+        "team1_name": "Ipswich TownEverton",
+        "team2_name": "Ipswich Town",
+        "date_and_time": "Sep 19, 2026 at 02:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Premier League",
+        "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+        "team1_name": "ArsenalBrighton & Hove Albion",
+        "team2_name": "Arsenal",
+        "date_and_time": "Sep 19, 2026 at 02:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Premier League",
+        "team1_logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
+        "team1_name": "Nottingham ForestCoventry City",
+        "team2_name": "Nottingham Forest",
+        "date_and_time": "Sep 19, 2026 at 04:30 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     }
 ]
