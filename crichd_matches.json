@@ -54,24 +54,6 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/liverpool-vs-manchester-city/2038)"
     },
     {
-        "event_name": "WSL",
-        "team1_logo": "https://cdn.img4every1.org/team/charlton-athletic/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/london-city-lionesses/logo.webp",
-        "team1_name": "Charlton AthleticLondon City Lionesses",
-        "team2_name": "Charlton Athletic",
-        "date_and_time": "Sep 19, 2026 at 11:30 AM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/charlton-athletic-vs-london-lionesses/2047)"
-    },
-    {
-        "event_name": "WSL",
-        "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/birmingham-city/logo.webp",
-        "team1_name": "ChelseaBirmingham City",
-        "team2_name": "Chelsea",
-        "date_and_time": "Sep 19, 2026 at 11:45 AM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/chelsea-vs-birmingham-city/2048)"
-    },
-    {
         "event_name": "Bundesliga",
         "team1_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/union-berlin/logo.webp",
@@ -79,24 +61,6 @@
         "team2_name": "Bayern München",
         "date_and_time": "Sep 18, 2026 at 06:30 PM UTC",
         "multi_streaming": "Link1,,https://crichd.pk/charlie/bayern-munchen-vs-union-berlin/2050)"
-    },
-    {
-        "event_name": "Bundesliga",
-        "team1_logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/freiburg/logo.webp",
-        "team1_name": "Eintracht FrankfurtFreiburg",
-        "team2_name": "Eintracht Frankfurt",
-        "date_and_time": "Sep 19, 2026 at 01:30 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Bundesliga",
-        "team1_logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
-        "team1_name": "Borussia DortmundStuttgart",
-        "team2_name": "Borussia Dortmund",
-        "date_and_time": "Sep 19, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/borussia-dortmund-vs-stuttgart/2049)"
     },
     {
         "event_name": "French Ligue 1",
@@ -108,15 +72,6 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/lens-vs-monaco/2036)Link2,,https://crichd.pk/charlie/lens-vs-monaco/2037)"
     },
     {
-        "event_name": "French Ligue 1",
-        "team1_logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/strasbourg/logo.webp",
-        "team1_name": "Paris FCStrasbourg",
-        "team2_name": "Paris FC",
-        "date_and_time": "Sep 19, 2026 at 03:15 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
         "event_name": "Serie A",
         "team1_logo": "https://cdn.img4every1.org/team/monza/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
@@ -124,42 +79,6 @@
         "team2_name": "Monza",
         "date_and_time": "Sep 18, 2026 at 06:45 PM UTC",
         "multi_streaming": "Link1,,https://crichd.pk/charlie/monza-vs-sassuolo/2035)"
-    },
-    {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/torino/logo.webp",
-        "team1_name": "BolognaTorino",
-        "team2_name": "Bologna",
-        "date_and_time": "Sep 19, 2026 at 01:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
-        "team1_name": "CagliariUdinese",
-        "team2_name": "Cagliari",
-        "date_and_time": "Sep 19, 2026 at 01:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
-        "team1_name": "Inter MilanAS Roma",
-        "team2_name": "Inter Milan",
-        "date_and_time": "Sep 19, 2026 at 04:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
-        "team1_name": "LazioVenezia",
-        "team2_name": "Lazio",
-        "date_and_time": "Sep 19, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "Super League",
@@ -180,24 +99,6 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/bristol-city-vs-watford/2039)"
     },
     {
-        "event_name": "EFL",
-        "team1_logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/millwall-fc/logo.webp",
-        "team1_name": "West Ham UnitedMillwall FC",
-        "team2_name": "West Ham United",
-        "date_and_time": "Sep 19, 2026 at 11:30 AM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/west-ham-united-vs-millwall/2045)Link2,,https://crichd.pk/charlie/west-ham-united-vs-millwall/2046)"
-    },
-    {
-        "event_name": "EFL",
-        "team1_logo": "https://cdn.img4every1.org/team/barnsley/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/leicester-city/logo.webp",
-        "team1_name": "BarnsleyLeicester City",
-        "team2_name": "Barnsley",
-        "date_and_time": "Sep 19, 2026 at 11:30 AM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
         "event_name": "LaLiga",
         "team1_logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
@@ -205,42 +106,6 @@
         "team2_name": "Espanyol",
         "date_and_time": "Sep 18, 2026 at 07:00 PM UTC",
         "multi_streaming": "Link1,,https://crichd.pk/charlie/espanyol-vs-elche/2026)Link2,,https://crichd.pk/charlie/espanyol-vs-elche/2027)Link3,,https://crichd.pk/charlie/espanyol-vs-elche/2028)"
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
-        "team1_name": "OsasunaRayo Vallecano",
-        "team2_name": "Osasuna",
-        "date_and_time": "Sep 19, 2026 at 12:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "team1_name": "Deportivo AlavésAthletic Club",
-        "team2_name": "Deportivo Alavés",
-        "date_and_time": "Sep 19, 2026 at 02:15 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
-        "team1_name": "Celta de VigoRacing Santander",
-        "team2_name": "Celta de Vigo",
-        "date_and_time": "Sep 19, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-        "team1_name": "FC BarcelonaSevilla",
-        "team2_name": "FC Barcelona",
-        "date_and_time": "Sep 19, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "Rugby Union",
@@ -277,6 +142,24 @@
         "team2_name": "Sydney Roosters",
         "date_and_time": "Sep 19, 2026 at 09:45 AM UTC",
         "multi_streaming": "Link1,,https://crichd.pk/charlie/sydney-roosters-vs-sharks/2043)"
+    },
+    {
+        "event_name": "EFL",
+        "team1_logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/millwall-fc/logo.webp",
+        "team1_name": "West Ham UnitedMillwall FC",
+        "team2_name": "West Ham United",
+        "date_and_time": "Sep 19, 2026 at 11:30 AM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/west-ham-united-vs-millwall/2045)Link2,,https://crichd.pk/charlie/west-ham-united-vs-millwall/2046)"
+    },
+    {
+        "event_name": "EFL",
+        "team1_logo": "https://cdn.img4every1.org/team/barnsley/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/leicester-city/logo.webp",
+        "team1_name": "BarnsleyLeicester City",
+        "team2_name": "Barnsley",
+        "date_and_time": "Sep 19, 2026 at 11:30 AM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "Premier League",
@@ -321,6 +204,123 @@
         "team1_name": "Nottingham ForestCoventry City",
         "team2_name": "Nottingham Forest",
         "date_and_time": "Sep 19, 2026 at 04:30 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "WSL",
+        "team1_logo": "https://cdn.img4every1.org/team/charlton-athletic/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/london-city-lionesses/logo.webp",
+        "team1_name": "Charlton AthleticLondon City Lionesses",
+        "team2_name": "Charlton Athletic",
+        "date_and_time": "Sep 19, 2026 at 11:30 AM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/charlton-athletic-vs-london-lionesses/2047)"
+    },
+    {
+        "event_name": "WSL",
+        "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/birmingham-city/logo.webp",
+        "team1_name": "ChelseaBirmingham City",
+        "team2_name": "Chelsea",
+        "date_and_time": "Sep 19, 2026 at 11:45 AM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/chelsea-vs-birmingham-city/2048)"
+    },
+    {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
+        "team1_name": "OsasunaRayo Vallecano",
+        "team2_name": "Osasuna",
+        "date_and_time": "Sep 19, 2026 at 12:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "team1_name": "Deportivo AlavésAthletic Club",
+        "team2_name": "Deportivo Alavés",
+        "date_and_time": "Sep 19, 2026 at 02:15 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
+        "team1_name": "Celta de VigoRacing Santander",
+        "team2_name": "Celta de Vigo",
+        "date_and_time": "Sep 19, 2026 at 04:30 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
+        "team1_name": "FC BarcelonaSevilla",
+        "team2_name": "FC Barcelona",
+        "date_and_time": "Sep 19, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Serie A",
+        "team1_logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/torino/logo.webp",
+        "team1_name": "BolognaTorino",
+        "team2_name": "Bologna",
+        "date_and_time": "Sep 19, 2026 at 01:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Serie A",
+        "team1_logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
+        "team1_name": "CagliariUdinese",
+        "team2_name": "Cagliari",
+        "date_and_time": "Sep 19, 2026 at 01:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Serie A",
+        "team1_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+        "team1_name": "Inter MilanAS Roma",
+        "team2_name": "Inter Milan",
+        "date_and_time": "Sep 19, 2026 at 04:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Serie A",
+        "team1_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
+        "team1_name": "LazioVenezia",
+        "team2_name": "Lazio",
+        "date_and_time": "Sep 19, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Bundesliga",
+        "team1_logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/freiburg/logo.webp",
+        "team1_name": "Eintracht FrankfurtFreiburg",
+        "team2_name": "Eintracht Frankfurt",
+        "date_and_time": "Sep 19, 2026 at 01:30 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Bundesliga",
+        "team1_logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
+        "team1_name": "Borussia DortmundStuttgart",
+        "team2_name": "Borussia Dortmund",
+        "date_and_time": "Sep 19, 2026 at 04:30 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/borussia-dortmund-vs-stuttgart/2049)"
+    },
+    {
+        "event_name": "French Ligue 1",
+        "team1_logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/strasbourg/logo.webp",
+        "team1_name": "Paris FCStrasbourg",
+        "team2_name": "Paris FC",
+        "date_and_time": "Sep 19, 2026 at 03:15 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     }
 ]
