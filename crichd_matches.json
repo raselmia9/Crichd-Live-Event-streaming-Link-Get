@@ -1,23 +1,5 @@
 [
     {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
-        "team1_name": "AC MilanLecce",
-        "team2_name": "AC Milan",
-        "date_and_time": "Sep 20, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/milan-vs-lecce/2156)Link2,,https://crichd.pk/charlie/milan-vs-lecce/2157)"
-    },
-    {
-        "event_name": "French Ligue 1",
-        "team1_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
-        "team1_name": "PSGOlympique Marseille",
-        "team2_name": "PSG",
-        "date_and_time": "Sep 20, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/psg-vs-marseille/2171)Link2,,https://crichd.pk/charlie/psg-vs-marseille/2172)Link3,,https://crichd.pk/charlie/psg-vs-marseille/2173)"
-    },
-    {
         "event_name": "PGA Tour",
         "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -25,87 +7,6 @@
         "team2_name": "Biltmore Championship",
         "date_and_time": "Sep 17, 2026 at 04:00 PM UTC",
         "multi_streaming": "Link1,,https://crichd.pk/charlie/biltmore-championship/1997)"
-    },
-    {
-        "event_name": "Darts",
-        "team1_logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
-        "team1_name": "World Series of Darts FinalsDarts",
-        "team2_name": "World Series of Darts Finals",
-        "date_and_time": "Sep 19, 2026 at 11:00 AM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/world-series-of-darts-finals/2052)"
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/tennessee-titans/logo.webp",
-        "team1_name": "Philadelphia EaglesTennessee Titans",
-        "team2_name": "Philadelphia Eagles",
-        "date_and_time": "Sep 20, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/eagles-vs-titans/2160)"
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/new-york-jets/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/green-bay-packers/logo.webp",
-        "team1_name": "New York JetsGreen Bay Packers",
-        "team2_name": "New York Jets",
-        "date_and_time": "Sep 20, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/jets-vs-packers/2161)"
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/houston-texans/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cincinnati-bengals/logo.webp",
-        "team1_name": "Houston TexansCincinnati Bengals",
-        "team2_name": "Houston Texans",
-        "date_and_time": "Sep 20, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/texans-vs-bengals/2162)"
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/minnesota-vikings/logo.webp",
-        "team1_name": "Chicago BearsMinnesota Vikings",
-        "team2_name": "Chicago Bears",
-        "date_and_time": "Sep 20, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/chicago-bears-vs-minnesota-vikings/2158)"
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/new-england-patriots/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/pittsburgh-steelers/logo.webp",
-        "team1_name": "New England PatriotsPittsburgh Steelers",
-        "team2_name": "New England Patriots",
-        "date_and_time": "Sep 20, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/patriots-vs-steelers/2159)"
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/atlanta-falcons/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
-        "team1_name": "Atlanta FalconsCarolina Panthers",
-        "team2_name": "Atlanta Falcons",
-        "date_and_time": "Sep 20, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/falcons-vs-panthers/2163)"
-    },
-    {
-        "event_name": "Bundesliga",
-        "team1_logo": "https://cdn.img4every1.org/team/paderborn/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
-        "team1_name": "PaderbornHoffenheim",
-        "team2_name": "Paderborn",
-        "date_and_time": "Sep 20, 2026 at 05:30 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/paderborn-vs-hoffenheim/2145)Link2,,https://crichd.pk/charlie/paderborn-vs-hoffenheim/2146)"
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
-        "team1_name": "Real SociedadValencia",
-        "team2_name": "Real Sociedad",
-        "date_and_time": "Sep 20, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/real-sociedad-vs-valencia/2120)Link2,,https://crichd.pk/charlie/real-sociedad-vs-valencia/2121)Link3,,https://crichd.pk/charlie/real-sociedad-vs-valencia/2122)Link4,,https://crichd.pk/charlie/real-sociedad-vs-valencia/2123)"
     },
     {
         "event_name": "Liga Portugal",
