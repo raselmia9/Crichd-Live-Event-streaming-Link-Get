@@ -45,24 +45,6 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/world-series-of-darts-finals/2052)"
     },
     {
-        "event_name": "UFC",
-        "team1_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team1_name": "Joshua VanAlexandre Pantoja",
-        "team2_name": "Joshua Van",
-        "date_and_time": "Sep 19, 2026 at 11:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/joshua-van-vs-alexandre-pantoja/2053)"
-    },
-    {
-        "event_name": "NRL",
-        "team1_logo": "https://cdn.img4every1.org/team/newcastle-knights/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/warriors-nrl-team/logo.webp",
-        "team1_name": "Newcastle KnightsWarriors",
-        "team2_name": "Newcastle Knights",
-        "date_and_time": "Sep 20, 2026 at 06:00 AM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/newcastle-knights-vs-warriors/2055)"
-    },
-    {
         "event_name": "Serie A",
         "team1_logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
@@ -70,6 +52,24 @@
         "team2_name": "Napoli",
         "date_and_time": "Sep 20, 2026 at 10:30 AM UTC",
         "multi_streaming": "Link1,,https://crichd.pk/charlie/napoli-vs-fiorentina/2100)Link2,,https://crichd.pk/charlie/napoli-vs-fiorentina/2101)"
+    },
+    {
+        "event_name": "EFL",
+        "team1_logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/west-bromwich-albion/logo.webp",
+        "team1_name": "Wolverhampton WanderersWest Bromwich Albion",
+        "team2_name": "Wolverhampton Wanderers",
+        "date_and_time": "Sep 20, 2026 at 11:00 AM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/wolves-vs-west-brom/2102)Link2,,https://crichd.pk/charlie/wolves-vs-west-brom/2103)"
+    },
+    {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "team1_name": "GetafeMálaga",
+        "team2_name": "Getafe",
+        "date_and_time": "Sep 20, 2026 at 12:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/getafe-vs-malaga/2106)Link2,,https://crichd.pk/charlie/getafe-vs-malaga/2107)Link3,,https://crichd.pk/charlie/getafe-vs-malaga/2108)Link4,,https://crichd.pk/charlie/getafe-vs-malaga/2109)"
     },
     {
         "event_name": "Serie A",
@@ -96,7 +96,7 @@
         "team1_name": "JuventusAtalanta",
         "team2_name": "Juventus",
         "date_and_time": "Sep 20, 2026 at 04:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/juventus-vs-atalanta/2153)Link2,,https://crichd.pk/charlie/juventus-vs-atalanta/2154)Link3,,https://crichd.pk/charlie/juventus-vs-atalanta/2155)Link4,,https://crichd.pk/charlie/juventus-vs-atalanta/2170)"
     },
     {
         "event_name": "Serie A",
@@ -105,61 +105,7 @@
         "team1_name": "AC MilanLecce",
         "team2_name": "AC Milan",
         "date_and_time": "Sep 20, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "EFL",
-        "team1_logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/west-bromwich-albion/logo.webp",
-        "team1_name": "Wolverhampton WanderersWest Bromwich Albion",
-        "team2_name": "Wolverhampton Wanderers",
-        "date_and_time": "Sep 20, 2026 at 11:00 AM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/wolves-vs-west-brom/2102)Link2,,https://crichd.pk/charlie/wolves-vs-west-brom/2103)"
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
-        "team1_name": "GetafeMálaga",
-        "team2_name": "Getafe",
-        "date_and_time": "Sep 20, 2026 at 12:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/getafe-vs-malaga/2106)Link2,,https://crichd.pk/charlie/getafe-vs-malaga/2107)Link3,,https://crichd.pk/charlie/getafe-vs-malaga/2108)Link4,,https://crichd.pk/charlie/getafe-vs-malaga/2109)"
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "team1_name": "Real MadridAtlético Madrid",
-        "team2_name": "Real Madrid",
-        "date_and_time": "Sep 20, 2026 at 02:15 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/real-madrid-vs-atletico/2110)Link2,,https://crichd.pk/charlie/real-madrid-vs-atletico/2111)Link3,,https://crichd.pk/charlie/real-madrid-vs-atletico/2112)Link4,,https://crichd.pk/charlie/real-madrid-vs-atletico/2113)"
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "team1_name": "Deportivo La CoruñaReal Betis",
-        "team2_name": "Deportivo La Coruña",
-        "date_and_time": "Sep 20, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/deportivo-la-coruna-vs-real-betis/2114)Link2,,https://crichd.pk/charlie/deportivo-la-coruna-vs-real-betis/2115)Link3,,https://crichd.pk/charlie/deportivo-la-coruna-vs-real-betis/2116)Link4,,https://crichd.pk/charlie/deportivo-la-coruna-vs-real-betis/2117)Link5,,https://crichd.pk/charlie/deportivo-la-coruna-vs-real-betis/2118)"
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "team1_name": "LevanteVillarreal",
-        "team2_name": "Levante",
-        "date_and_time": "Sep 20, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/levante-vs-villarreal/2054)Link2,,https://crichd.pk/charlie/levante-vs-villarreal/2119)"
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
-        "team1_name": "Real SociedadValencia",
-        "team2_name": "Real Sociedad",
-        "date_and_time": "Sep 20, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/real-sociedad-vs-valencia/2120)Link2,,https://crichd.pk/charlie/real-sociedad-vs-valencia/2121)Link3,,https://crichd.pk/charlie/real-sociedad-vs-valencia/2122)Link4,,https://crichd.pk/charlie/real-sociedad-vs-valencia/2123)"
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/milan-vs-lecce/2156)Link2,,https://crichd.pk/charlie/milan-vs-lecce/2157)"
     },
     {
         "event_name": "French Ligue 1",
@@ -186,7 +132,7 @@
         "team1_name": "PSGOlympique Marseille",
         "team2_name": "PSG",
         "date_and_time": "Sep 20, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/psg-vs-marseille/2171)Link2,,https://crichd.pk/charlie/psg-vs-marseille/2172)Link3,,https://crichd.pk/charlie/psg-vs-marseille/2173)"
     },
     {
         "event_name": "Premier League",
@@ -250,5 +196,59 @@
         "team2_name": "Paderborn",
         "date_and_time": "Sep 20, 2026 at 05:30 PM UTC",
         "multi_streaming": "Link1,,https://crichd.pk/charlie/paderborn-vs-hoffenheim/2145)Link2,,https://crichd.pk/charlie/paderborn-vs-hoffenheim/2146)"
+    },
+    {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+        "team1_name": "Real MadridAtlético Madrid",
+        "team2_name": "Real Madrid",
+        "date_and_time": "Sep 20, 2026 at 02:15 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/real-madrid-vs-atletico/2110)Link2,,https://crichd.pk/charlie/real-madrid-vs-atletico/2111)Link3,,https://crichd.pk/charlie/real-madrid-vs-atletico/2112)Link4,,https://crichd.pk/charlie/real-madrid-vs-atletico/2113)"
+    },
+    {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "team1_name": "Deportivo La CoruñaReal Betis",
+        "team2_name": "Deportivo La Coruña",
+        "date_and_time": "Sep 20, 2026 at 04:30 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/deportivo-la-coruna-vs-real-betis/2114)Link2,,https://crichd.pk/charlie/deportivo-la-coruna-vs-real-betis/2115)Link3,,https://crichd.pk/charlie/deportivo-la-coruna-vs-real-betis/2116)Link4,,https://crichd.pk/charlie/deportivo-la-coruna-vs-real-betis/2117)Link5,,https://crichd.pk/charlie/deportivo-la-coruna-vs-real-betis/2118)"
+    },
+    {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "team1_name": "LevanteVillarreal",
+        "team2_name": "Levante",
+        "date_and_time": "Sep 20, 2026 at 04:30 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/levante-vs-villarreal/2054)Link2,,https://crichd.pk/charlie/levante-vs-villarreal/2119)"
+    },
+    {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
+        "team1_name": "Real SociedadValencia",
+        "team2_name": "Real Sociedad",
+        "date_and_time": "Sep 20, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/real-sociedad-vs-valencia/2120)Link2,,https://crichd.pk/charlie/real-sociedad-vs-valencia/2121)Link3,,https://crichd.pk/charlie/real-sociedad-vs-valencia/2122)Link4,,https://crichd.pk/charlie/real-sociedad-vs-valencia/2123)"
+    },
+    {
+        "event_name": "NFL",
+        "team1_logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/minnesota-vikings/logo.webp",
+        "team1_name": "Chicago BearsMinnesota Vikings",
+        "team2_name": "Chicago Bears",
+        "date_and_time": "Sep 20, 2026 at 05:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/chicago-bears-vs-minnesota-vikings/2158)"
+    },
+    {
+        "event_name": "NFL",
+        "team1_logo": "https://cdn.img4every1.org/team/new-england-patriots/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/pittsburgh-steelers/logo.webp",
+        "team1_name": "New England PatriotsPittsburgh Steelers",
+        "team2_name": "New England Patriots",
+        "date_and_time": "Sep 20, 2026 at 05:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/patriots-vs-steelers/2159)"
     }
 ]
