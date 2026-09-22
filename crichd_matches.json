@@ -1,1 +1,101 @@
-[]
+[
+    {
+        "event_name": "Womens Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team1_name": "Manchester CityBayern München",
+        "team2_name": "Manchester City",
+        "date_and_time": "Sep 22, 2026 at 04:45 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/manchester-city-vs-bayern/2178)Link2,,https://crichd.pk/charlie/manchester-city-vs-bayern/2179)"
+    },
+    {
+        "event_name": "Womens Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/hacken/logo.webp",
+        "team1_name": "Inter MilanHäcken",
+        "team2_name": "Inter Milan",
+        "date_and_time": "Sep 22, 2026 at 04:45 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/inter-milano-vs-hacken/2182)Link2,,https://crichd.pk/charlie/inter-milano-vs-hacken/2183)"
+    },
+    {
+        "event_name": "EFL",
+        "team1_logo": "https://cdn.img4every1.org/team/salford-city/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/sheffield-wednesday/logo.webp",
+        "team1_name": "Salford CitySheffield Wednesday",
+        "team2_name": "Salford City",
+        "date_and_time": "Sep 22, 2026 at 06:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/salford-city-vs-sheffield-wednesday/2187)"
+    },
+    {
+        "event_name": "Womens Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/koge/logo.webp",
+        "team1_name": "ArsenalKøge",
+        "team2_name": "Arsenal",
+        "date_and_time": "Sep 22, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/arsenal-vs-k-ge/2180)Link2,,https://crichd.pk/charlie/arsenal-vs-k-ge/2181)"
+    },
+    {
+        "event_name": "Womens Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team1_name": "Real MadridPSG",
+        "team2_name": "Real Madrid",
+        "date_and_time": "Sep 22, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/real-madrid-vs-psg/2184)Link2,,https://crichd.pk/charlie/real-madrid-vs-psg/2185)"
+    },
+    {
+        "event_name": "Womens Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "team1_name": "BenficaJuventus",
+        "team2_name": "Benfica",
+        "date_and_time": "Sep 22, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/benfica-vs-juventus/2186)"
+    },
+    {
+        "event_name": "Womens Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
+        "team1_name": "FC BarcelonaParis FC",
+        "team2_name": "FC Barcelona",
+        "date_and_time": "Sep 23, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Womens Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/austria-wien/logo.webp",
+        "team1_name": "ChelseaAustria Wien",
+        "team2_name": "Chelsea",
+        "date_and_time": "Sep 23, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Friendly",
+        "team1_logo": "https://cdn.img4every1.org/team/azerbaijan/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/tajikistan/logo.webp",
+        "team1_name": "AzerbaijanTajikistan",
+        "team2_name": "Azerbaijan",
+        "date_and_time": "Sep 23, 2026 at 04:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Friendly",
+        "team1_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
+        "team1_name": "AustraliaBrazil",
+        "team2_name": "Australia",
+        "date_and_time": "Sep 25, 2026 at 10:00 AM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Friendly",
+        "team1_logo": "https://cdn.img4every1.org/team/india/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/panama/logo.webp",
+        "team1_name": "IndiaPanama",
+        "team2_name": "India",
+        "date_and_time": "Sep 25, 2026 at 10:00 AM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    }
+]
