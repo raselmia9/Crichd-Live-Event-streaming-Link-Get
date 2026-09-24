@@ -1,55 +1,46 @@
 [
     {
         "event_name": "Live Sports",
-        "team1_logo": "https://cdn.img4every1.org/team/azerbaijan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/tajikistan/logo.webp",
-        "team1_name": "AzerbaijanTajikistan",
-        "team2_name": "Azerbaijan",
+        "team1_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team1_name": "Manchester CityBayern München",
+        "team2_name": "Manchester City",
         "date_and_time": "N/A",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "Live Sports",
-        "team1_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
-        "team1_name": "AustraliaBrazil",
-        "team2_name": "Australia",
+        "team1_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/hacken/logo.webp",
+        "team1_name": "Inter MilanHäcken",
+        "team2_name": "Inter Milan",
         "date_and_time": "N/A",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "Live Sports",
-        "team1_logo": "https://cdn.img4every1.org/team/india/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/panama/logo.webp",
-        "team1_name": "IndiaPanama",
-        "team2_name": "India",
+        "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/koge/logo.webp",
+        "team1_name": "ArsenalKøge",
+        "team2_name": "Arsenal",
         "date_and_time": "N/A",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "Live Sports",
-        "team1_logo": "https://cdn.img4every1.org/team/colombia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
-        "team1_name": "ColombiaMexico",
-        "team2_name": "Colombia",
+        "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team1_name": "Real MadridPSG",
+        "team2_name": "Real Madrid",
         "date_and_time": "N/A",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "Live Sports",
-        "team1_logo": "https://cdn.img4every1.org/team/usa/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/peru/logo.webp",
-        "team1_name": "USAPeru",
-        "team2_name": "USA",
-        "date_and_time": "N/A",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_logo": "https://cdn.img4every1.org/team/canada/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/chile/logo.webp",
-        "team1_name": "CanadaChile",
-        "team2_name": "Canada",
+        "team1_logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "team1_name": "BenficaJuventus",
+        "team2_name": "Benfica",
         "date_and_time": "N/A",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
@@ -73,100 +64,37 @@
     },
     {
         "event_name": "Live Sports",
-        "team1_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "team1_name": "F1 Azerbaijan Grand PrixFormula 1",
-        "team2_name": "F1 Azerbaijan Grand Prix",
+        "team1_logo": "https://cdn.img4every1.org/team/salford-city/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/sheffield-wednesday/logo.webp",
+        "team1_name": "Salford CitySheffield Wednesday",
+        "team2_name": "Salford City",
         "date_and_time": "N/A",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "Live Sports",
-        "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team1_name": "Open de FrancePGA Tour",
-        "team2_name": "Open de France",
+        "team1_logo": "https://cdn.img4every1.org/team/azerbaijan/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/tajikistan/logo.webp",
+        "team1_name": "AzerbaijanTajikistan",
+        "team2_name": "Azerbaijan",
         "date_and_time": "N/A",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "Live Sports",
-        "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team1_name": "Presidents CupPGA Tour",
-        "team2_name": "Presidents Cup",
+        "team1_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
+        "team1_name": "AustraliaBrazil",
+        "team2_name": "Australia",
         "date_and_time": "N/A",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "Live Sports",
-        "team1_logo": "https://cdn.img4every1.org/team/malta/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/andorra/logo.webp",
-        "team1_name": "MaltaAndorra",
-        "team2_name": "Malta",
-        "date_and_time": "N/A",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/wales/logo.webp",
-        "team1_name": "PortugalWales",
-        "team2_name": "Portugal",
-        "date_and_time": "N/A",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_logo": "https://cdn.img4every1.org/team/germany/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/netherlands/logo.webp",
-        "team1_name": "GermanyNetherlands",
-        "team2_name": "Germany",
-        "date_and_time": "N/A",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_logo": "https://cdn.img4every1.org/team/norway/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/denmark/logo.webp",
-        "team1_name": "NorwayDenmark",
-        "team2_name": "Norway",
-        "date_and_time": "N/A",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/kosovo/logo.webp",
-        "team1_name": "IrelandKosovo",
-        "team2_name": "Ireland",
-        "date_and_time": "N/A",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_logo": "https://cdn.img4every1.org/team/serbia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/greece/logo.webp",
-        "team1_name": "SerbiaGreece",
-        "team2_name": "Serbia",
-        "date_and_time": "N/A",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_logo": "https://cdn.img4every1.org/team/liechtenstein/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/lithuania/logo.webp",
-        "team1_name": "LiechtensteinLithuania",
-        "team2_name": "Liechtenstein",
-        "date_and_time": "N/A",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_logo": "https://cdn.img4every1.org/team/austria/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/israel/logo.webp",
-        "team1_name": "AustriaIsrael",
-        "team2_name": "Austria",
+        "team1_logo": "https://cdn.img4every1.org/team/india/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/panama/logo.webp",
+        "team1_name": "IndiaPanama",
+        "team2_name": "India",
         "date_and_time": "N/A",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     }
