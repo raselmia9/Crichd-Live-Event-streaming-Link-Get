@@ -28,24 +28,6 @@
     },
     {
         "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/northern-ireland/logo.webp",
-        "team1_name": "GeorgiaNorthern Ireland",
-        "team2_name": "Georgia",
-        "date_and_time": "Sep 25, 2026 at 04:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/georgia-vs-northern-ireland/2219)Link2,,https://crichd.pk/charlie/georgia-vs-northern-ireland/2220)"
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
-        "team1_name": "ArmeniaLatvia",
-        "team2_name": "Armenia",
-        "date_and_time": "Sep 25, 2026 at 04:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/armenia-vs-latvia/2217)Link2,,https://crichd.pk/charlie/armenia-vs-latvia/2218)"
-    },
-    {
-        "event_name": "Nations League",
         "team1_logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/france/logo.webp",
         "team1_name": "TurkiyeFrance",
@@ -90,6 +72,15 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/montenegro-vs-cyprus/2240)"
     },
     {
+        "event_name": "United Rugby",
+        "team1_logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/ulster/logo.webp",
+        "team1_name": "EdinburghUlster",
+        "team2_name": "Edinburgh",
+        "date_and_time": "Sep 25, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/edinburgh-vs-ulster/2236)"
+    },
+    {
         "event_name": "Nations League",
         "team1_logo": "https://cdn.img4every1.org/team/italy/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
@@ -97,6 +88,42 @@
         "team2_name": "Italy",
         "date_and_time": "Sep 25, 2026 at 06:45 PM UTC",
         "multi_streaming": "Link1,,https://crichd.pk/charlie/italy-vs-belgium-live-stream/2227)Link2,,https://crichd.pk/charlie/italy-vs-belgium-live-stream/2228)Link3,,https://crichd.pk/charlie/italy-vs-belgium-live-stream/2229)Link4,,https://crichd.pk/charlie/italy-vs-belgium-live-stream/2230)Link5,,https://crichd.pk/charlie/italy-vs-belgium-live-stream/2231)"
+    },
+    {
+        "event_name": "Premiership Rugby",
+        "team1_logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/newcastle-red-bulls/logo.webp",
+        "team1_name": "Northampton SaintsNewcastle Red Bulls",
+        "team2_name": "Northampton Saints",
+        "date_and_time": "Sep 25, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/northampton-vs-newcastle/2239)"
+    },
+    {
+        "event_name": "Premiership Rugby",
+        "team1_logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/harlequins/logo.webp",
+        "team1_name": "Bath RugbyHarlequins",
+        "team2_name": "Bath Rugby",
+        "date_and_time": "Sep 25, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/bath-rugby-vs-harlequins/2238)"
+    },
+    {
+        "event_name": "United Rugby",
+        "team1_logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/connacht/logo.webp",
+        "team1_name": "StormersConnacht",
+        "team2_name": "Stormers",
+        "date_and_time": "Sep 25, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/stormers-vs-connacht/2235)"
+    },
+    {
+        "event_name": "Super League",
+        "team1_logo": "https://cdn.img4every1.org/team/leeds-rhinos/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/warrington-wolves/logo.webp",
+        "team1_name": "Leeds RhinosWarrington Wolves",
+        "team2_name": "Leeds Rhinos",
+        "date_and_time": "Sep 25, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/leeds-rhinos-vs-warrington-wolves/2241)Link2,,https://crichd.pk/charlie/leeds-rhinos-vs-warrington-wolves/2242)"
     },
     {
         "event_name": "Nations League",
@@ -117,40 +144,58 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "United Rugby",
-        "team1_logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/ulster/logo.webp",
-        "team1_name": "EdinburghUlster",
-        "team2_name": "Edinburgh",
-        "date_and_time": "Sep 25, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/edinburgh-vs-ulster/2236)"
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
+        "team1_name": "Faroe IslandsKazakhstan",
+        "team2_name": "Faroe Islands",
+        "date_and_time": "Sep 26, 2026 at 04:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "United Rugby",
-        "team1_logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/connacht/logo.webp",
-        "team1_name": "StormersConnacht",
-        "team2_name": "Stormers",
-        "date_and_time": "Sep 25, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/stormers-vs-connacht/2235)"
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/iceland/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/estonia/logo.webp",
+        "team1_name": "IcelandEstonia",
+        "team2_name": "Iceland",
+        "date_and_time": "Sep 26, 2026 at 04:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Premiership Rugby",
-        "team1_logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/newcastle-red-bulls/logo.webp",
-        "team1_name": "Northampton SaintsNewcastle Red Bulls",
-        "team2_name": "Northampton Saints",
-        "date_and_time": "Sep 25, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/northampton-vs-newcastle/2239)"
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/finland/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/san-marino/logo.webp",
+        "team1_name": "FinlandSan Marino",
+        "team2_name": "Finland",
+        "date_and_time": "Sep 26, 2026 at 04:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Premiership Rugby",
-        "team1_logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/harlequins/logo.webp",
-        "team1_name": "Bath RugbyHarlequins",
-        "team2_name": "Bath Rugby",
-        "date_and_time": "Sep 25, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/bath-rugby-vs-harlequins/2238)"
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/spain/logo.webp",
+        "team1_name": "EnglandSpain",
+        "team2_name": "England",
+        "date_and_time": "Sep 26, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/czechia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
+        "team1_name": "CzechiaCroatia",
+        "team2_name": "Czechia",
+        "date_and_time": "Sep 26, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/switzerland/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/north-macedonia/logo.webp",
+        "team1_name": "SwitzerlandNorth Macedonia",
+        "team2_name": "Switzerland",
+        "date_and_time": "Sep 26, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "Friendly",
