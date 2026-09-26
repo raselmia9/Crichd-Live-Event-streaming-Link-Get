@@ -1,5 +1,14 @@
 [
     {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/spain/logo.webp",
+        "team1_name": "EnglandSpain",
+        "team2_name": "England",
+        "date_and_time": "Sep 26, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/england-vs-spain/2268)Link2,,https://crichd.pk/charlie/england-vs-spain/2269)Link3,,https://crichd.pk/charlie/england-vs-spain/2270)Link4,,https://crichd.pk/charlie/england-vs-spain/2271)Link5,,https://crichd.pk/charlie/england-vs-spain/2272)Link6,,https://crichd.pk/charlie/england-vs-spain/2273)"
+    },
+    {
         "event_name": "PGA Tour",
         "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -25,105 +34,6 @@
         "team2_name": "Laver Cup",
         "date_and_time": "Sep 26, 2026 at 12:00 PM UTC",
         "multi_streaming": "Link1,,https://crichd.pk/charlie/laver-cup/2262)Link2,,https://crichd.pk/charlie/laver-cup/2263)"
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/bulgaria/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/luxembourg/logo.webp",
-        "team1_name": "BulgariaLuxembourg",
-        "team2_name": "Bulgaria",
-        "date_and_time": "Sep 26, 2026 at 04:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/bulgaria-vs-luxembourg/2260)Link2,,https://crichd.pk/charlie/bulgaria-vs-luxembourg/2261)"
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
-        "team1_name": "Faroe IslandsKazakhstan",
-        "team2_name": "Faroe Islands",
-        "date_and_time": "Sep 26, 2026 at 04:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/faroe-islands-vs-kazakhstan/2266)"
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/iceland/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/estonia/logo.webp",
-        "team1_name": "IcelandEstonia",
-        "team2_name": "Iceland",
-        "date_and_time": "Sep 26, 2026 at 04:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/iceland-vs-estonia/2264)"
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/finland/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/san-marino/logo.webp",
-        "team1_name": "FinlandSan Marino",
-        "team2_name": "Finland",
-        "date_and_time": "Sep 26, 2026 at 04:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/finland-vs-san-marino/2267)"
-    },
-    {
-        "event_name": "WSL",
-        "team1_logo": "https://cdn.img4every1.org/team/london-city-lionesses/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
-        "team1_name": "London City LionessesBrighton & Hove Albion",
-        "team2_name": "London City Lionesses",
-        "date_and_time": "Sep 26, 2026 at 04:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/london-lionesses-vs-brighton/2258)Link2,,https://crichd.pk/charlie/london-lionesses-vs-brighton/2259)"
-    },
-    {
-        "event_name": "EFL",
-        "team1_logo": "https://cdn.img4every1.org/team/oldham-athletic/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/salford-city/logo.webp",
-        "team1_name": "Oldham AthleticSalford City",
-        "team2_name": "Oldham Athletic",
-        "date_and_time": "Sep 26, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/oldham-athletic-vs-salford-city/2250)"
-    },
-    {
-        "event_name": "Super League",
-        "team1_logo": "https://cdn.img4every1.org/team/wigan-warriors/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/wakefield-trinity/logo.webp",
-        "team1_name": "Wigan WarriorsWakefield Trinity",
-        "team2_name": "Wigan Warriors",
-        "date_and_time": "Sep 26, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/wigan-warriors-vs-wakefield-trinity/2252)Link2,,https://crichd.pk/charlie/wigan-warriors-vs-wakefield-trinity/2253)"
-    },
-    {
-        "event_name": "Premiership Rugby",
-        "team1_logo": "https://cdn.img4every1.org/team/bristol-bears/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sale-sharks/logo.webp",
-        "team1_name": "Bristol BearsSale Sharks",
-        "team2_name": "Bristol Bears",
-        "date_and_time": "Sep 26, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/bristol-bears-vs-sale-sharks/2251)"
-    },
-    {
-        "event_name": "United Rugby",
-        "team1_logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/munster/logo.webp",
-        "team1_name": "Glasgow WarriorsMunster",
-        "team2_name": "Glasgow Warriors",
-        "date_and_time": "Sep 26, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/glasgow-warriors-vs-munster/2248)"
-    },
-    {
-        "event_name": "United Rugby",
-        "team1_logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/zebre/logo.webp",
-        "team1_name": "BullsZebre",
-        "team2_name": "Bulls",
-        "date_and_time": "Sep 26, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/bulls-vs-zebre/2249)"
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/england/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/spain/logo.webp",
-        "team1_name": "EnglandSpain",
-        "team2_name": "England",
-        "date_and_time": "Sep 26, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/england-vs-spain/2268)Link2,,https://crichd.pk/charlie/england-vs-spain/2269)Link3,,https://crichd.pk/charlie/england-vs-spain/2270)Link4,,https://crichd.pk/charlie/england-vs-spain/2271)Link5,,https://crichd.pk/charlie/england-vs-spain/2272)Link6,,https://crichd.pk/charlie/england-vs-spain/2273)"
     },
     {
         "event_name": "Nations League",
@@ -162,6 +72,60 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/slovakia-vs-moldova/2280)"
     },
     {
+        "event_name": "United Rugby",
+        "team1_logo": "https://cdn.img4every1.org/team/scarlets/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
+        "team1_name": "ScarletsCardiff Blues",
+        "team2_name": "Scarlets",
+        "date_and_time": "Sep 26, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/scarlets-vs-cardiff-rugby/2254)"
+    },
+    {
+        "event_name": "Friendly",
+        "team1_logo": "https://cdn.img4every1.org/team/usa/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/peru/logo.webp",
+        "team1_name": "USAPeru",
+        "team2_name": "USA",
+        "date_and_time": "Sep 26, 2026 at 08:30 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/usa-vs-peru/2292)"
+    },
+    {
+        "event_name": "Friendly",
+        "team1_logo": "https://cdn.img4every1.org/team/canada/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/chile/logo.webp",
+        "team1_name": "CanadaChile",
+        "team2_name": "Canada",
+        "date_and_time": "Sep 26, 2026 at 11:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/canada-vs-chile/2278)Link2,,https://crichd.pk/charlie/canada-vs-chile/2281)"
+    },
+    {
+        "event_name": "Friendly",
+        "team1_logo": "https://cdn.img4every1.org/team/colombia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
+        "team1_name": "ColombiaMexico",
+        "team2_name": "Colombia",
+        "date_and_time": "Sep 27, 2026 at 01:00 AM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/colombia-vs-mexico/2291)"
+    },
+    {
+        "event_name": "UFC",
+        "team1_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team1_name": "Raul Rosas JrRaoni Barcelos",
+        "team2_name": "Raul Rosas Jr",
+        "date_and_time": "Sep 26, 2026 at 10:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/raul-rosas-jr-vs-raoni-barcelos/2244)"
+    },
+    {
+        "event_name": "Live Sports",
+        "team1_logo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team1_name": "South AfricaAustralia",
+        "team2_name": "South Africa",
+        "date_and_time": "N/A",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
         "event_name": "Nations League",
         "team1_logo": "https://cdn.img4every1.org/team/azerbaijan/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/lithuania/logo.webp",
@@ -189,57 +153,138 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "United Rugby",
-        "team1_logo": "https://cdn.img4every1.org/team/scarlets/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
-        "team1_name": "ScarletsCardiff Blues",
-        "team2_name": "Scarlets",
-        "date_and_time": "Sep 26, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/scarlets-vs-cardiff-rugby/2254)"
-    },
-    {
-        "event_name": "Friendly",
-        "team1_logo": "https://cdn.img4every1.org/team/colombia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
-        "team1_name": "ColombiaMexico",
-        "team2_name": "Colombia",
-        "date_and_time": "Sep 26, 2026 at 08:00 PM UTC",
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/kosovo/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/austria/logo.webp",
+        "team1_name": "KosovoAustria",
+        "team2_name": "Kosovo",
+        "date_and_time": "Sep 27, 2026 at 04:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Friendly",
-        "team1_logo": "https://cdn.img4every1.org/team/usa/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/peru/logo.webp",
-        "team1_name": "USAPeru",
-        "team2_name": "USA",
-        "date_and_time": "Sep 26, 2026 at 08:30 PM UTC",
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/gibraltar/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/andorra/logo.webp",
+        "team1_name": "GibraltarAndorra",
+        "team2_name": "Gibraltar",
+        "date_and_time": "Sep 27, 2026 at 04:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Live Sports",
-        "team1_logo": "https://cdn.img4every1.org/team/canada/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/chile/logo.webp",
-        "team1_name": "CanadaChile",
-        "team2_name": "Canada",
-        "date_and_time": "N/A",
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/norway/logo.webp",
+        "team1_name": "PortugalNorway",
+        "team2_name": "Portugal",
+        "date_and_time": "Sep 27, 2026 at 06:45 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "UFC",
-        "team1_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team1_name": "Raul Rosas JrRaoni Barcelos",
-        "team2_name": "Raul Rosas Jr",
-        "date_and_time": "Sep 26, 2026 at 10:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/raul-rosas-jr-vs-raoni-barcelos/2244)"
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/germany/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/greece/logo.webp",
+        "team1_name": "GermanyGreece",
+        "team2_name": "Germany",
+        "date_and_time": "Sep 27, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Live Sports",
-        "team1_logo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-        "team1_name": "South AfricaAustralia",
-        "team2_name": "South Africa",
-        "date_and_time": "N/A",
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/israel/logo.webp",
+        "team1_name": "IrelandIsrael",
+        "team2_name": "Ireland",
+        "date_and_time": "Sep 27, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Premiership Rugby",
+        "team1_logo": "https://cdn.img4every1.org/team/leicester-tigers/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
+        "team1_name": "Leicester TigersSaracens",
+        "team2_name": "Leicester Tigers",
+        "date_and_time": "Sep 27, 2026 at 02:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/leicester-tigers-vs-saracens/2282)"
+    },
+    {
+        "event_name": "WSL",
+        "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team1_name": "ChelseaArsenal",
+        "team2_name": "Chelsea",
+        "date_and_time": "Sep 27, 2026 at 03:30 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/chelsea-vs-arsenal/2283)Link2,,https://crichd.pk/charlie/chelsea-vs-arsenal/2284)"
+    },
+    {
+        "event_name": "NFL",
+        "team1_logo": "https://cdn.img4every1.org/team/indianapolis-colts/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/houston-texans/logo.webp",
+        "team1_name": "Indianapolis ColtsHouston Texans",
+        "team2_name": "Indianapolis Colts",
+        "date_and_time": "Sep 27, 2026 at 05:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "NFL",
+        "team1_logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/cleveland-browns/logo.webp",
+        "team1_name": "Carolina PanthersCleveland Browns",
+        "team2_name": "Carolina Panthers",
+        "date_and_time": "Sep 27, 2026 at 05:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "NFL",
+        "team1_logo": "https://cdn.img4every1.org/team/new-york-giants/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/tennessee-titans/logo.webp",
+        "team1_name": "New York GiantsTennessee Titans",
+        "team2_name": "New York Giants",
+        "date_and_time": "Sep 27, 2026 at 05:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "NFL",
+        "team1_logo": "https://cdn.img4every1.org/team/buffalo-bills/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/los-angeles-chargers/logo.webp",
+        "team1_name": "Buffalo BillsLos Angeles Chargers",
+        "team2_name": "Buffalo Bills",
+        "date_and_time": "Sep 27, 2026 at 05:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/bills-vs-chargers/2286)Link2,,https://crichd.pk/charlie/bills-vs-chargers/2287)"
+    },
+    {
+        "event_name": "NFL",
+        "team1_logo": "https://cdn.img4every1.org/team/miami-dolphins/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/kansas-city-chiefs/logo.webp",
+        "team1_name": "Miami DolphinsKansas City Chiefs",
+        "team2_name": "Miami Dolphins",
+        "date_and_time": "Sep 27, 2026 at 05:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "NFL",
+        "team1_logo": "https://cdn.img4every1.org/team/jacksonville-jaguars/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/new-england-patriots/logo.webp",
+        "team1_name": "Jacksonville JaguarsNew England Patriots",
+        "team2_name": "Jacksonville Jaguars",
+        "date_and_time": "Sep 27, 2026 at 05:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "NFL",
+        "team1_logo": "https://cdn.img4every1.org/team/detroit-lions/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/new-york-jets/logo.webp",
+        "team1_name": "Detroit LionsNew York Jets",
+        "team2_name": "Detroit Lions",
+        "date_and_time": "Sep 27, 2026 at 05:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "NFL",
+        "team1_logo": "https://cdn.img4every1.org/team/washington-commanders/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/seattle-seahawks/logo.webp",
+        "team1_name": "Washington CommandersSeattle Seahawks",
+        "team2_name": "Washington Commanders",
+        "date_and_time": "Sep 27, 2026 at 05:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     }
 ]
