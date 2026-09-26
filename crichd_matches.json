@@ -1,14 +1,5 @@
 [
     {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/england/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/spain/logo.webp",
-        "team1_name": "EnglandSpain",
-        "team2_name": "England",
-        "date_and_time": "Sep 26, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/england-vs-spain/2268)Link2,,https://crichd.pk/charlie/england-vs-spain/2269)Link3,,https://crichd.pk/charlie/england-vs-spain/2270)Link4,,https://crichd.pk/charlie/england-vs-spain/2271)Link5,,https://crichd.pk/charlie/england-vs-spain/2272)Link6,,https://crichd.pk/charlie/england-vs-spain/2273)"
-    },
-    {
         "event_name": "PGA Tour",
         "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -36,51 +27,6 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/laver-cup/2262)Link2,,https://crichd.pk/charlie/laver-cup/2263)"
     },
     {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/czechia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
-        "team1_name": "CzechiaCroatia",
-        "team2_name": "Czechia",
-        "date_and_time": "Sep 26, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/czechia-vs-croatia/2265)Link2,,https://crichd.pk/charlie/czechia-vs-croatia/2274)Link3,,https://crichd.pk/charlie/czechia-vs-croatia/2275)"
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/switzerland/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/north-macedonia/logo.webp",
-        "team1_name": "SwitzerlandNorth Macedonia",
-        "team2_name": "Switzerland",
-        "date_and_time": "Sep 26, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/switzerland-vs-north-macedonia/2276)Link2,,https://crichd.pk/charlie/switzerland-vs-north-macedonia/2277)"
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/albania/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/belarus/logo.webp",
-        "team1_name": "AlbaniaBelarus",
-        "team2_name": "Albania",
-        "date_and_time": "Sep 26, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/albania-vs-belarus/2279)"
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/slovakia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/moldova/logo.webp",
-        "team1_name": "SlovakiaMoldova",
-        "team2_name": "Slovakia",
-        "date_and_time": "Sep 26, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/slovakia-vs-moldova/2280)"
-    },
-    {
-        "event_name": "United Rugby",
-        "team1_logo": "https://cdn.img4every1.org/team/scarlets/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
-        "team1_name": "ScarletsCardiff Blues",
-        "team2_name": "Scarlets",
-        "date_and_time": "Sep 26, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/scarlets-vs-cardiff-rugby/2254)"
-    },
-    {
         "event_name": "Friendly",
         "team1_logo": "https://cdn.img4every1.org/team/usa/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/peru/logo.webp",
@@ -88,6 +34,15 @@
         "team2_name": "USA",
         "date_and_time": "Sep 26, 2026 at 08:30 PM UTC",
         "multi_streaming": "Link1,,https://crichd.pk/charlie/usa-vs-peru/2292)"
+    },
+    {
+        "event_name": "UFC",
+        "team1_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team1_name": "Raul Rosas JrRaoni Barcelos",
+        "team2_name": "Raul Rosas Jr",
+        "date_and_time": "Sep 26, 2026 at 10:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/raul-rosas-jr-vs-raoni-barcelos/2244)Link2,,https://crichd.pk/charlie/raul-rosas-jr-vs-raoni-barcelos/2294)"
     },
     {
         "event_name": "Friendly",
@@ -108,22 +63,22 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/colombia-vs-mexico/2291)"
     },
     {
-        "event_name": "UFC",
-        "team1_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team1_name": "Raul Rosas JrRaoni Barcelos",
-        "team2_name": "Raul Rosas Jr",
-        "date_and_time": "Sep 26, 2026 at 10:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/raul-rosas-jr-vs-raoni-barcelos/2244)"
+        "event_name": "NRL",
+        "team1_logo": "https://cdn.img4every1.org/team/newcastle-knights/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/penrith-panthers/logo.webp",
+        "team1_name": "Newcastle KnightsPenrith Panthers",
+        "team2_name": "Newcastle Knights",
+        "date_and_time": "Sep 27, 2026 at 06:00 AM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/newcastle-knights-vs-penrith-panthers/2293)Link2,,https://crichd.pk/charlie/newcastle-knights-vs-penrith-panthers/2295)"
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "Rugby Union",
         "team1_logo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
         "team1_name": "South AfricaAustralia",
         "team2_name": "South Africa",
-        "date_and_time": "N/A",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "date_and_time": "Sep 27, 2026 at 09:45 AM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/south-africa-vs-australia/2296)Link2,,https://crichd.pk/charlie/south-africa-vs-australia/2297)"
     },
     {
         "event_name": "Nations League",
