@@ -27,15 +27,6 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/laver-cup/2262)Link2,,https://crichd.pk/charlie/laver-cup/2263)"
     },
     {
-        "event_name": "Friendly",
-        "team1_logo": "https://cdn.img4every1.org/team/usa/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/peru/logo.webp",
-        "team1_name": "USAPeru",
-        "team2_name": "USA",
-        "date_and_time": "Sep 26, 2026 at 08:30 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/usa-vs-peru/2292)"
-    },
-    {
         "event_name": "UFC",
         "team1_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
@@ -72,13 +63,13 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/newcastle-knights-vs-penrith-panthers/2293)Link2,,https://crichd.pk/charlie/newcastle-knights-vs-penrith-panthers/2295)"
     },
     {
-        "event_name": "Rugby Union",
+        "event_name": "Live Sports",
         "team1_logo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
         "team1_name": "South AfricaAustralia",
         "team2_name": "South Africa",
-        "date_and_time": "Sep 27, 2026 at 09:45 AM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/south-africa-vs-australia/2296)Link2,,https://crichd.pk/charlie/south-africa-vs-australia/2297)"
+        "date_and_time": "N/A",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "Nations League",
