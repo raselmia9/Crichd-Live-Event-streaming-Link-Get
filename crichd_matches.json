@@ -1,14 +1,5 @@
 [
     {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
-        "team1_name": "Los Angeles RamsDenver Broncos",
-        "team2_name": "Los Angeles Rams",
-        "date_and_time": "Sep 28, 2026 at 12:20 AM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/rams-vs-broncos/2326)Link2,,https://crichd.pk/charlie/rams-vs-broncos/2327)Link3,,https://crichd.pk/charlie/rams-vs-broncos/2328)"
-    },
-    {
         "event_name": "Snooker",
         "team1_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
