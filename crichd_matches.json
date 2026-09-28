@@ -10,33 +10,6 @@
     },
     {
         "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/montenegro/logo.webp",
-        "team1_name": "ArmeniaMontenegro",
-        "team2_name": "Armenia",
-        "date_and_time": "Sep 28, 2026 at 04:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/armenia-vs-montenegro/2349)Link2,,https://crichd.pk/charlie/armenia-vs-montenegro/2350)Link3,,https://crichd.pk/charlie/armenia-vs-montenegro/2351)"
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cyprus/logo.webp",
-        "team1_name": "LatviaCyprus",
-        "team2_name": "Latvia",
-        "date_and_time": "Sep 28, 2026 at 04:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/latvia-vs-cyprus/2353)Link2,,https://crichd.pk/charlie/latvia-vs-cyprus/2355)Link3,,https://crichd.pk/charlie/latvia-vs-cyprus/2356)"
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/ukraine/logo.webp",
-        "team1_name": "GeorgiaUkraine",
-        "team2_name": "Georgia",
-        "date_and_time": "Sep 28, 2026 at 04:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/georgia-vs-ukraine/2342)Link2,,https://crichd.pk/charlie/georgia-vs-ukraine/2344)Link3,,https://crichd.pk/charlie/georgia-vs-ukraine/2345)Link4,,https://crichd.pk/charlie/georgia-vs-ukraine/2352)"
-    },
-    {
-        "event_name": "Nations League",
         "team1_logo": "https://cdn.img4every1.org/team/france/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
         "team1_name": "FranceBelgium",
@@ -69,7 +42,7 @@
         "team1_name": "Bosnia and HerzegovinaRomania",
         "team2_name": "Bosnia and Herzegovina",
         "date_and_time": "Sep 28, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/bosnia-vs-romania/2362)"
     },
     {
         "event_name": "Nations League",
@@ -78,7 +51,7 @@
         "team1_name": "PolandSweden",
         "team2_name": "Poland",
         "date_and_time": "Sep 28, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/poland-vs-sweden/2354)"
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/poland-vs-sweden/2354)Link2,,https://crichd.pk/charlie/poland-vs-sweden/2363)"
     },
     {
         "event_name": "NFL",
@@ -96,6 +69,78 @@
         "team1_name": "AustraliaBrazil",
         "team2_name": "Australia",
         "date_and_time": "Sep 29, 2026 at 10:00 AM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/finland/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/belarus/logo.webp",
+        "team1_name": "FinlandBelarus",
+        "team2_name": "Finland",
+        "date_and_time": "Sep 29, 2026 at 04:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/moldova/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
+        "team1_name": "MoldovaFaroe Islands",
+        "team2_name": "Moldova",
+        "date_and_time": "Sep 29, 2026 at 04:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/spain/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
+        "team1_name": "SpainCroatia",
+        "team2_name": "Spain",
+        "date_and_time": "Sep 29, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/czechia/logo.webp",
+        "team1_name": "EnglandCzechia",
+        "team2_name": "England",
+        "date_and_time": "Sep 29, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/switzerland/logo.webp",
+        "team1_name": "ScotlandSwitzerland",
+        "team2_name": "Scotland",
+        "date_and_time": "Sep 29, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/slovakia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
+        "team1_name": "SlovakiaKazakhstan",
+        "team2_name": "Slovakia",
+        "date_and_time": "Sep 29, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/albania/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/san-marino/logo.webp",
+        "team1_name": "AlbaniaSan Marino",
+        "team2_name": "Albania",
+        "date_and_time": "Sep 29, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/luxembourg/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/iceland/logo.webp",
+        "team1_name": "LuxembourgIceland",
+        "team2_name": "Luxembourg",
+        "date_and_time": "Sep 29, 2026 at 06:45 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     }
 ]
