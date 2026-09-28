@@ -1,51 +1,6 @@
 [
     {
         "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/league/nfl-streams/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/nfl-streams/logo.webp",
-        "team1_name": "NFL RedzoneNFL",
-        "team2_name": "NFL Redzone",
-        "date_and_time": "Sep 27, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/nfl-redzone/2325)"
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/tampa-bay-buccaneers/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/minnesota-vikings/logo.webp",
-        "team1_name": "Tampa Bay BuccaneersMinnesota Vikings",
-        "team2_name": "Tampa Bay Buccaneers",
-        "date_and_time": "Sep 27, 2026 at 08:05 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/buccaneers-vs-vikings/2323)"
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/arizona-cardinals/logo.webp",
-        "team1_name": "San Francisco 49ersArizona Cardinals",
-        "team2_name": "San Francisco 49ers",
-        "date_and_time": "Sep 27, 2026 at 08:05 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/49ers-vs-cardinals/2288)"
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/baltimore-ravens/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
-        "team1_name": "Baltimore RavensDallas Cowboys",
-        "team2_name": "Baltimore Ravens",
-        "date_and_time": "Sep 27, 2026 at 08:25 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/ravens-vs-cowboys/2289)Link2,,https://crichd.pk/charlie/ravens-vs-cowboys/2290)"
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/new-orleans-saints/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/las-vegas-raiders/logo.webp",
-        "team1_name": "New Orleans SaintsLas Vegas Raiders",
-        "team2_name": "New Orleans Saints",
-        "date_and_time": "Sep 27, 2026 at 08:25 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/saints-vs-raiders/2324)"
-    },
-    {
-        "event_name": "NFL",
         "team1_logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
         "team1_name": "Los Angeles RamsDenver Broncos",
