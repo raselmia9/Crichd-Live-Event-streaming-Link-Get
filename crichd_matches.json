@@ -19,33 +19,6 @@
     },
     {
         "event_name": "MLB",
-        "team1_logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/philadelphia-phillies/logo.webp",
-        "team1_name": "Atlanta BravesPhiladelphia Phillies",
-        "team2_name": "Atlanta Braves",
-        "date_and_time": "Sep 30, 2026 at 06:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/philadelphia-phillies-vs-braves/2392)"
-    },
-    {
-        "event_name": "Womens Champions League",
-        "team1_logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team1_name": "BenficaBayern München",
-        "team2_name": "Benfica",
-        "date_and_time": "Sep 30, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/benfica-vs-bayern-munchen/2419)Link2,,https://crichd.pk/charlie/benfica-vs-bayern-munchen/2420)"
-    },
-    {
-        "event_name": "Womens Champions League",
-        "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
-        "team1_name": "ChelseaOlympique Lyonnais",
-        "team2_name": "Chelsea",
-        "date_and_time": "Sep 30, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/chelsea-vs-lyon/2421)Link2,,https://crichd.pk/charlie/chelsea-vs-lyon/2422)"
-    },
-    {
-        "event_name": "MLB",
         "team1_logo": "https://cdn.img4every1.org/team/chicago-white-sox/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/houston-astros/logo.webp",
         "team1_name": "Chicago White SoxHouston Astros",
