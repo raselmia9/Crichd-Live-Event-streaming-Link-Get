@@ -18,22 +18,40 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/japan-open-tennis-championships/2395)Link2,,https://crichd.pk/charlie/japan-open-tennis-championships/2396)Link3,,https://crichd.pk/charlie/japan-open-tennis-championships/2397)"
     },
     {
-        "event_name": "FIFA ASEAN Cup",
-        "team1_logo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/indonesia/logo.webp",
-        "team1_name": "BangladeshIndonesia",
-        "team2_name": "Bangladesh",
-        "date_and_time": "Oct 01, 2026 at 11:30 AM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/bangladesh-vs-indonesia/2409)"
-    },
-    {
         "event_name": "Nations League",
         "team1_logo": "https://cdn.img4every1.org/team/azerbaijan/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/liechtenstein/logo.webp",
         "team1_name": "AzerbaijanLiechtenstein",
         "team2_name": "Azerbaijan",
         "date_and_time": "Oct 01, 2026 at 04:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/azerbaijan-vs-liechtenstein/2423)Link2,,https://crichd.pk/charlie/azerbaijan-vs-liechtenstein/2424)"
+    },
+    {
+        "event_name": "Womens Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/austria-wien/logo.webp",
+        "team1_name": "Inter MilanAustria Wien",
+        "team2_name": "Inter Milan",
+        "date_and_time": "Oct 01, 2026 at 04:45 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/inter-milano-vs-austria-wien/2425)Link2,,https://crichd.pk/charlie/inter-milano-vs-austria-wien/2426)"
+    },
+    {
+        "event_name": "Womens Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team1_name": "Manchester CityReal Madrid",
+        "team2_name": "Manchester City",
+        "date_and_time": "Oct 01, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/manchester-city-vs-real-madrid/2429)Link2,,https://crichd.pk/charlie/manchester-city-vs-real-madrid/2430)"
+    },
+    {
+        "event_name": "Womens Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/oud-heverlee-leuven/logo.webp",
+        "team1_name": "PSGOud-Heverlee Leuven",
+        "team2_name": "PSG",
+        "date_and_time": "Oct 01, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/psg-vs-oh-leuven/2427)Link2,,https://crichd.pk/charlie/psg-vs-oh-leuven/2428)"
     },
     {
         "event_name": "Nations League",
@@ -99,30 +117,12 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Womens Champions League",
-        "team1_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/austria-wien/logo.webp",
-        "team1_name": "Inter MilanAustria Wien",
-        "team2_name": "Inter Milan",
-        "date_and_time": "Oct 01, 2026 at 04:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Womens Champions League",
-        "team1_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team1_name": "Manchester CityReal Madrid",
-        "team2_name": "Manchester City",
-        "date_and_time": "Oct 01, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Womens Champions League",
-        "team1_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/oud-heverlee-leuven/logo.webp",
-        "team1_name": "PSGOud-Heverlee Leuven",
-        "team2_name": "PSG",
-        "date_and_time": "Oct 01, 2026 at 07:00 PM UTC",
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
+        "team1_name": "TurkiyeBelgium",
+        "team2_name": "Turkiye",
+        "date_and_time": "Oct 02, 2026 at 06:45 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
