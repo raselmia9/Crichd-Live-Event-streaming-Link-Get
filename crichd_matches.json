@@ -54,15 +54,6 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/f1-bahrain-grand-prix/2399)Link2,,https://crichd.pk/charlie/f1-bahrain-grand-prix/2400)Link3,,https://crichd.pk/charlie/f1-bahrain-grand-prix/2401)"
     },
     {
-        "event_name": "Live Sports",
-        "team1_logo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/vietnam/logo.webp",
-        "team1_name": "PakistanVietnam",
-        "team2_name": "Pakistan",
-        "date_and_time": "N/A",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
         "event_name": "PGA Tour",
         "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -72,13 +63,76 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/alfred-dunhill-championship/2452)"
     },
     {
-        "event_name": "United Rugby",
-        "team1_logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/zebre/logo.webp",
-        "team1_name": "Cardiff BluesZebre",
-        "team2_name": "Cardiff Blues",
-        "date_and_time": "Oct 02, 2026 at 02:45 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/cardiff-blues-vs-zebre/2453)"
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/moldova/logo.webp",
+        "team1_name": "KazakhstanMoldova",
+        "team2_name": "Kazakhstan",
+        "date_and_time": "Oct 02, 2026 at 02:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/kazakhstan-vs-moldova/2459)Link2,,https://crichd.pk/charlie/kazakhstan-vs-moldova/2460)"
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/cyprus/logo.webp",
+        "team1_name": "ArmeniaCyprus",
+        "team2_name": "Armenia",
+        "date_and_time": "Oct 02, 2026 at 04:00 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/armenia-vs-cyprus/2461)Link2,,https://crichd.pk/charlie/armenia-vs-cyprus/2462)"
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
+        "team1_name": "TurkiyeBelgium",
+        "team2_name": "Turkiye",
+        "date_and_time": "Oct 02, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/turkey-vs-belgium/2465)Link2,,https://crichd.pk/charlie/turkey-vs-belgium/2466)Link3,,https://crichd.pk/charlie/turkey-vs-belgium/2470)"
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/ukraine/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/northern-ireland/logo.webp",
+        "team1_name": "UkraineNorthern Ireland",
+        "team2_name": "Ukraine",
+        "date_and_time": "Oct 02, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/ukraine-vs-northern-ireland/2471)Link2,,https://crichd.pk/charlie/ukraine-vs-northern-ireland/2472)"
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
+        "team1_name": "HungaryGeorgia",
+        "team2_name": "Hungary",
+        "date_and_time": "Oct 02, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/hungary-vs-georgia/2474)"
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/poland/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/romania/logo.webp",
+        "team1_name": "PolandRomania",
+        "team2_name": "Poland",
+        "date_and_time": "Oct 02, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/poland-vs-romania/2475)Link2,,https://crichd.pk/charlie/poland-vs-romania/2477)"
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/sweden/logo.webp",
+        "team1_name": "Bosnia and HerzegovinaSweden",
+        "team2_name": "Bosnia and Herzegovina",
+        "date_and_time": "Oct 02, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/bosnia-vs-sweden/2476)Link2,,https://crichd.pk/charlie/bosnia-vs-sweden/2478)"
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/slovakia/logo.webp",
+        "team1_name": "Faroe IslandsSlovakia",
+        "team2_name": "Faroe Islands",
+        "date_and_time": "Oct 02, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "United Rugby",
@@ -99,67 +153,13 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/benetton-treviso-vs-connacht/2455)"
     },
     {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
-        "team1_name": "TurkiyeBelgium",
-        "team2_name": "Turkiye",
+        "event_name": "United Rugby",
+        "team1_logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/zebre/logo.webp",
+        "team1_name": "Cardiff BluesZebre",
+        "team2_name": "Cardiff Blues",
         "date_and_time": "Oct 02, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/ukraine/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/northern-ireland/logo.webp",
-        "team1_name": "UkraineNorthern Ireland",
-        "team2_name": "Ukraine",
-        "date_and_time": "Oct 02, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
-        "team1_name": "HungaryGeorgia",
-        "team2_name": "Hungary",
-        "date_and_time": "Oct 02, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/poland/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/romania/logo.webp",
-        "team1_name": "PolandRomania",
-        "team2_name": "Poland",
-        "date_and_time": "Oct 02, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sweden/logo.webp",
-        "team1_name": "Bosnia and HerzegovinaSweden",
-        "team2_name": "Bosnia and Herzegovina",
-        "date_and_time": "Oct 02, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/slovakia/logo.webp",
-        "team1_name": "Faroe IslandsSlovakia",
-        "team2_name": "Faroe Islands",
-        "date_and_time": "Oct 02, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/italy/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/france/logo.webp",
-        "team1_name": "ItalyFrance",
-        "team2_name": "Italy",
-        "date_and_time": "Oct 02, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/cardiff-blues-vs-zebre/2453)"
     },
     {
         "event_name": "Premiership Rugby",
@@ -177,7 +177,7 @@
         "team1_name": "IndiaBrazil",
         "team2_name": "India",
         "date_and_time": "Oct 03, 2026 at 02:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/india-vs-brazil/2485)Link2,,https://crichd.pk/charlie/india-vs-brazil/2486)Link3,,https://crichd.pk/charlie/india-vs-brazil/2487)Link4,,https://crichd.pk/charlie/india-vs-brazil/2488)"
     },
     {
         "event_name": "Friendly",
