@@ -27,33 +27,6 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/bank-of-utah-championship/2444)"
     },
     {
-        "event_name": "Womens Champions League",
-        "team1_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team1_name": "Manchester CityReal Madrid",
-        "team2_name": "Manchester City",
-        "date_and_time": "Oct 01, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/manchester-city-vs-real-madrid/2429)Link2,,https://crichd.pk/charlie/manchester-city-vs-real-madrid/2430)"
-    },
-    {
-        "event_name": "Womens Champions League",
-        "team1_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/oud-heverlee-leuven/logo.webp",
-        "team1_name": "PSGOud-Heverlee Leuven",
-        "team2_name": "PSG",
-        "date_and_time": "Oct 01, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/psg-vs-oh-leuven/2427)Link2,,https://crichd.pk/charlie/psg-vs-oh-leuven/2428)"
-    },
-    {
-        "event_name": "MLB",
-        "team1_logo": "https://cdn.img4every1.org/team/chicago-white-sox/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/houston-astros/logo.webp",
-        "team1_name": "Chicago White SoxHouston Astros",
-        "team2_name": "Chicago White Sox",
-        "date_and_time": "Oct 01, 2026 at 09:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/chicago-white-sox-vs-astros/2446)Link2,,https://crichd.pk/charlie/chicago-white-sox-vs-astros/2447)"
-    },
-    {
         "event_name": "PGA Tour",
         "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -63,15 +36,6 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/lpga-lotte-championship/2449)"
     },
     {
-        "event_name": "PGA Tour",
-        "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team1_name": "Alfred Dunhill ChampionshipPGA Tour",
-        "team2_name": "Alfred Dunhill Championship",
-        "date_and_time": "Oct 02, 2026 at 10:00 AM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/alfred-dunhill-championship/2452)"
-    },
-    {
         "event_name": "MLB",
         "team1_logo": "https://cdn.img4every1.org/team/new-york-yankees/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/boston-red-sox/logo.webp",
@@ -79,15 +43,6 @@
         "team2_name": "New York Yankees",
         "date_and_time": "Oct 02, 2026 at 12:00 AM UTC",
         "multi_streaming": "Link1,,https://crichd.pk/charlie/yankees-vs-red-sox/2448)"
-    },
-    {
-        "event_name": "MLB",
-        "team1_logo": "https://cdn.img4every1.org/team/chicago-cubs/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/san-diego-padres/logo.webp",
-        "team1_name": "Chicago CubsSan Diego Padres",
-        "team2_name": "Chicago Cubs",
-        "date_and_time": "Oct 02, 2026 at 02:00 AM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/cubs-vs-padres/2450)Link2,,https://crichd.pk/charlie/cubs-vs-padres/2451)"
     },
     {
         "event_name": "MotoGP",
@@ -108,13 +63,13 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/steelers-vs-browns/2402)Link2,,https://crichd.pk/charlie/steelers-vs-browns/2403)Link3,,https://crichd.pk/charlie/steelers-vs-browns/2404)"
     },
     {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/washington-commanders/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/indianapolis-colts/logo.webp",
-        "team1_name": "Washington CommandersIndianapolis Colts",
-        "team2_name": "Washington Commanders",
-        "date_and_time": "Oct 04, 2026 at 01:30 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/commanders-vs-colts/2405)Link2,,https://crichd.pk/charlie/commanders-vs-colts/2406)"
+        "event_name": "MLB",
+        "team1_logo": "https://cdn.img4every1.org/team/chicago-cubs/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/san-diego-padres/logo.webp",
+        "team1_name": "Chicago CubsSan Diego Padres",
+        "team2_name": "Chicago Cubs",
+        "date_and_time": "Oct 02, 2026 at 02:00 AM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/cubs-vs-padres/2450)Link2,,https://crichd.pk/charlie/cubs-vs-padres/2451)"
     },
     {
         "event_name": "Formula 1",
@@ -133,6 +88,15 @@
         "team2_name": "Pakistan",
         "date_and_time": "Oct 02, 2026 at 08:00 AM UTC",
         "multi_streaming": "Link1,,https://crichd.pk/charlie/pakistan-vs-vietnam/2457)"
+    },
+    {
+        "event_name": "PGA Tour",
+        "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team1_name": "Alfred Dunhill ChampionshipPGA Tour",
+        "team2_name": "Alfred Dunhill Championship",
+        "date_and_time": "Oct 02, 2026 at 10:00 AM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/alfred-dunhill-championship/2452)"
     },
     {
         "event_name": "United Rugby",
@@ -268,5 +232,14 @@
         "team2_name": "USA",
         "date_and_time": "Oct 04, 2026 at 02:00 AM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "NFL",
+        "team1_logo": "https://cdn.img4every1.org/team/washington-commanders/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/indianapolis-colts/logo.webp",
+        "team1_name": "Washington CommandersIndianapolis Colts",
+        "team2_name": "Washington Commanders",
+        "date_and_time": "Oct 04, 2026 at 01:30 PM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/commanders-vs-colts/2405)Link2,,https://crichd.pk/charlie/commanders-vs-colts/2406)"
     }
 ]
