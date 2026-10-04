@@ -18,42 +18,6 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/lpga-lotte-championship/2449)"
     },
     {
-        "event_name": "Snooker",
-        "team1_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "team1_name": "Shenzhen Open SnookerSnooker",
-        "team2_name": "Shenzhen Open Snooker",
-        "date_and_time": "Oct 04, 2026 at 06:00 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/shenzhen-open-snooker/2330)Link2,,https://playerbee.top/charlie/shenzhen-open-snooker/2332)"
-    },
-    {
-        "event_name": "PGA Tour",
-        "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team1_name": "Alfred Dunhill ChampionshipPGA Tour",
-        "team2_name": "Alfred Dunhill Championship",
-        "date_and_time": "Oct 04, 2026 at 10:00 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/alfred-dunhill-championship/2452)"
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/azerbaijan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/lithuania/logo.webp",
-        "team1_name": "AzerbaijanLithuania",
-        "team2_name": "Azerbaijan",
-        "date_and_time": "Oct 04, 2026 at 01:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/azerbaijan-vs-lithuania/2526)Link2,,https://playerbee.top/charlie/azerbaijan-vs-lithuania/2527)"
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/washington-commanders/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/indianapolis-colts/logo.webp",
-        "team1_name": "Washington CommandersIndianapolis Colts",
-        "team2_name": "Washington Commanders",
-        "date_and_time": "Oct 04, 2026 at 01:30 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/commanders-vs-colts/2405)Link2,,https://playerbee.top/charlie/commanders-vs-colts/2406)"
-    },
-    {
         "event_name": "Nations League",
         "team1_logo": "https://cdn.img4every1.org/team/kosovo/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/austria/logo.webp",
@@ -72,51 +36,6 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/malta-vs-andorra-live/2530)Link2,,https://playerbee.top/charlie/malta-vs-andorra-live/2531)"
     },
     {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/wales/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/denmark/logo.webp",
-        "team1_name": "WalesDenmark",
-        "team2_name": "Wales",
-        "date_and_time": "Oct 04, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/norway/logo.webp",
-        "team1_name": "PortugalNorway",
-        "team2_name": "Portugal",
-        "date_and_time": "Oct 04, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/germany/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/greece/logo.webp",
-        "team1_name": "GermanyGreece",
-        "team2_name": "Germany",
-        "date_and_time": "Oct 04, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/israel/logo.webp",
-        "team1_name": "IrelandIsrael",
-        "team2_name": "Ireland",
-        "date_and_time": "Oct 04, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/netherlands/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/serbia/logo.webp",
-        "team1_name": "NetherlandsSerbia",
-        "team2_name": "Netherlands",
-        "date_and_time": "Oct 04, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
         "event_name": "NFL",
         "team1_logo": "https://cdn.img4every1.org/team/buffalo-bills/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/new-england-patriots/logo.webp",
@@ -133,6 +52,15 @@
         "team2_name": "Cincinnati Bengals",
         "date_and_time": "Oct 04, 2026 at 05:00 PM UTC",
         "multi_streaming": "Link1,,https://playerbee.top/charlie/bengals-vs-jaguars/2536)"
+    },
+    {
+        "event_name": "NFL",
+        "team1_logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
+        "team1_name": "Los Angeles RamsPhiladelphia Eagles",
+        "team2_name": "Los Angeles Rams",
+        "date_and_time": "Oct 04, 2026 at 05:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/los-angeles-rams-vs-eagles-live-stream/2538)"
     },
     {
         "event_name": "NFL",
@@ -160,5 +88,140 @@
         "team2_name": "Dallas Cowboys",
         "date_and_time": "Oct 04, 2026 at 05:00 PM UTC",
         "multi_streaming": "Link1,,https://playerbee.top/charlie/cowboys-vs-texans-live-1/2537)"
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/wales/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/denmark/logo.webp",
+        "team1_name": "WalesDenmark",
+        "team2_name": "Wales",
+        "date_and_time": "Oct 04, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/wales-vs-denmark/2548)Link2,,https://playerbee.top/charlie/wales-vs-denmark/2549)"
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/norway/logo.webp",
+        "team1_name": "PortugalNorway",
+        "team2_name": "Portugal",
+        "date_and_time": "Oct 04, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/portugal-vs-norway/2539)Link2,,https://playerbee.top/charlie/portugal-vs-norway/2540)Link3,,https://playerbee.top/charlie/portugal-vs-norway/2541)Link4,,https://playerbee.top/charlie/portugal-vs-norway/2542)"
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/germany/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/greece/logo.webp",
+        "team1_name": "GermanyGreece",
+        "team2_name": "Germany",
+        "date_and_time": "Oct 04, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/germany-vs-greece/2543)Link2,,https://playerbee.top/charlie/germany-vs-greece/2544)Link3,,https://playerbee.top/charlie/germany-vs-greece/2545)Link4,,https://playerbee.top/charlie/germany-vs-greece/2546)"
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/israel/logo.webp",
+        "team1_name": "IrelandIsrael",
+        "team2_name": "Ireland",
+        "date_and_time": "Oct 04, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/ireland-vs-israel/2547)"
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/netherlands/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/serbia/logo.webp",
+        "team1_name": "NetherlandsSerbia",
+        "team2_name": "Netherlands",
+        "date_and_time": "Oct 04, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/netherlands-vs-serbia/2550)Link2,,https://playerbee.top/charlie/netherlands-vs-serbia/2551)"
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/cyprus/logo.webp",
+        "team1_name": "LatviaCyprus",
+        "team2_name": "Latvia",
+        "date_and_time": "Oct 05, 2026 at 04:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/sweden/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/romania/logo.webp",
+        "team1_name": "SwedenRomania",
+        "team2_name": "Sweden",
+        "date_and_time": "Oct 05, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/poland/logo.webp",
+        "team1_name": "Bosnia and HerzegovinaPoland",
+        "team2_name": "Bosnia and Herzegovina",
+        "date_and_time": "Oct 05, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "NFL",
+        "team1_logo": "https://cdn.img4every1.org/team/minnesota-vikings/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/miami-dolphins/logo.webp",
+        "team1_name": "Minnesota VikingsMiami Dolphins",
+        "team2_name": "Minnesota Vikings",
+        "date_and_time": "Oct 04, 2026 at 08:05 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/vikings-vs-dolphins/2552)"
+    },
+    {
+        "event_name": "NFL",
+        "team1_logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
+        "team1_name": "San Francisco 49ersDenver Broncos",
+        "team2_name": "San Francisco 49ers",
+        "date_and_time": "Oct 04, 2026 at 08:25 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/49ers-vs-broncos/2553)"
+    },
+    {
+        "event_name": "NFL",
+        "team1_logo": "https://cdn.img4every1.org/team/los-angeles-chargers/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/seattle-seahawks/logo.webp",
+        "team1_name": "Los Angeles ChargersSeattle Seahawks",
+        "team2_name": "Los Angeles Chargers",
+        "date_and_time": "Oct 04, 2026 at 08:25 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/chargers-vs-seahawks/2556)"
+    },
+    {
+        "event_name": "NFL",
+        "team1_logo": "https://cdn.img4every1.org/team/kansas-city-chiefs/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/las-vegas-raiders/logo.webp",
+        "team1_name": "Kansas City ChiefsLas Vegas Raiders",
+        "team2_name": "Kansas City Chiefs",
+        "date_and_time": "Oct 04, 2026 at 08:25 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/chiefs-vs-raiders-live/2554)Link2,,https://playerbee.top/charlie/chiefs-vs-raiders-live/2555)"
+    },
+    {
+        "event_name": "Friendly",
+        "team1_logo": "https://cdn.img4every1.org/team/india/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/uruguay/logo.webp",
+        "team1_name": "IndiaUruguay",
+        "team2_name": "India",
+        "date_and_time": "Oct 06, 2026 at 02:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Friendly",
+        "team1_logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/benin/logo.webp",
+        "team1_name": "ArgentinaBenin",
+        "team2_name": "Argentina",
+        "date_and_time": "Oct 06, 2026 at 11:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Friendly",
+        "team1_logo": "https://cdn.img4every1.org/team/colombia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/peru/logo.webp",
+        "team1_name": "ColombiaPeru",
+        "team2_name": "Colombia",
+        "date_and_time": "Oct 06, 2026 at 11:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     }
 ]
