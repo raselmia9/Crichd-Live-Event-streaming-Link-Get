@@ -1,21 +1,12 @@
 [
     {
-        "event_name": "ATP Tour",
-        "team1_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
-        "team1_name": "Japan Open Tennis ChampionshipsATP Tour",
-        "team2_name": "Japan Open Tennis Championships",
-        "date_and_time": "Oct 03, 2026 at 02:00 AM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/japan-open-tennis-championships/2395)Link2,,https://crichd.pk/charlie/japan-open-tennis-championships/2396)Link3,,https://crichd.pk/charlie/japan-open-tennis-championships/2397)"
-    },
-    {
         "event_name": "PGA Tour",
         "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team1_name": "Bank of Utah ChampionshipPGA Tour",
         "team2_name": "Bank of Utah Championship",
         "date_and_time": "Oct 03, 2026 at 04:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/bank-of-utah-championship/2444)"
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/bank-of-utah-championship/2444)"
     },
     {
         "event_name": "PGA Tour",
@@ -24,16 +15,7 @@
         "team1_name": "LPGA Lotte ChampionshipPGA Tour",
         "team2_name": "LPGA Lotte Championship",
         "date_and_time": "Oct 04, 2026 at 12:00 AM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/lpga-lotte-championship/2449)"
-    },
-    {
-        "event_name": "Formula 1",
-        "team1_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "team1_name": "f1 Bahrain Grand PrixFormula 1",
-        "team2_name": "f1 Bahrain Grand Prix",
-        "date_and_time": "Oct 04, 2026 at 04:00 AM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/f1-bahrain-grand-prix/2399)Link2,,https://crichd.pk/charlie/f1-bahrain-grand-prix/2400)Link3,,https://crichd.pk/charlie/f1-bahrain-grand-prix/2401)"
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/lpga-lotte-championship/2449)"
     },
     {
         "event_name": "Snooker",
@@ -42,7 +24,7 @@
         "team1_name": "Shenzhen Open SnookerSnooker",
         "team2_name": "Shenzhen Open Snooker",
         "date_and_time": "Oct 04, 2026 at 06:00 AM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/shenzhen-open-snooker/2330)Link2,,https://crichd.pk/charlie/shenzhen-open-snooker/2332)"
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/shenzhen-open-snooker/2330)Link2,,https://playerbee.top/charlie/shenzhen-open-snooker/2332)"
     },
     {
         "event_name": "PGA Tour",
@@ -51,7 +33,7 @@
         "team1_name": "Alfred Dunhill ChampionshipPGA Tour",
         "team2_name": "Alfred Dunhill Championship",
         "date_and_time": "Oct 04, 2026 at 10:00 AM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/alfred-dunhill-championship/2452)"
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/alfred-dunhill-championship/2452)"
     },
     {
         "event_name": "Nations League",
@@ -60,7 +42,16 @@
         "team1_name": "AzerbaijanLithuania",
         "team2_name": "Azerbaijan",
         "date_and_time": "Oct 04, 2026 at 01:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/azerbaijan-vs-lithuania/2526)Link2,,https://crichd.pk/charlie/azerbaijan-vs-lithuania/2527)"
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/azerbaijan-vs-lithuania/2526)Link2,,https://playerbee.top/charlie/azerbaijan-vs-lithuania/2527)"
+    },
+    {
+        "event_name": "NFL",
+        "team1_logo": "https://cdn.img4every1.org/team/washington-commanders/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/indianapolis-colts/logo.webp",
+        "team1_name": "Washington CommandersIndianapolis Colts",
+        "team2_name": "Washington Commanders",
+        "date_and_time": "Oct 04, 2026 at 01:30 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/commanders-vs-colts/2405)Link2,,https://playerbee.top/charlie/commanders-vs-colts/2406)"
     },
     {
         "event_name": "Nations League",
@@ -69,7 +60,7 @@
         "team1_name": "KosovoAustria",
         "team2_name": "Kosovo",
         "date_and_time": "Oct 04, 2026 at 04:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/kosovo-vs-austria/2528)Link2,,https://playerbee.top/charlie/kosovo-vs-austria/2529)"
     },
     {
         "event_name": "Nations League",
@@ -78,7 +69,7 @@
         "team1_name": "MaltaAndorra",
         "team2_name": "Malta",
         "date_and_time": "Oct 04, 2026 at 04:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/malta-vs-andorra-live/2530)Link2,,https://playerbee.top/charlie/malta-vs-andorra-live/2531)"
     },
     {
         "event_name": "Nations League",
@@ -127,11 +118,47 @@
     },
     {
         "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/washington-commanders/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/indianapolis-colts/logo.webp",
-        "team1_name": "Washington CommandersIndianapolis Colts",
-        "team2_name": "Washington Commanders",
-        "date_and_time": "Oct 04, 2026 at 01:30 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/commanders-vs-colts/2405)Link2,,https://crichd.pk/charlie/commanders-vs-colts/2406)"
+        "team1_logo": "https://cdn.img4every1.org/team/buffalo-bills/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/new-england-patriots/logo.webp",
+        "team1_name": "Buffalo BillsNew England Patriots",
+        "team2_name": "Buffalo Bills",
+        "date_and_time": "Oct 04, 2026 at 05:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/bills-vs-patriots-live/2532)"
+    },
+    {
+        "event_name": "NFL",
+        "team1_logo": "https://cdn.img4every1.org/team/cincinnati-bengals/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/jacksonville-jaguars/logo.webp",
+        "team1_name": "Cincinnati BengalsJacksonville Jaguars",
+        "team2_name": "Cincinnati Bengals",
+        "date_and_time": "Oct 04, 2026 at 05:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/bengals-vs-jaguars/2536)"
+    },
+    {
+        "event_name": "NFL",
+        "team1_logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/new-york-jets/logo.webp",
+        "team1_name": "Chicago BearsNew York Jets",
+        "team2_name": "Chicago Bears",
+        "date_and_time": "Oct 04, 2026 at 05:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/bears-vs-jets/2533)"
+    },
+    {
+        "event_name": "NFL",
+        "team1_logo": "https://cdn.img4every1.org/team/baltimore-ravens/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/tennessee-titans/logo.webp",
+        "team1_name": "Baltimore RavensTennessee Titans",
+        "team2_name": "Baltimore Ravens",
+        "date_and_time": "Oct 04, 2026 at 05:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/ravens-vs-titans/2534)"
+    },
+    {
+        "event_name": "NFL",
+        "team1_logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/houston-texans/logo.webp",
+        "team1_name": "Dallas CowboysHouston Texans",
+        "team2_name": "Dallas Cowboys",
+        "date_and_time": "Oct 04, 2026 at 05:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/cowboys-vs-texans-live-1/2537)"
     }
 ]
