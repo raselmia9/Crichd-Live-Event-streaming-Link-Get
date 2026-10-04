@@ -27,15 +27,6 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/bank-of-utah-championship/2444)"
     },
     {
-        "event_name": "MLB",
-        "team1_logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
-        "team1_name": "Atlanta BravesLos Angeles Dodgers",
-        "team2_name": "Atlanta Braves",
-        "date_and_time": "Oct 03, 2026 at 08:00 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/braves-vs-dodgers/2499)"
-    },
-    {
         "event_name": "UFC",
         "team1_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
@@ -45,15 +36,6 @@
         "multi_streaming": "Link1,,https://crichd.pk/charlie/natalia-silva-vs-wang-cong/2498)Link2,,https://crichd.pk/charlie/natalia-silva-vs-wang-cong/2525)"
     },
     {
-        "event_name": "MLB",
-        "team1_logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/new-york-yankees/logo.webp",
-        "team1_name": "Tampa Bay RaysNew York Yankees",
-        "team2_name": "Tampa Bay Rays",
-        "date_and_time": "Oct 03, 2026 at 10:30 PM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/rays-vs-yankees/2500)"
-    },
-    {
         "event_name": "PGA Tour",
         "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -61,15 +43,6 @@
         "team2_name": "LPGA Lotte Championship",
         "date_and_time": "Oct 04, 2026 at 12:00 AM UTC",
         "multi_streaming": "Link1,,https://crichd.pk/charlie/lpga-lotte-championship/2449)"
-    },
-    {
-        "event_name": "PGA Tour",
-        "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team1_name": "Alfred Dunhill ChampionshipPGA Tour",
-        "team2_name": "Alfred Dunhill Championship",
-        "date_and_time": "Oct 04, 2026 at 10:00 AM UTC",
-        "multi_streaming": "Link1,,https://crichd.pk/charlie/alfred-dunhill-championship/2452)"
     },
     {
         "event_name": "MotoGP",
@@ -106,6 +79,15 @@
         "team2_name": "Shenzhen Open Snooker",
         "date_and_time": "Oct 04, 2026 at 06:00 AM UTC",
         "multi_streaming": "Link1,,https://crichd.pk/charlie/shenzhen-open-snooker/2330)Link2,,https://crichd.pk/charlie/shenzhen-open-snooker/2332)"
+    },
+    {
+        "event_name": "PGA Tour",
+        "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team1_name": "Alfred Dunhill ChampionshipPGA Tour",
+        "team2_name": "Alfred Dunhill Championship",
+        "date_and_time": "Oct 04, 2026 at 10:00 AM UTC",
+        "multi_streaming": "Link1,,https://crichd.pk/charlie/alfred-dunhill-championship/2452)"
     },
     {
         "event_name": "Nations League",
