@@ -1,50 +1,5 @@
 [
     {
-        "event_name": "PGA Tour",
-        "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team1_name": "Bank of Utah ChampionshipPGA Tour",
-        "team2_name": "Bank of Utah Championship",
-        "date_and_time": "Oct 03, 2026 at 04:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/bank-of-utah-championship/2444)"
-    },
-    {
-        "event_name": "PGA Tour",
-        "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team1_name": "LPGA Lotte ChampionshipPGA Tour",
-        "team2_name": "LPGA Lotte Championship",
-        "date_and_time": "Oct 04, 2026 at 12:00 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/lpga-lotte-championship/2449)"
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/detroit-lions/logo.webp",
-        "team1_name": "Carolina PanthersDetroit Lions",
-        "team2_name": "Carolina Panthers",
-        "date_and_time": "Oct 05, 2026 at 12:20 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/panthers-vs-lions/2557)Link2,,https://playerbee.top/charlie/panthers-vs-lions/2558)"
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/atlanta-falcons/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/new-orleans-saints/logo.webp",
-        "team1_name": "Atlanta FalconsNew Orleans Saints",
-        "team2_name": "Atlanta Falcons",
-        "date_and_time": "Oct 06, 2026 at 12:15 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/falcons-vs-saints-live-stream-3/2559)Link2,,https://playerbee.top/charlie/falcons-vs-saints-live-stream-3/2560)"
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/tampa-bay-buccaneers/logo.webp",
-        "team1_name": "Dallas CowboysTampa Bay Buccaneers",
-        "team2_name": "Dallas Cowboys",
-        "date_and_time": "Oct 09, 2026 at 12:15 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/dallas-cowboys-vs-buccaneers-live/2561)Link2,,https://playerbee.top/charlie/dallas-cowboys-vs-buccaneers-live/2562)"
-    },
-    {
         "event_name": "Nations League",
         "team1_logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/cyprus/logo.webp",
@@ -115,6 +70,24 @@
         "team2_name": "Turkiye",
         "date_and_time": "Oct 05, 2026 at 06:45 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "NFL",
+        "team1_logo": "https://cdn.img4every1.org/team/atlanta-falcons/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/new-orleans-saints/logo.webp",
+        "team1_name": "Atlanta FalconsNew Orleans Saints",
+        "team2_name": "Atlanta Falcons",
+        "date_and_time": "Oct 06, 2026 at 12:15 AM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/falcons-vs-saints-live-stream-3/2559)Link2,,https://playerbee.top/charlie/falcons-vs-saints-live-stream-3/2560)"
+    },
+    {
+        "event_name": "NFL",
+        "team1_logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/tampa-bay-buccaneers/logo.webp",
+        "team1_name": "Dallas CowboysTampa Bay Buccaneers",
+        "team2_name": "Dallas Cowboys",
+        "date_and_time": "Oct 09, 2026 at 12:15 AM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/dallas-cowboys-vs-buccaneers-live/2561)Link2,,https://playerbee.top/charlie/dallas-cowboys-vs-buccaneers-live/2562)"
     },
     {
         "event_name": "Friendly",
