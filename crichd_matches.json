@@ -1,77 +1,5 @@
 [
     {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cyprus/logo.webp",
-        "team1_name": "LatviaCyprus",
-        "team2_name": "Latvia",
-        "date_and_time": "Oct 05, 2026 at 04:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/latvia-vs-cyprus/2564)Link2,,https://playerbee.top/charlie/latvia-vs-cyprus/2565)Link3,,https://playerbee.top/charlie/latvia-vs-cyprus/2566)"
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/sweden/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/romania/logo.webp",
-        "team1_name": "SwedenRomania",
-        "team2_name": "Sweden",
-        "date_and_time": "Oct 05, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/sweden-vs-romania/2576)"
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/poland/logo.webp",
-        "team1_name": "Bosnia and HerzegovinaPoland",
-        "team2_name": "Bosnia and Herzegovina",
-        "date_and_time": "Oct 05, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/bosnia-vs-poland/2574)"
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/ukraine/logo.webp",
-        "team1_name": "HungaryUkraine",
-        "team2_name": "Hungary",
-        "date_and_time": "Oct 05, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/hungary-vs-ukraine/2573)"
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/northern-ireland/logo.webp",
-        "team1_name": "GeorgiaNorthern Ireland",
-        "team2_name": "Georgia",
-        "date_and_time": "Oct 05, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/georgia-vs-northern-ireland/2575)"
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/france/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
-        "team1_name": "FranceBelgium",
-        "team2_name": "France",
-        "date_and_time": "Oct 05, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/france-vs-belgium/2567)Link2,,https://playerbee.top/charlie/france-vs-belgium/2568)Link3,,https://playerbee.top/charlie/france-vs-belgium/2569)"
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/montenegro/logo.webp",
-        "team1_name": "ArmeniaMontenegro",
-        "team2_name": "Armenia",
-        "date_and_time": "Oct 05, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/armenia-vs-montenegro/2577)"
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/italy/logo.webp",
-        "team1_name": "TurkiyeItaly",
-        "team2_name": "Turkiye",
-        "date_and_time": "Oct 05, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/turkey-vs-italy/2570)Link2,,https://playerbee.top/charlie/turkey-vs-italy/2571)Link3,,https://playerbee.top/charlie/turkey-vs-italy/2572)"
-    },
-    {
         "event_name": "NFL",
         "team1_logo": "https://cdn.img4every1.org/team/atlanta-falcons/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/new-orleans-saints/logo.webp",
@@ -88,6 +16,78 @@
         "team2_name": "Dallas Cowboys",
         "date_and_time": "Oct 09, 2026 at 12:15 AM UTC",
         "multi_streaming": "Link1,,https://playerbee.top/charlie/dallas-cowboys-vs-buccaneers-live/2561)Link2,,https://playerbee.top/charlie/dallas-cowboys-vs-buccaneers-live/2562)"
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
+        "team1_name": "Faroe IslandsKazakhstan",
+        "team2_name": "Faroe Islands",
+        "date_and_time": "Oct 06, 2026 at 02:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/slovenia/logo.webp",
+        "team1_name": "ScotlandSlovenia",
+        "team2_name": "Scotland",
+        "date_and_time": "Oct 06, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/bulgaria/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/luxembourg/logo.webp",
+        "team1_name": "BulgariaLuxembourg",
+        "team2_name": "Bulgaria",
+        "date_and_time": "Oct 06, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/iceland/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/estonia/logo.webp",
+        "team1_name": "IcelandEstonia",
+        "team2_name": "Iceland",
+        "date_and_time": "Oct 06, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/switzerland/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/north-macedonia/logo.webp",
+        "team1_name": "SwitzerlandNorth Macedonia",
+        "team2_name": "Switzerland",
+        "date_and_time": "Oct 06, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/slovakia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/moldova/logo.webp",
+        "team1_name": "SlovakiaMoldova",
+        "team2_name": "Slovakia",
+        "date_and_time": "Oct 06, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/finland/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/belarus/logo.webp",
+        "team1_name": "FinlandBelarus",
+        "team2_name": "Finland",
+        "date_and_time": "Oct 06, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/spain/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
+        "team1_name": "SpainCroatia",
+        "team2_name": "Spain",
+        "date_and_time": "Oct 06, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "Friendly",
