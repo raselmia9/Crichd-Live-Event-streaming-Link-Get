@@ -1,12 +1,21 @@
 [
     {
+        "event_name": "Friendly",
+        "team1_logo": "https://cdn.img4every1.org/team/india/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/uruguay/logo.webp",
+        "team1_name": "IndiaUruguay",
+        "team2_name": "India",
+        "date_and_time": "Oct 06, 2026 at 02:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/india-vs-uruguay/2578)Link2,,https://playerbee.top/charlie/india-vs-uruguay/2579)Link3,,https://playerbee.top/charlie/india-vs-uruguay/2580)Link4,,https://playerbee.top/charlie/india-vs-uruguay/2581)Link5,,https://playerbee.top/charlie/india-vs-uruguay/2582)"
+    },
+    {
         "event_name": "Nations League",
         "team1_logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
         "team1_name": "Faroe IslandsKazakhstan",
         "team2_name": "Faroe Islands",
         "date_and_time": "Oct 06, 2026 at 02:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/faroe-islands-vs-kazakhstan/2583)Link2,,https://playerbee.top/charlie/faroe-islands-vs-kazakhstan/2584)"
     },
     {
         "event_name": "Nations League",
@@ -72,12 +81,12 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Friendly",
-        "team1_logo": "https://cdn.img4every1.org/team/india/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/uruguay/logo.webp",
-        "team1_name": "IndiaUruguay",
-        "team2_name": "India",
-        "date_and_time": "Oct 06, 2026 at 02:00 PM UTC",
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/czechia/logo.webp",
+        "team1_name": "EnglandCzechia",
+        "team2_name": "England",
+        "date_and_time": "Oct 06, 2026 at 06:45 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
@@ -124,5 +133,14 @@
         "team2_name": "Dallas Cowboys",
         "date_and_time": "Oct 09, 2026 at 12:15 AM UTC",
         "multi_streaming": "Link1,,https://playerbee.top/charlie/dallas-cowboys-vs-buccaneers-live/2561)Link2,,https://playerbee.top/charlie/dallas-cowboys-vs-buccaneers-live/2562)"
+    },
+    {
+        "event_name": "NFL",
+        "team1_logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/jacksonville-jaguars/logo.webp",
+        "team1_name": "Philadelphia EaglesJacksonville Jaguars",
+        "team2_name": "Philadelphia Eagles",
+        "date_and_time": "Oct 11, 2026 at 01:30 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/eagles-vs-jaguars/2563)"
     }
 ]
