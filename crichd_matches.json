@@ -9,15 +9,6 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/falcons-vs-saints-live-stream-3/2559)Link2,,https://playerbee.top/charlie/falcons-vs-saints-live-stream-3/2560)"
     },
     {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/tampa-bay-buccaneers/logo.webp",
-        "team1_name": "Dallas CowboysTampa Bay Buccaneers",
-        "team2_name": "Dallas Cowboys",
-        "date_and_time": "Oct 09, 2026 at 12:15 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/dallas-cowboys-vs-buccaneers-live/2561)Link2,,https://playerbee.top/charlie/dallas-cowboys-vs-buccaneers-live/2562)"
-    },
-    {
         "event_name": "Nations League",
         "team1_logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
@@ -133,5 +124,14 @@
         "team2_name": "Mexico",
         "date_and_time": "Oct 07, 2026 at 02:30 AM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "NFL",
+        "team1_logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/tampa-bay-buccaneers/logo.webp",
+        "team1_name": "Dallas CowboysTampa Bay Buccaneers",
+        "team2_name": "Dallas Cowboys",
+        "date_and_time": "Oct 09, 2026 at 12:15 AM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/dallas-cowboys-vs-buccaneers-live/2561)Link2,,https://playerbee.top/charlie/dallas-cowboys-vs-buccaneers-live/2562)"
     }
 ]
