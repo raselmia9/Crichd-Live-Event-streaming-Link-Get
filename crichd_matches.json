@@ -1,14 +1,5 @@
 [
     {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/atlanta-falcons/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/new-orleans-saints/logo.webp",
-        "team1_name": "Atlanta FalconsNew Orleans Saints",
-        "team2_name": "Atlanta Falcons",
-        "date_and_time": "Oct 06, 2026 at 12:15 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/falcons-vs-saints-live-stream-3/2559)Link2,,https://playerbee.top/charlie/falcons-vs-saints-live-stream-3/2560)"
-    },
-    {
         "event_name": "Nations League",
         "team1_logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
