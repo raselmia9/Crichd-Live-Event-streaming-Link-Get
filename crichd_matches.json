@@ -1,48 +1,12 @@
 [
     {
-        "event_name": "MLB",
-        "team1_logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
-        "team1_name": "Atlanta BravesLos Angeles Dodgers",
-        "team2_name": "Atlanta Braves",
-        "date_and_time": "Oct 06, 2026 at 10:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/braves-vs-dodgers/2612)"
-    },
-    {
-        "event_name": "Friendly",
-        "team1_logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/benin/logo.webp",
-        "team1_name": "ArgentinaBenin",
-        "team2_name": "Argentina",
-        "date_and_time": "Oct 06, 2026 at 11:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/argentina-vs-benin/2603)Link2,,https://playerbee.top/charlie/argentina-vs-benin/2604)Link3,,https://playerbee.top/charlie/argentina-vs-benin/2605)Link4,,https://playerbee.top/charlie/argentina-vs-benin/2606)"
-    },
-    {
-        "event_name": "Friendly",
-        "team1_logo": "https://cdn.img4every1.org/team/colombia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/peru/logo.webp",
-        "team1_name": "ColombiaPeru",
-        "team2_name": "Colombia",
-        "date_and_time": "Oct 06, 2026 at 11:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/colombia-vs-peru/2607)Link2,,https://playerbee.top/charlie/colombia-vs-peru/2608)"
-    },
-    {
-        "event_name": "Friendly",
-        "team1_logo": "https://cdn.img4every1.org/team/canada/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/usa/logo.webp",
-        "team1_name": "CanadaUSA",
-        "team2_name": "Canada",
-        "date_and_time": "Oct 07, 2026 at 12:00 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/canada-vs-usa/2609)Link2,,https://playerbee.top/charlie/canada-vs-usa/2610)"
-    },
-    {
-        "event_name": "MLB",
-        "team1_logo": "https://cdn.img4every1.org/team/san-diego-padres/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/milwaukee-brewers/logo.webp",
-        "team1_name": "San Diego PadresMilwaukee Brewers",
-        "team2_name": "San Diego Padres",
-        "date_and_time": "Oct 07, 2026 at 01:30 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/padres-vs-brewers/2613)"
+        "event_name": "ATP Tour",
+        "team1_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
+        "team1_name": "Shanghai Rolex MastersATP Tour",
+        "team2_name": "Shanghai Rolex Masters",
+        "date_and_time": "Oct 07, 2026 at 04:00 AM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/shanghai-rolex-masters/2614)Link2,,https://playerbee.top/charlie/shanghai-rolex-masters/2615)Link3,,https://playerbee.top/charlie/shanghai-rolex-masters/2616)"
     },
     {
         "event_name": "MLB",
@@ -70,24 +34,6 @@
         "team2_name": "Tampa Bay Rays",
         "date_and_time": "Oct 08, 2026 at 12:00 AM UTC",
         "multi_streaming": "Link1,,https://playerbee.top/charlie/rays-vs-yankees/2619)"
-    },
-    {
-        "event_name": "Friendly",
-        "team1_logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/chile/logo.webp",
-        "team1_name": "MexicoChile",
-        "team2_name": "Mexico",
-        "date_and_time": "Oct 07, 2026 at 02:30 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/mexico-vs-chile/2611)"
-    },
-    {
-        "event_name": "ATP Tour",
-        "team1_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
-        "team1_name": "Shanghai Rolex MastersATP Tour",
-        "team2_name": "Shanghai Rolex Masters",
-        "date_and_time": "Oct 07, 2026 at 04:00 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/shanghai-rolex-masters/2614)Link2,,https://playerbee.top/charlie/shanghai-rolex-masters/2615)Link3,,https://playerbee.top/charlie/shanghai-rolex-masters/2616)"
     },
     {
         "event_name": "PGA Tour",
@@ -126,31 +72,31 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/eagles-vs-jaguars/2563)"
     },
     {
-        "event_name": "MotoGP",
+        "event_name": "Live Sports",
         "team1_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
         "team1_name": "MotoGP Indonesia Grand PrixMotoGP",
         "team2_name": "MotoGP Indonesia Grand Prix",
-        "date_and_time": "Oct 09, 2026 at 01:00 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/motogp-indonesia-grand-prix/2623)"
+        "date_and_time": "N/A",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Formula 1",
+        "event_name": "Live Sports",
         "team1_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "team1_name": "F1 Singapore Grand PrixFormula 1",
         "team2_name": "F1 Singapore Grand Prix",
-        "date_and_time": "Oct 09, 2026 at 08:00 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/f1-singapore-grand-prix/2624)Link2,,https://playerbee.top/charlie/f1-singapore-grand-prix/2625)Link3,,https://playerbee.top/charlie/f1-singapore-grand-prix/2626)"
+        "date_and_time": "N/A",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "United Rugby",
+        "event_name": "Live Sports",
         "team1_logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/connacht/logo.webp",
         "team1_name": "Glasgow WarriorsConnacht",
         "team2_name": "Glasgow Warriors",
-        "date_and_time": "Oct 09, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/glasgow-warriors-vs-connacht/2627)"
+        "date_and_time": "N/A",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "United Rugby",
