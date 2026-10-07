@@ -10,15 +10,6 @@
     },
     {
         "event_name": "MLB",
-        "team1_logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/chicago-white-sox/logo.webp",
-        "team1_name": "Cleveland GuardiansChicago White Sox",
-        "team2_name": "Cleveland Guardians",
-        "date_and_time": "Oct 07, 2026 at 08:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/guardians-vs-white-sox/2617)"
-    },
-    {
-        "event_name": "MLB",
         "team1_logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
         "team1_name": "Los Angeles DodgersAtlanta Braves",
@@ -303,6 +294,15 @@
         "team1_name": "Manchester UnitedTottenham Hotspur",
         "team2_name": "Manchester United",
         "date_and_time": "Oct 10, 2026 at 04:30 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Premier League",
+        "team1_logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+        "team1_name": "Nottingham ForestCrystal Palace",
+        "team2_name": "Nottingham Forest",
+        "date_and_time": "Oct 11, 2026 at 01:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
