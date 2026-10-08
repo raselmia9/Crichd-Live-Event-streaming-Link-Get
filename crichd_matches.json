@@ -9,24 +9,6 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/shanghai-rolex-masters/2614)Link2,,https://playerbee.top/charlie/shanghai-rolex-masters/2615)Link3,,https://playerbee.top/charlie/shanghai-rolex-masters/2616)"
     },
     {
-        "event_name": "MLB",
-        "team1_logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
-        "team1_name": "Los Angeles DodgersAtlanta Braves",
-        "team2_name": "Los Angeles Dodgers",
-        "date_and_time": "Oct 07, 2026 at 10:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/los-angeles-dodgers-vs-atlanta-braves/2618)"
-    },
-    {
-        "event_name": "MLB",
-        "team1_logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/new-york-yankees/logo.webp",
-        "team1_name": "Tampa Bay RaysNew York Yankees",
-        "team2_name": "Tampa Bay Rays",
-        "date_and_time": "Oct 08, 2026 at 12:00 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/rays-vs-yankees/2619)"
-    },
-    {
         "event_name": "PGA Tour",
         "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -135,6 +117,15 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
+        "event_name": "French Ligue 1",
+        "team1_logo": "https://cdn.img4every1.org/team/nice/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/strasbourg/logo.webp",
+        "team1_name": "NiceStrasbourg",
+        "team2_name": "Nice",
+        "date_and_time": "Oct 11, 2026 at 01:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
         "event_name": "United Rugby",
         "team1_logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/connacht/logo.webp",
@@ -225,12 +216,12 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "LaLiga",
+        "event_name": "Live Sports",
         "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
         "team1_name": "Real MadridVillarreal",
         "team2_name": "Real Madrid",
-        "date_and_time": "Oct 10, 2026 at 07:00 PM UTC",
+        "date_and_time": "N/A",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
@@ -302,6 +293,15 @@
         "team2_logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
         "team1_name": "Nottingham ForestCrystal Palace",
         "team2_name": "Nottingham Forest",
+        "date_and_time": "Oct 11, 2026 at 01:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Premier League",
+        "team1_logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/everton/logo.webp",
+        "team1_name": "Hull CityEverton",
+        "team2_name": "Hull City",
         "date_and_time": "Oct 11, 2026 at 01:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
