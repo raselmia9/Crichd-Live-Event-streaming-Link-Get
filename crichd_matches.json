@@ -216,12 +216,12 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "LaLiga",
         "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
         "team1_name": "Real MadridVillarreal",
         "team2_name": "Real Madrid",
-        "date_and_time": "N/A",
+        "date_and_time": "Oct 10, 2026 at 07:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
