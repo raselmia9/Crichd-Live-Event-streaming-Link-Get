@@ -27,15 +27,6 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/open-de-espana/2622)"
     },
     {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/tampa-bay-buccaneers/logo.webp",
-        "team1_name": "Dallas CowboysTampa Bay Buccaneers",
-        "team2_name": "Dallas Cowboys",
-        "date_and_time": "Oct 09, 2026 at 12:15 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/dallas-cowboys-vs-buccaneers-live/2561)Link2,,https://playerbee.top/charlie/dallas-cowboys-vs-buccaneers-live/2562)"
-    },
-    {
         "event_name": "MotoGP",
         "team1_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
@@ -347,6 +338,15 @@
         "team2_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
         "team1_name": "MonzaLazio",
         "team2_name": "Monza",
+        "date_and_time": "Oct 11, 2026 at 01:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Serie A",
+        "team1_logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
+        "team1_name": "LecceBologna",
+        "team2_name": "Lecce",
         "date_and_time": "Oct 11, 2026 at 01:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
