@@ -108,13 +108,13 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/scarlets-vs-benetton-treviso/2648)"
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "Premiership Rugby",
         "team1_logo": "https://cdn.img4every1.org/team/bristol-bears/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
         "team1_name": "Bristol BearsSaracens",
         "team2_name": "Bristol Bears",
-        "date_and_time": "N/A",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "date_and_time": "Oct 10, 2026 at 04:30 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/bristol-bears-vs-saracens/2650)"
     },
     {
         "event_name": "Bundesliga",
@@ -333,12 +333,12 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Bundesliga",
+        "event_name": "Live Sports",
         "team1_logo": "https://cdn.img4every1.org/team/borussia-mgladbach/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/koln/logo.webp",
         "team1_name": "Borussia M'gladbachKöln",
         "team2_name": "Borussia M'gladbach",
-        "date_and_time": "Oct 11, 2026 at 01:30 PM UTC",
+        "date_and_time": "N/A",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
