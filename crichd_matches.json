@@ -1,41 +1,5 @@
 [
     {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "team1_name": "FC BarcelonaGetafe",
-        "team2_name": "FC Barcelona",
-        "date_and_time": "Oct 10, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/barcelona-vs-getafe/2666)Link2,,https://playerbee.top/charlie/barcelona-vs-getafe/2667)Link3,,https://playerbee.top/charlie/barcelona-vs-getafe/2671)"
-    },
-    {
-        "event_name": "Premier League",
-        "team1_logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
-        "team1_name": "Manchester UnitedTottenham Hotspur",
-        "team2_name": "Manchester United",
-        "date_and_time": "Oct 10, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/manchester-united-vs-spurs/2681)Link2,,https://playerbee.top/charlie/manchester-united-vs-spurs/2682)Link3,,https://playerbee.top/charlie/manchester-united-vs-spurs/2683)Link4,,https://playerbee.top/charlie/manchester-united-vs-spurs/2684)"
-    },
-    {
-        "event_name": "French Ligue 1",
-        "team1_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/le-mans/logo.webp",
-        "team1_name": "PSGLe Mans",
-        "team2_name": "PSG",
-        "date_and_time": "Oct 10, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/psg-vs-le-mans/2687)Link2,,https://playerbee.top/charlie/psg-vs-le-mans/2688)Link3,,https://playerbee.top/charlie/psg-vs-le-mans/2689)"
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "team1_name": "Real MadridVillarreal",
-        "team2_name": "Real Madrid",
-        "date_and_time": "Oct 10, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/real-madrid-vs-villarreal/2668)Link2,,https://playerbee.top/charlie/real-madrid-vs-villarreal/2690)Link3,,https://playerbee.top/charlie/real-madrid-vs-villarreal/2691)Link4,,https://playerbee.top/charlie/real-madrid-vs-villarreal/2692)"
-    },
-    {
         "event_name": "ATP Tour",
         "team1_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
@@ -81,58 +45,22 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/f1-singapore-grand-prix/2624)Link2,,https://playerbee.top/charlie/f1-singapore-grand-prix/2625)Link3,,https://playerbee.top/charlie/f1-singapore-grand-prix/2626)"
     },
     {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/parma/logo.webp",
-        "team1_name": "Inter MilanParma",
-        "team2_name": "Inter Milan",
-        "date_and_time": "Oct 10, 2026 at 04:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/inter-milan-vs-parma/2673)Link2,,https://playerbee.top/charlie/inter-milan-vs-parma/2685)"
+        "event_name": "UFC",
+        "team1_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team1_name": "Brendan AllenChristian Leroy Duncan",
+        "team2_name": "Brendan Allen",
+        "date_and_time": "Oct 10, 2026 at 10:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/brendan-allen-vs-christian-leroy-duncan/2652)"
     },
     {
-        "event_name": "United Rugby",
-        "team1_logo": "https://cdn.img4every1.org/team/ulster/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/munster/logo.webp",
-        "team1_name": "UlsterMunster",
-        "team2_name": "Ulster",
-        "date_and_time": "Oct 10, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/ulster-vs-munster/2649)"
-    },
-    {
-        "event_name": "United Rugby",
-        "team1_logo": "https://cdn.img4every1.org/team/scarlets/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/benetton/logo.webp",
-        "team1_name": "ScarletsBenetton",
-        "team2_name": "Scarlets",
-        "date_and_time": "Oct 10, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/scarlets-vs-benetton-treviso/2648)"
-    },
-    {
-        "event_name": "Premiership Rugby",
-        "team1_logo": "https://cdn.img4every1.org/team/bristol-bears/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
-        "team1_name": "Bristol BearsSaracens",
-        "team2_name": "Bristol Bears",
-        "date_and_time": "Oct 10, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/bristol-bears-vs-saracens/2650)"
-    },
-    {
-        "event_name": "Bundesliga",
-        "team1_logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
-        "team1_name": "Eintracht FrankfurtRB Leipzig",
-        "team2_name": "Eintracht Frankfurt",
-        "date_and_time": "Oct 10, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/eintracht-frankfurt-vs-rb-leipzig/2656)Link2,,https://playerbee.top/charlie/eintracht-frankfurt-vs-rb-leipzig/2657)"
-    },
-    {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
-        "team1_name": "NapoliFrosinone Calcio",
-        "team2_name": "Napoli",
-        "date_and_time": "Oct 10, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/napoli-vs-frosinone/2674)Link2,,https://playerbee.top/charlie/napoli-vs-frosinone/2686)"
+        "event_name": "MLS",
+        "team1_logo": "https://cdn.img4every1.org/team/inter-miami/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/dc-united/logo.webp",
+        "team1_name": "Inter MiamiDC United",
+        "team2_name": "Inter Miami",
+        "date_and_time": "Oct 10, 2026 at 11:30 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "Serie A",
@@ -198,39 +126,21 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "United Rugby",
-        "team1_logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/leinster/logo.webp",
-        "team1_name": "Cardiff BluesLeinster",
-        "team2_name": "Cardiff Blues",
-        "date_and_time": "Oct 10, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/cardiff-vs-leinster/2651)"
-    },
-    {
-        "event_name": "UFC",
-        "team1_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team1_name": "Brendan AllenChristian Leroy Duncan",
-        "team2_name": "Brendan Allen",
-        "date_and_time": "Oct 10, 2026 at 10:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/brendan-allen-vs-christian-leroy-duncan/2652)"
-    },
-    {
-        "event_name": "MLS",
-        "team1_logo": "https://cdn.img4every1.org/team/inter-miami/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/dc-united/logo.webp",
-        "team1_name": "Inter MiamiDC United",
-        "team2_name": "Inter Miami",
-        "date_and_time": "Oct 10, 2026 at 11:30 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
         "event_name": "EFL",
         "team1_logo": "https://cdn.img4every1.org/team/southampton/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/portsmouth/logo.webp",
         "team1_name": "SouthamptonPortsmouth",
         "team2_name": "Southampton",
         "date_and_time": "Oct 11, 2026 at 11:00 AM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "EFL",
+        "team1_logo": "https://cdn.img4every1.org/team/stoke-city/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/middlesbrough/logo.webp",
+        "team1_name": "Stoke CityMiddlesbrough",
+        "team2_name": "Stoke City",
+        "date_and_time": "Oct 13, 2026 at 07:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
@@ -267,6 +177,15 @@
         "team1_name": "Racing SantanderValencia",
         "team2_name": "Racing Santander",
         "date_and_time": "Oct 11, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "team1_name": "SevillaLevante",
+        "team2_name": "Sevilla",
+        "date_and_time": "Oct 12, 2026 at 07:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
@@ -333,12 +252,12 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "Bundesliga",
         "team1_logo": "https://cdn.img4every1.org/team/borussia-mgladbach/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/koln/logo.webp",
         "team1_name": "Borussia M'gladbachKöln",
         "team2_name": "Borussia M'gladbach",
-        "date_and_time": "N/A",
+        "date_and_time": "Oct 11, 2026 at 01:30 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
@@ -358,5 +277,77 @@
         "team2_name": "Philadelphia Eagles",
         "date_and_time": "Oct 11, 2026 at 01:30 PM UTC",
         "multi_streaming": "Link1,,https://playerbee.top/charlie/eagles-vs-jaguars/2563)"
+    },
+    {
+        "event_name": "Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/sabah-baku/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/slavia-praha/logo.webp",
+        "team1_name": "Sabah BakuSlavia Praha",
+        "team2_name": "Sabah Baku",
+        "date_and_time": "Oct 13, 2026 at 04:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/lens/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
+        "team1_name": "LensSporting CP",
+        "team2_name": "Lens",
+        "date_and_time": "Oct 13, 2026 at 04:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/lille/logo.webp",
+        "team1_name": "ArsenalLille",
+        "team2_name": "Arsenal",
+        "date_and_time": "Oct 13, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/galatasaray/logo.webp",
+        "team1_name": "FC BarcelonaGalatasaray",
+        "team2_name": "FC Barcelona",
+        "date_and_time": "Oct 13, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/club-brugge/logo.webp",
+        "team1_name": "Inter MilanClub Brugge",
+        "team2_name": "Inter Milan",
+        "date_and_time": "Oct 13, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/viking/logo.webp",
+        "team1_name": "Bayern MünchenViking",
+        "team2_name": "Bayern München",
+        "date_and_time": "Oct 13, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "team1_name": "NapoliVillarreal",
+        "team2_name": "Napoli",
+        "date_and_time": "Oct 13, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/psv/logo.webp",
+        "team1_name": "RB LeipzigPSV",
+        "team2_name": "RB Leipzig",
+        "date_and_time": "Oct 13, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     }
 ]
