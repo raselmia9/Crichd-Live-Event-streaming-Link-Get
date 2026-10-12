@@ -9,31 +9,13 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/shanghai-rolex-masters/2614)Link2,,https://playerbee.top/charlie/shanghai-rolex-masters/2615)Link3,,https://playerbee.top/charlie/shanghai-rolex-masters/2616)"
     },
     {
-        "event_name": "MLB",
-        "team1_logo": "https://cdn.img4every1.org/team/milwaukee-brewers/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
-        "team1_name": "Milwaukee BrewersLos Angeles Dodgers",
-        "team2_name": "Milwaukee Brewers",
-        "date_and_time": "Oct 12, 2026 at 12:00 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/brewers-vs-dodgers/2744)"
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/atlanta-falcons/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/baltimore-ravens/logo.webp",
-        "team1_name": "Atlanta FalconsBaltimore Ravens",
-        "team2_name": "Atlanta Falcons",
-        "date_and_time": "Oct 12, 2026 at 12:20 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/falcons-vs-ravens/2745)Link2,,https://playerbee.top/charlie/falcons-vs-ravens/2746)Link3,,https://playerbee.top/charlie/falcons-vs-ravens/2747)"
-    },
-    {
         "event_name": "Serie A",
         "team1_logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
         "team1_name": "AtalantaVenezia",
         "team2_name": "Atalanta",
         "date_and_time": "Oct 12, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/atalanta-vs-venezia/2748)Link2,,https://playerbee.top/charlie/atalanta-vs-venezia/2749)"
     },
     {
         "event_name": "Serie A",
@@ -42,7 +24,7 @@
         "team1_name": "TorinoUdinese",
         "team2_name": "Torino",
         "date_and_time": "Oct 12, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/torino-vs-udinese/2750)Link2,,https://playerbee.top/charlie/torino-vs-udinese/2751)"
     },
     {
         "event_name": "Premier League",
@@ -60,7 +42,7 @@
         "team1_name": "SevillaLevante",
         "team2_name": "Sevilla",
         "date_and_time": "Oct 12, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/sevilla-vs-levante/2752)Link2,,https://playerbee.top/charlie/sevilla-vs-levante/2753)Link3,,https://playerbee.top/charlie/sevilla-vs-levante/2754)Link4,,https://playerbee.top/charlie/sevilla-vs-levante/2755)Link5,,https://playerbee.top/charlie/sevilla-vs-levante/2756)"
     },
     {
         "event_name": "Champions League",
