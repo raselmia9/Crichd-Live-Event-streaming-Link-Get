@@ -9,31 +9,13 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/shanghai-rolex-masters/2614)Link2,,https://playerbee.top/charlie/shanghai-rolex-masters/2615)Link3,,https://playerbee.top/charlie/shanghai-rolex-masters/2616)"
     },
     {
-        "event_name": "Live Sports",
-        "team1_logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
-        "team1_name": "Tampa Bay RaysCleveland Guardians",
-        "team2_name": "Tampa Bay Rays",
-        "date_and_time": "N/A",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/buffalo-bills/logo.webp",
-        "team1_name": "Los Angeles RamsBuffalo Bills",
-        "team2_name": "Los Angeles Rams",
-        "date_and_time": "Oct 13, 2026 at 12:15 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/buffalo-bills-vs-rams-live/2767)Link2,,https://playerbee.top/charlie/buffalo-bills-vs-rams-live/2768)Link3,,https://playerbee.top/charlie/buffalo-bills-vs-rams-live/2769)"
-    },
-    {
-        "event_name": "Live Sports",
+        "event_name": "UEFA Youth League",
         "team1_logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
         "team1_name": "Atlético MadridManchester United",
         "team2_name": "Atlético Madrid",
-        "date_and_time": "N/A",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "date_and_time": "Oct 13, 2026 at 02:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/atletico-vs-man-united/2770)"
     },
     {
         "event_name": "UEFA Youth League",
@@ -54,12 +36,12 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/man-city-vs-psg/2763)"
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "Champions League",
         "team1_logo": "https://cdn.img4every1.org/team/sabah-baku/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/slavia-praha/logo.webp",
         "team1_name": "Sabah BakuSlavia Praha",
         "team2_name": "Sabah Baku",
-        "date_and_time": "N/A",
+        "date_and_time": "Oct 13, 2026 at 04:45 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
@@ -90,12 +72,12 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "Champions League",
         "team1_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/club-brugge/logo.webp",
         "team1_name": "Inter MilanClub Brugge",
         "team2_name": "Inter Milan",
-        "date_and_time": "N/A",
+        "date_and_time": "Oct 13, 2026 at 07:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
@@ -117,30 +99,30 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "Champions League",
         "team1_logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/psv/logo.webp",
         "team1_name": "RB LeipzigPSV",
         "team2_name": "RB Leipzig",
-        "date_and_time": "N/A",
+        "date_and_time": "Oct 13, 2026 at 07:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "EFL",
         "team1_logo": "https://cdn.img4every1.org/team/stoke-city/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/middlesbrough/logo.webp",
         "team1_name": "Stoke CityMiddlesbrough",
         "team2_name": "Stoke City",
-        "date_and_time": "N/A",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "date_and_time": "Oct 13, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/stoke-city-vs-middlesbrough/2771)Link2,,https://playerbee.top/charlie/stoke-city-vs-middlesbrough/2772)"
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "EFL",
         "team1_logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/lincoln-city/logo.webp",
         "team1_name": "West Ham UnitedLincoln City",
         "team2_name": "West Ham United",
-        "date_and_time": "N/A",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "date_and_time": "Oct 14, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/west-ham-vs-lincoln-city/2761)Link2,,https://playerbee.top/charlie/west-ham-vs-lincoln-city/2762)"
     }
 ]
