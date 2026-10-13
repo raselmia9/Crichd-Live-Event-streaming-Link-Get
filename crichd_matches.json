@@ -18,31 +18,13 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/atletico-vs-man-united/2770)"
     },
     {
-        "event_name": "UEFA Youth League",
-        "team1_logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "team1_name": "FenerbahçeAston Villa",
-        "team2_name": "Fenerbahçe",
-        "date_and_time": "Oct 14, 2026 at 01:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/fenerbahce-vs-aston-villa-u19/2764)"
-    },
-    {
-        "event_name": "UEFA Youth League",
-        "team1_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team1_name": "Manchester CityPSG",
-        "team2_name": "Manchester City",
-        "date_and_time": "Oct 14, 2026 at 02:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/man-city-vs-psg/2763)"
-    },
-    {
         "event_name": "Champions League",
         "team1_logo": "https://cdn.img4every1.org/team/sabah-baku/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/slavia-praha/logo.webp",
         "team1_name": "Sabah BakuSlavia Praha",
         "team2_name": "Sabah Baku",
         "date_and_time": "Oct 13, 2026 at 04:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/sabah-vs-slavia-praha/2773)Link2,,https://playerbee.top/charlie/sabah-vs-slavia-praha/2775)"
     },
     {
         "event_name": "Champions League",
@@ -51,7 +33,7 @@
         "team1_name": "LensSporting CP",
         "team2_name": "Lens",
         "date_and_time": "Oct 13, 2026 at 04:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/lens-vs-sporting-cp/2774)Link2,,https://playerbee.top/charlie/lens-vs-sporting-cp/2776)"
     },
     {
         "event_name": "Champions League",
@@ -60,7 +42,7 @@
         "team1_name": "ArsenalLille",
         "team2_name": "Arsenal",
         "date_and_time": "Oct 13, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/arsenal-vs-lille/2781)Link2,,https://playerbee.top/charlie/arsenal-vs-lille/2782)"
     },
     {
         "event_name": "Champions League",
@@ -69,7 +51,7 @@
         "team1_name": "FC BarcelonaGalatasaray",
         "team2_name": "FC Barcelona",
         "date_and_time": "Oct 13, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/barcelona-vs-galatasaray/2783)Link2,,https://playerbee.top/charlie/barcelona-vs-galatasaray/2784)Link3,,https://playerbee.top/charlie/barcelona-vs-galatasaray/2785)"
     },
     {
         "event_name": "Champions League",
@@ -78,7 +60,7 @@
         "team1_name": "Inter MilanClub Brugge",
         "team2_name": "Inter Milan",
         "date_and_time": "Oct 13, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/inter-milan-vs-club-brugge/2786)Link2,,https://playerbee.top/charlie/inter-milan-vs-club-brugge/2787)Link3,,https://playerbee.top/charlie/inter-milan-vs-club-brugge/2788)"
     },
     {
         "event_name": "Champions League",
@@ -87,7 +69,7 @@
         "team1_name": "Bayern MünchenViking",
         "team2_name": "Bayern München",
         "date_and_time": "Oct 13, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/bayern-munchen-vs-viking/2789)Link2,,https://playerbee.top/charlie/bayern-munchen-vs-viking/2790)"
     },
     {
         "event_name": "Champions League",
@@ -96,7 +78,7 @@
         "team1_name": "NapoliVillarreal",
         "team2_name": "Napoli",
         "date_and_time": "Oct 13, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/napoli-vs-villarreal/2791)Link2,,https://playerbee.top/charlie/napoli-vs-villarreal/2792)"
     },
     {
         "event_name": "Champions League",
@@ -105,7 +87,7 @@
         "team1_name": "RB LeipzigPSV",
         "team2_name": "RB Leipzig",
         "date_and_time": "Oct 13, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/rb-leipzig-vs-psv/2793)Link2,,https://playerbee.top/charlie/rb-leipzig-vs-psv/2794)"
     },
     {
         "event_name": "EFL",
@@ -124,5 +106,23 @@
         "team2_name": "West Ham United",
         "date_and_time": "Oct 14, 2026 at 07:00 PM UTC",
         "multi_streaming": "Link1,,https://playerbee.top/charlie/west-ham-vs-lincoln-city/2761)Link2,,https://playerbee.top/charlie/west-ham-vs-lincoln-city/2762)"
+    },
+    {
+        "event_name": "UEFA Youth League",
+        "team1_logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "team1_name": "FenerbahçeAston Villa",
+        "team2_name": "Fenerbahçe",
+        "date_and_time": "Oct 14, 2026 at 01:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/fenerbahce-vs-aston-villa-u19/2764)"
+    },
+    {
+        "event_name": "UEFA Youth League",
+        "team1_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team1_name": "Manchester CityPSG",
+        "team2_name": "Manchester City",
+        "date_and_time": "Oct 14, 2026 at 02:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/man-city-vs-psg/2763)"
     }
 ]
