@@ -1,32 +1,5 @@
 [
     {
-        "event_name": "ATP Tour",
-        "team1_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
-        "team1_name": "Shanghai Rolex MastersATP Tour",
-        "team2_name": "Shanghai Rolex Masters",
-        "date_and_time": "Oct 07, 2026 at 04:00 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/shanghai-rolex-masters/2614)Link2,,https://playerbee.top/charlie/shanghai-rolex-masters/2615)Link3,,https://playerbee.top/charlie/shanghai-rolex-masters/2616)"
-    },
-    {
-        "event_name": "UEFA Youth League",
-        "team1_logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "team1_name": "FenerbahçeAston Villa",
-        "team2_name": "Fenerbahçe",
-        "date_and_time": "Oct 14, 2026 at 01:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/fenerbahce-vs-aston-villa-u19/2764)"
-    },
-    {
-        "event_name": "UEFA Youth League",
-        "team1_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team1_name": "Manchester CityPSG",
-        "team2_name": "Manchester City",
-        "date_and_time": "Oct 14, 2026 at 02:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/man-city-vs-psg/2763)"
-    },
-    {
         "event_name": "Champions League",
         "team1_logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/lask/logo.webp",
@@ -34,6 +7,33 @@
         "team2_name": "Team 2",
         "date_and_time": "Oct 14, 2026 at 04:45 PM UTC",
         "multi_streaming": "Link1,,https://playerbee.top/charlie/liverpool-vs-lask-linz/2818)Link2,,https://playerbee.top/charlie/liverpool-vs-lask-linz/2819)Link3,,https://playerbee.top/charlie/liverpool-vs-lask-linz/2822)Link4,,https://playerbee.top/charlie/liverpool-vs-lask-linz/2823)"
+    },
+    {
+        "event_name": "Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team1_name": "PSGManchester City",
+        "team2_name": "PSG",
+        "date_and_time": "Oct 14, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/psg-vs-manchester-city/2824)Link2,,https://playerbee.top/charlie/psg-vs-manchester-city/2825)Link3,,https://playerbee.top/charlie/psg-vs-manchester-city/2833)"
+    },
+    {
+        "event_name": "Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+        "team1_name": "Real MadridAS Roma",
+        "team2_name": "Real Madrid",
+        "date_and_time": "Oct 14, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/real-madrid-vs-roma/2826)Link2,,https://playerbee.top/charlie/real-madrid-vs-roma/2827)Link3,,https://playerbee.top/charlie/real-madrid-vs-roma/2832)Link4,,https://playerbee.top/charlie/real-madrid-vs-roma/2836)"
+    },
+    {
+        "event_name": "ATP Tour",
+        "team1_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
+        "team1_name": "Shanghai Rolex MastersATP Tour",
+        "team2_name": "Shanghai Rolex Masters",
+        "date_and_time": "Oct 07, 2026 at 04:00 AM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/shanghai-rolex-masters/2614)Link2,,https://playerbee.top/charlie/shanghai-rolex-masters/2615)Link3,,https://playerbee.top/charlie/shanghai-rolex-masters/2616)"
     },
     {
         "event_name": "Champions League",
@@ -51,7 +51,7 @@
         "team1_name": "Borussia DortmundFK Bodo Glimt",
         "team2_name": "Borussia Dortmund",
         "date_and_time": "Oct 14, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/borussia-dortmund-vs-bodo-glimt/2829)Link2,,https://playerbee.top/charlie/borussia-dortmund-vs-bodo-glimt/2830)Link3,,https://playerbee.top/charlie/borussia-dortmund-vs-bodo-glimt/2831)"
     },
     {
         "event_name": "Champions League",
@@ -60,7 +60,7 @@
         "team1_name": "StuttgartSlovan Bratislava",
         "team2_name": "Stuttgart",
         "date_and_time": "Oct 14, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/stuttgart-vs-slovan-bratislava/2828)"
     },
     {
         "event_name": "Champions League",
@@ -69,25 +69,7 @@
         "team1_name": "Aston VillaFenerbahçe",
         "team2_name": "Aston Villa",
         "date_and_time": "Oct 14, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Champions League",
-        "team1_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "team1_name": "PSGManchester City",
-        "team2_name": "PSG",
-        "date_and_time": "Oct 14, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/psg-vs-manchester-city/2824)Link2,,https://playerbee.top/charlie/psg-vs-manchester-city/2825)"
-    },
-    {
-        "event_name": "Champions League",
-        "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
-        "team1_name": "Real MadridAS Roma",
-        "team2_name": "Real Madrid",
-        "date_and_time": "Oct 14, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/real-madrid-vs-roma/2826)Link2,,https://playerbee.top/charlie/real-madrid-vs-roma/2827)"
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/aston-villa-vs-fenerbahce/2834)Link2,,https://playerbee.top/charlie/aston-villa-vs-fenerbahce/2835)"
     },
     {
         "event_name": "Champions League",
@@ -96,7 +78,16 @@
         "team1_name": "PortoReal Betis",
         "team2_name": "Porto",
         "date_and_time": "Oct 14, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/porto-vs-real-betis/2837)Link2,,https://playerbee.top/charlie/porto-vs-real-betis/2838)"
+    },
+    {
+        "event_name": "Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/aek-athens/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/shakhtar-donetsk/logo.webp",
+        "team1_name": "AEK AthensShakhtar Donetsk",
+        "team2_name": "AEK Athens",
+        "date_and_time": "Oct 14, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/athens-vs-shakhtar-donetsk/2839)"
     },
     {
         "event_name": "EFL",
