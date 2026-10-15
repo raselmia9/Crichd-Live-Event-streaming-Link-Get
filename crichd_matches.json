@@ -18,15 +18,6 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/brewers-vs-dodgers/2840)"
     },
     {
-        "event_name": "MLB",
-        "team1_logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
-        "team1_name": "Tampa Bay RaysCleveland Guardians",
-        "team2_name": "Tampa Bay Rays",
-        "date_and_time": "Oct 15, 2026 at 10:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/rays-vs-guardians/2845)"
-    },
-    {
         "event_name": "PGA Tour",
         "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -196,6 +187,15 @@
         "team2_name": "Watford",
         "date_and_time": "Oct 17, 2026 at 11:30 AM UTC",
         "multi_streaming": "Link1,,https://playerbee.top/charlie/watford-vs-charlton-athletic/2853)Link2,,https://playerbee.top/charlie/watford-vs-charlton-athletic/2854)"
+    },
+    {
+        "event_name": "MLB",
+        "team1_logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
+        "team1_name": "Tampa Bay RaysCleveland Guardians",
+        "team2_name": "Tampa Bay Rays",
+        "date_and_time": "Oct 15, 2026 at 10:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/rays-vs-guardians/2845)"
     },
     {
         "event_name": "NFL",
