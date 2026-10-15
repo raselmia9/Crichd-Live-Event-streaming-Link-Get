@@ -9,15 +9,6 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/shanghai-rolex-masters/2614)Link2,,https://playerbee.top/charlie/shanghai-rolex-masters/2615)Link3,,https://playerbee.top/charlie/shanghai-rolex-masters/2616)"
     },
     {
-        "event_name": "MLB",
-        "team1_logo": "https://cdn.img4every1.org/team/milwaukee-brewers/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
-        "team1_name": "Milwaukee BrewersLos Angeles Dodgers",
-        "team2_name": "Milwaukee Brewers",
-        "date_and_time": "Oct 15, 2026 at 12:00 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/brewers-vs-dodgers/2840)"
-    },
-    {
         "event_name": "PGA Tour",
         "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -303,6 +294,15 @@
         "team1_name": "Elche CFVillarreal",
         "team2_name": "Elche CF",
         "date_and_time": "Oct 17, 2026 at 02:15 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "team1_name": "FC BarcelonaReal Betis",
+        "team2_name": "FC Barcelona",
+        "date_and_time": "Oct 17, 2026 at 04:30 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
