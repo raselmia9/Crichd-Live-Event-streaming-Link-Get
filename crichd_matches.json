@@ -90,6 +90,15 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/juventus-vs-celta-vigo/2802)"
     },
     {
+        "event_name": "Europa League",
+        "team1_logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/besiktas/logo.webp",
+        "team1_name": "HoffenheimBesiktas",
+        "team2_name": "Hoffenheim",
+        "date_and_time": "Oct 15, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/hoffenheim-vs-besiktas/2803)"
+    },
+    {
         "event_name": "Conference League",
         "team1_logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/kauno-zalgiris/logo.webp",
