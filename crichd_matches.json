@@ -27,15 +27,6 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/australia-vs-new-zealand/2843)Link2,,https://playerbee.top/charlie/australia-vs-new-zealand/2844)"
     },
     {
-        "event_name": "Rugby League World Cup",
-        "team1_logo": "https://cdn.img4every1.org/team/france/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/samoa/logo.webp",
-        "team1_name": "FranceSamoa",
-        "team2_name": "France",
-        "date_and_time": "Oct 16, 2026 at 06:45 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/france-vs-samoa/2849)Link2,,https://playerbee.top/charlie/france-vs-samoa/2850)"
-    },
-    {
         "event_name": "Europa League",
         "team1_logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
@@ -196,6 +187,15 @@
         "team2_name": "Denver Broncos",
         "date_and_time": "Oct 16, 2026 at 12:15 AM UTC",
         "multi_streaming": "Link1,,https://playerbee.top/charlie/broncos-vs-seahawks/2846)Link2,,https://playerbee.top/charlie/broncos-vs-seahawks/2847)Link3,,https://playerbee.top/charlie/broncos-vs-seahawks/2848)"
+    },
+    {
+        "event_name": "Rugby League World Cup",
+        "team1_logo": "https://cdn.img4every1.org/team/france/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/samoa/logo.webp",
+        "team1_name": "FranceSamoa",
+        "team2_name": "France",
+        "date_and_time": "Oct 16, 2026 at 06:45 AM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/france-vs-samoa/2849)Link2,,https://playerbee.top/charlie/france-vs-samoa/2850)"
     },
     {
         "event_name": "A League",
