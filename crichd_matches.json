@@ -18,15 +18,6 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/india-championship/2841)Link2,,https://playerbee.top/charlie/india-championship/2842)"
     },
     {
-        "event_name": "Rugby League World Cup",
-        "team1_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-        "team1_name": "AustraliaNew Zealand",
-        "team2_name": "Australia",
-        "date_and_time": "Oct 15, 2026 at 09:00 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/australia-vs-new-zealand/2843)Link2,,https://playerbee.top/charlie/australia-vs-new-zealand/2844)"
-    },
-    {
         "event_name": "Europa League",
         "team1_logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
@@ -97,33 +88,6 @@
         "team2_name": "Juventus",
         "date_and_time": "Oct 15, 2026 at 07:00 PM UTC",
         "multi_streaming": "Link1,,https://playerbee.top/charlie/juventus-vs-celta-vigo/2802)"
-    },
-    {
-        "event_name": "Saudi Pro League",
-        "team1_logo": "https://cdn.img4every1.org/team/al-nassr/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/al-ahli/logo.webp",
-        "team1_name": "Al-NassrAl Ahli",
-        "team2_name": "Al-Nassr",
-        "date_and_time": "Oct 15, 2026 at 06:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/al-nassr-vs-al-ahli/2809)Link2,,https://playerbee.top/charlie/al-nassr-vs-al-ahli/2810)"
-    },
-    {
-        "event_name": "French Ligue 1",
-        "team1_logo": "https://cdn.img4every1.org/team/le-mans/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/toulouse/logo.webp",
-        "team1_name": "Le MansToulouse",
-        "team2_name": "Le Mans",
-        "date_and_time": "Oct 15, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/le-mans-vs-toulouse/2813)Link2,,https://playerbee.top/charlie/le-mans-vs-toulouse/2814)"
-    },
-    {
-        "event_name": "French Ligue 1",
-        "team1_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/strasbourg/logo.webp",
-        "team1_name": "PSGStrasbourg",
-        "team2_name": "PSG",
-        "date_and_time": "Oct 17, 2026 at 03:15 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "Conference League",
@@ -243,6 +207,15 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
+        "event_name": "Bundesliga",
+        "team1_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
+        "team1_name": "Bayern MünchenRB Leipzig",
+        "team2_name": "Bayern München",
+        "date_and_time": "Oct 17, 2026 at 04:30 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
         "event_name": "Serie A",
         "team1_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
@@ -267,6 +240,24 @@
         "team1_name": "Inter MilanBologna",
         "team2_name": "Inter Milan",
         "date_and_time": "Oct 17, 2026 at 04:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "French Ligue 1",
+        "team1_logo": "https://cdn.img4every1.org/team/le-mans/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/toulouse/logo.webp",
+        "team1_name": "Le MansToulouse",
+        "team2_name": "Le Mans",
+        "date_and_time": "Oct 16, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/le-mans-vs-toulouse/2813)Link2,,https://playerbee.top/charlie/le-mans-vs-toulouse/2814)"
+    },
+    {
+        "event_name": "French Ligue 1",
+        "team1_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/strasbourg/logo.webp",
+        "team1_name": "PSGStrasbourg",
+        "team2_name": "PSG",
+        "date_and_time": "Oct 17, 2026 at 03:15 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
@@ -348,6 +339,15 @@
         "team1_name": "Manchester CityIpswich Town",
         "team2_name": "Manchester City",
         "date_and_time": "Oct 17, 2026 at 02:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Premier League",
+        "team1_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
+        "team1_name": "Aston VillaNewcastle United",
+        "team2_name": "Aston Villa",
+        "date_and_time": "Oct 17, 2026 at 04:30 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     }
 ]
