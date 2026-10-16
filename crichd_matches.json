@@ -18,24 +18,6 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/india-championship/2841)Link2,,https://playerbee.top/charlie/india-championship/2842)"
     },
     {
-        "event_name": "MLB",
-        "team1_logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
-        "team1_name": "Tampa Bay RaysCleveland Guardians",
-        "team2_name": "Tampa Bay Rays",
-        "date_and_time": "Oct 15, 2026 at 10:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/rays-vs-guardians/2845)"
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/seattle-seahawks/logo.webp",
-        "team1_name": "Denver BroncosSeattle Seahawks",
-        "team2_name": "Denver Broncos",
-        "date_and_time": "Oct 16, 2026 at 12:15 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/broncos-vs-seahawks/2846)Link2,,https://playerbee.top/charlie/broncos-vs-seahawks/2847)Link3,,https://playerbee.top/charlie/broncos-vs-seahawks/2848)"
-    },
-    {
         "event_name": "Rugby League World Cup",
         "team1_logo": "https://cdn.img4every1.org/team/france/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/samoa/logo.webp",
@@ -126,12 +108,12 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Serie A",
+        "event_name": "Live Sports",
         "team1_logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
         "team1_name": "AS RomaGenoa",
         "team2_name": "AS Roma",
-        "date_and_time": "Oct 17, 2026 at 06:45 PM UTC",
+        "date_and_time": "N/A",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
@@ -159,6 +141,15 @@
         "team1_name": "AC MilanAtalanta",
         "team2_name": "AC Milan",
         "date_and_time": "Oct 18, 2026 at 04:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Serie A",
+        "team1_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "team1_name": "LazioJuventus",
+        "team2_name": "Lazio",
+        "date_and_time": "Oct 18, 2026 at 06:45 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
@@ -243,12 +234,21 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "LaLiga",
+        "event_name": "Live Sports",
         "team1_logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
         "team1_name": "Deportivo AlavésCelta de Vigo",
         "team2_name": "Deportivo Alavés",
-        "date_and_time": "Oct 18, 2026 at 02:15 PM UTC",
+        "date_and_time": "N/A",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "team1_name": "Real SociedadMálaga",
+        "team2_name": "Real Sociedad",
+        "date_and_time": "Oct 18, 2026 at 04:30 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
@@ -288,12 +288,12 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/watford-vs-charlton-athletic/2853)Link2,,https://playerbee.top/charlie/watford-vs-charlton-athletic/2854)"
     },
     {
-        "event_name": "Premier League",
+        "event_name": "Live Sports",
         "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/everton/logo.webp",
         "team1_name": "ChelseaEverton",
         "team2_name": "Chelsea",
-        "date_and_time": "Oct 17, 2026 at 11:30 AM UTC",
+        "date_and_time": "N/A",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
