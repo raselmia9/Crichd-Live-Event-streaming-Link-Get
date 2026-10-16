@@ -45,6 +45,24 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/newcastle-jets-vs-central-coast-mariners/2857)"
     },
     {
+        "event_name": "Rugby Union",
+        "team1_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+        "team1_name": "AustraliaNew Zealand",
+        "team2_name": "Australia",
+        "date_and_time": "Oct 17, 2026 at 05:00 AM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/australia-vs-new-zealand/2863)Link2,,https://playerbee.top/charlie/australia-vs-new-zealand/2864)Link3,,https://playerbee.top/charlie/australia-vs-new-zealand/2865)"
+    },
+    {
+        "event_name": "Rugby League World Cup",
+        "team1_logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/tonga/logo.webp",
+        "team1_name": "EnglandTonga",
+        "team2_name": "England",
+        "date_and_time": "Oct 17, 2026 at 09:05 AM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/england-vs-tonga/2866)Link2,,https://playerbee.top/charlie/england-vs-tonga/2867)"
+    },
+    {
         "event_name": "EFL",
         "team1_logo": "https://cdn.img4every1.org/team/watford/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/charlton-athletic/logo.webp",
@@ -124,6 +142,24 @@
         "team2_name": "Arsenal",
         "date_and_time": "Oct 18, 2026 at 03:30 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Champions Cup",
+        "team1_logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/sale-sharks/logo.webp",
+        "team1_name": "Glasgow WarriorsSale Sharks",
+        "team2_name": "Glasgow Warriors",
+        "date_and_time": "Oct 17, 2026 at 12:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/warriors-vs-sale-sharks/2868)"
+    },
+    {
+        "event_name": "Champions Cup",
+        "team1_logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/sf-paris/logo.webp",
+        "team1_name": "BullsStade Français Paris",
+        "team2_name": "Bulls",
+        "date_and_time": "Oct 17, 2026 at 12:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/bulls-vs-stade-francais/2869)"
     },
     {
         "event_name": "LaLiga",
@@ -286,5 +322,14 @@
         "team2_name": "Bayern München",
         "date_and_time": "Oct 17, 2026 at 04:30 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "UFC",
+        "team1_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team1_name": "UFC Fight Night: BuckleyMalott",
+        "team2_name": "UFC Fight Night: Buckley",
+        "date_and_time": "Oct 17, 2026 at 10:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/ufc-fight-night-buckley-vs-malott/2862)"
     }
 ]
