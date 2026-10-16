@@ -1,12 +1,12 @@
 [
     {
-        "event_name": "Live Sports",
+        "event_name": "ATP Tour",
         "team1_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team1_name": "Shanghai Rolex MastersATP Tour",
         "team2_name": "Shanghai Rolex Masters",
-        "date_and_time": "N/A",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "date_and_time": "Oct 07, 2026 at 04:00 AM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/shanghai-rolex-masters/2614)Link2,,https://playerbee.top/charlie/shanghai-rolex-masters/2615)Link3,,https://playerbee.top/charlie/shanghai-rolex-masters/2616)"
     },
     {
         "event_name": "PGA Tour",
@@ -24,33 +24,33 @@
         "team1_name": "Eintracht FrankfurtKöln",
         "team2_name": "Eintracht Frankfurt",
         "date_and_time": "Oct 16, 2026 at 06:30 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/eintracht-frankfurt-vs-koln/2858)"
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "Bundesliga",
         "team1_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
         "team1_name": "Bayern MünchenRB Leipzig",
         "team2_name": "Bayern München",
-        "date_and_time": "N/A",
+        "date_and_time": "Oct 17, 2026 at 04:30 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "Serie A",
         "team1_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
         "team1_name": "SassuoloFrosinone Calcio",
         "team2_name": "Sassuolo",
-        "date_and_time": "N/A",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "date_and_time": "Oct 16, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/sassuolo-vs-frosinone/2815)Link2,,https://playerbee.top/charlie/sassuolo-vs-frosinone/2816)"
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "Serie A",
         "team1_logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
         "team1_name": "NapoliVenezia",
         "team2_name": "Napoli",
-        "date_and_time": "N/A",
+        "date_and_time": "Oct 17, 2026 at 01:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
@@ -72,21 +72,21 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "Serie A",
         "team1_logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
         "team1_name": "LecceUdinese",
         "team2_name": "Lecce",
-        "date_and_time": "N/A",
+        "date_and_time": "Oct 18, 2026 at 10:30 AM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "Serie A",
         "team1_logo": "https://cdn.img4every1.org/team/como/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
         "team1_name": "ComoFiorentina",
         "team2_name": "Como",
-        "date_and_time": "N/A",
+        "date_and_time": "Oct 18, 2026 at 01:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
@@ -141,7 +141,7 @@
         "team1_name": "Deportivo La CoruñaLevante",
         "team2_name": "Deportivo La Coruña",
         "date_and_time": "Oct 16, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/deportivo-la-coruna-vs-levante/2859)Link2,,https://playerbee.top/charlie/deportivo-la-coruna-vs-levante/2860)Link3,,https://playerbee.top/charlie/deportivo-la-coruna-vs-levante/2861)"
     },
     {
         "event_name": "LaLiga",
@@ -171,12 +171,12 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "LaLiga",
         "team1_logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
         "team1_name": "Athletic ClubValencia",
         "team2_name": "Athletic Club",
-        "date_and_time": "N/A",
+        "date_and_time": "Oct 17, 2026 at 07:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
@@ -198,12 +198,12 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "LaLiga",
         "team1_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
         "team1_name": "Real SociedadMálaga",
         "team2_name": "Real Sociedad",
-        "date_and_time": "N/A",
+        "date_and_time": "Oct 18, 2026 at 04:30 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
@@ -225,13 +225,13 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/edinburgh-vs-toulon/2852)"
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "EFL",
         "team1_logo": "https://cdn.img4every1.org/team/burnley-fc/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
         "team1_name": "Burnley FCWolverhampton Wanderers",
         "team2_name": "Burnley FC",
-        "date_and_time": "N/A",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "date_and_time": "Oct 16, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/burnley-vs-wolves/2811)Link2,,https://playerbee.top/charlie/burnley-vs-wolves/2812)"
     },
     {
         "event_name": "EFL",
@@ -243,13 +243,13 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/watford-vs-charlton-athletic/2853)Link2,,https://playerbee.top/charlie/watford-vs-charlton-athletic/2854)"
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "A League",
         "team1_logo": "https://cdn.img4every1.org/team/auckland/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/melbourne-city/logo.webp",
         "team1_name": "AucklandMelbourne City",
         "team2_name": "Auckland",
-        "date_and_time": "N/A",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "date_and_time": "Oct 17, 2026 at 04:00 AM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/auckland-vs-melbourne-city/2855)"
     },
     {
         "event_name": "A League",
@@ -261,30 +261,30 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/perth-glory-vs-macarthur/2856)"
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "A League",
         "team1_logo": "https://cdn.img4every1.org/team/newcastle-jets/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/central-coast-mariners/logo.webp",
         "team1_name": "Newcastle JetsCentral Coast Mariners",
         "team2_name": "Newcastle Jets",
-        "date_and_time": "N/A",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "date_and_time": "Oct 17, 2026 at 08:40 AM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/newcastle-jets-vs-central-coast-mariners/2857)"
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "Premier League",
         "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/everton/logo.webp",
         "team1_name": "ChelseaEverton",
         "team2_name": "Chelsea",
-        "date_and_time": "N/A",
+        "date_and_time": "Oct 17, 2026 at 11:30 AM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "Premier League",
         "team1_logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
         "team1_name": "Brentford",
         "team2_name": "Team 2",
-        "date_and_time": "N/A",
+        "date_and_time": "Oct 17, 2026 at 02:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
@@ -297,12 +297,12 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "Premier League",
         "team1_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
         "team1_name": "Aston VillaNewcastle United",
         "team2_name": "Aston Villa",
-        "date_and_time": "N/A",
+        "date_and_time": "Oct 17, 2026 at 04:30 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
