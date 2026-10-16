@@ -18,15 +18,6 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/india-championship/2841)Link2,,https://playerbee.top/charlie/india-championship/2842)"
     },
     {
-        "event_name": "Rugby League World Cup",
-        "team1_logo": "https://cdn.img4every1.org/team/france/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/samoa/logo.webp",
-        "team1_name": "FranceSamoa",
-        "team2_name": "France",
-        "date_and_time": "Oct 16, 2026 at 06:45 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/france-vs-samoa/2849)Link2,,https://playerbee.top/charlie/france-vs-samoa/2850)"
-    },
-    {
         "event_name": "A League",
         "team1_logo": "https://cdn.img4every1.org/team/sydney-fc/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/western-sydney-wanderers/logo.webp",
@@ -34,33 +25,6 @@
         "team2_name": "Sydney FC",
         "date_and_time": "Oct 16, 2026 at 09:00 AM UTC",
         "multi_streaming": "Link1,,https://playerbee.top/charlie/sydney-fc-vs-western-sydney-wanderers/2817)"
-    },
-    {
-        "event_name": "A League",
-        "team1_logo": "https://cdn.img4every1.org/team/auckland/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/melbourne-city/logo.webp",
-        "team1_name": "AucklandMelbourne City",
-        "team2_name": "Auckland",
-        "date_and_time": "Oct 17, 2026 at 04:00 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/auckland-vs-melbourne-city/2855)"
-    },
-    {
-        "event_name": "A League",
-        "team1_logo": "https://cdn.img4every1.org/team/perth-glory/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/macarthur/logo.webp",
-        "team1_name": "Perth GloryMacarthur",
-        "team2_name": "Perth Glory",
-        "date_and_time": "Oct 17, 2026 at 06:00 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/perth-glory-vs-macarthur/2856)"
-    },
-    {
-        "event_name": "A League",
-        "team1_logo": "https://cdn.img4every1.org/team/newcastle-jets/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/central-coast-mariners/logo.webp",
-        "team1_name": "Newcastle JetsCentral Coast Mariners",
-        "team2_name": "Newcastle Jets",
-        "date_and_time": "Oct 17, 2026 at 08:40 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/newcastle-jets-vs-central-coast-mariners/2857)"
     },
     {
         "event_name": "Bundesliga",
@@ -108,12 +72,12 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "Serie A",
         "team1_logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
         "team1_name": "AS RomaGenoa",
         "team2_name": "AS Roma",
-        "date_and_time": "N/A",
+        "date_and_time": "Oct 17, 2026 at 06:45 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
@@ -234,12 +198,12 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "LaLiga",
         "team1_logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
         "team1_name": "Deportivo AlavésCelta de Vigo",
         "team2_name": "Deportivo Alavés",
-        "date_and_time": "N/A",
+        "date_and_time": "Oct 18, 2026 at 02:15 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
@@ -288,12 +252,39 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/watford-vs-charlton-athletic/2853)Link2,,https://playerbee.top/charlie/watford-vs-charlton-athletic/2854)"
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "A League",
+        "team1_logo": "https://cdn.img4every1.org/team/auckland/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/melbourne-city/logo.webp",
+        "team1_name": "AucklandMelbourne City",
+        "team2_name": "Auckland",
+        "date_and_time": "Oct 17, 2026 at 04:00 AM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/auckland-vs-melbourne-city/2855)"
+    },
+    {
+        "event_name": "A League",
+        "team1_logo": "https://cdn.img4every1.org/team/perth-glory/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/macarthur/logo.webp",
+        "team1_name": "Perth GloryMacarthur",
+        "team2_name": "Perth Glory",
+        "date_and_time": "Oct 17, 2026 at 06:00 AM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/perth-glory-vs-macarthur/2856)"
+    },
+    {
+        "event_name": "A League",
+        "team1_logo": "https://cdn.img4every1.org/team/newcastle-jets/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/central-coast-mariners/logo.webp",
+        "team1_name": "Newcastle JetsCentral Coast Mariners",
+        "team2_name": "Newcastle Jets",
+        "date_and_time": "Oct 17, 2026 at 08:40 AM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/newcastle-jets-vs-central-coast-mariners/2857)"
+    },
+    {
+        "event_name": "Premier League",
         "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/everton/logo.webp",
         "team1_name": "ChelseaEverton",
         "team2_name": "Chelsea",
-        "date_and_time": "N/A",
+        "date_and_time": "Oct 17, 2026 at 11:30 AM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
