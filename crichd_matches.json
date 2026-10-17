@@ -27,6 +27,15 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/auckland-vs-melbourne-city/2855)"
     },
     {
+        "event_name": "Rugby Union",
+        "team1_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+        "team1_name": "AustraliaNew Zealand",
+        "team2_name": "Australia",
+        "date_and_time": "Oct 17, 2026 at 05:00 AM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/australia-vs-new-zealand/2863)Link2,,https://playerbee.top/charlie/australia-vs-new-zealand/2864)Link3,,https://playerbee.top/charlie/australia-vs-new-zealand/2865)"
+    },
+    {
         "event_name": "A League",
         "team1_logo": "https://cdn.img4every1.org/team/perth-glory/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/macarthur/logo.webp",
@@ -43,15 +52,6 @@
         "team2_name": "Newcastle Jets",
         "date_and_time": "Oct 17, 2026 at 08:40 AM UTC",
         "multi_streaming": "Link1,,https://playerbee.top/charlie/newcastle-jets-vs-central-coast-mariners/2857)"
-    },
-    {
-        "event_name": "Rugby Union",
-        "team1_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-        "team1_name": "AustraliaNew Zealand",
-        "team2_name": "Australia",
-        "date_and_time": "Oct 17, 2026 at 05:00 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/australia-vs-new-zealand/2863)Link2,,https://playerbee.top/charlie/australia-vs-new-zealand/2864)Link3,,https://playerbee.top/charlie/australia-vs-new-zealand/2865)"
     },
     {
         "event_name": "Rugby League World Cup",
