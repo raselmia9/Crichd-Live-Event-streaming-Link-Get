@@ -10,120 +10,12 @@
     },
     {
         "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
-        "team1_name": "AC MilanAtalanta",
-        "team2_name": "AC Milan",
-        "date_and_time": "Oct 18, 2026 at 04:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/ac-milan-vs-atalanta/2939)Link2,,https://playerbee.top/charlie/ac-milan-vs-atalanta/2940)"
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
-        "team1_name": "Real SociedadMálaga",
-        "team2_name": "Real Sociedad",
-        "date_and_time": "Oct 18, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/real-sociedad-vs-malaga/2947)Link2,,https://playerbee.top/charlie/real-sociedad-vs-malaga/2948)"
-    },
-    {
-        "event_name": "Champions Cup",
-        "team1_logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
-        "team1_name": "Northampton SaintsCardiff Blues",
-        "team2_name": "Northampton Saints",
-        "date_and_time": "Oct 18, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/northampton-vs-cardiff-rugby/2920)"
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/tennessee-titans/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/indianapolis-colts/logo.webp",
-        "team1_name": "Tennessee TitansIndianapolis Colts",
-        "team2_name": "Tennessee Titans",
-        "date_and_time": "Oct 18, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/titans-vs-colts/2924)"
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/lucknow-super-giants/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/new-orleans-saints/logo.webp",
-        "team1_name": "Lucknow Super GiantsNew Orleans Saints",
-        "team2_name": "Lucknow Super Giants",
-        "date_and_time": "Oct 18, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/new-york-giants-vs-saints-live/2925)"
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
-        "team1_name": "Philadelphia EaglesCarolina Panthers",
-        "team2_name": "Philadelphia Eagles",
-        "date_and_time": "Oct 18, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/philadelphia-eagles-vs-panthers-live/2926)Link2,,https://playerbee.top/charlie/philadelphia-eagles-vs-panthers-live/2927)"
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/baltimore-ravens/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cleveland-browns/logo.webp",
-        "team1_name": "Baltimore RavensCleveland Browns",
-        "team2_name": "Baltimore Ravens",
-        "date_and_time": "Oct 18, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/ravens-vs-browns/2922)"
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/new-england-patriots/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/new-york-jets/logo.webp",
-        "team1_name": "New England PatriotsNew York Jets",
-        "team2_name": "New England Patriots",
-        "date_and_time": "Oct 18, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/patriots-vs-jets/2921)"
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/pittsburgh-steelers/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/tampa-bay-buccaneers/logo.webp",
-        "team1_name": "Pittsburgh SteelersTampa Bay Buccaneers",
-        "team2_name": "Pittsburgh Steelers",
-        "date_and_time": "Oct 18, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/steelers-vs-buccaneers/2923)"
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/atlanta-falcons/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
-        "team1_name": "Atlanta FalconsChicago Bears",
-        "team2_name": "Atlanta Falcons",
-        "date_and_time": "Oct 18, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/falcons-vs-bears/2928)"
-    },
-    {
-        "event_name": "Serie A",
         "team1_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
         "team1_name": "LazioJuventus",
         "team2_name": "Lazio",
         "date_and_time": "Oct 18, 2026 at 06:45 PM UTC",
         "multi_streaming": "Link1,,https://playerbee.top/charlie/lazio-vs-juventus/2941)Link2,,https://playerbee.top/charlie/lazio-vs-juventus/2942)"
-    },
-    {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/monza/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
-        "team1_name": "MonzaCagliari",
-        "team2_name": "Monza",
-        "date_and_time": "Oct 19, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/parma/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/torino/logo.webp",
-        "team1_name": "ParmaTorino",
-        "team2_name": "Parma",
-        "date_and_time": "Oct 19, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "LaLiga",
@@ -133,24 +25,6 @@
         "team2_name": "Real Madrid",
         "date_and_time": "Oct 18, 2026 at 07:00 PM UTC",
         "multi_streaming": "Link1,,https://playerbee.top/charlie/real-madrid-vs-sevilla/2949)Link2,,https://playerbee.top/charlie/real-madrid-vs-sevilla/2950)Link3,,https://playerbee.top/charlie/real-madrid-vs-sevilla/2951)Link4,,https://playerbee.top/charlie/real-madrid-vs-sevilla/2952)"
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
-        "team1_name": "GetafeRayo Vallecano",
-        "team2_name": "Getafe",
-        "date_and_time": "Oct 19, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "team1_name": "LevanteAthletic Club",
-        "team2_name": "Levante",
-        "date_and_time": "Oct 21, 2026 at 06:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "NFL",
@@ -187,6 +61,42 @@
         "team2_name": "Dallas Cowboys",
         "date_and_time": "Oct 19, 2026 at 12:20 AM UTC",
         "multi_streaming": "Link1,,https://playerbee.top/charlie/cowboys-vs-packers/2934)Link2,,https://playerbee.top/charlie/cowboys-vs-packers/2935)Link3,,https://playerbee.top/charlie/cowboys-vs-packers/2936)"
+    },
+    {
+        "event_name": "Serie A",
+        "team1_logo": "https://cdn.img4every1.org/team/monza/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
+        "team1_name": "MonzaCagliari",
+        "team2_name": "Monza",
+        "date_and_time": "Oct 19, 2026 at 04:30 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Serie A",
+        "team1_logo": "https://cdn.img4every1.org/team/parma/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/torino/logo.webp",
+        "team1_name": "ParmaTorino",
+        "team2_name": "Parma",
+        "date_and_time": "Oct 19, 2026 at 06:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
+        "team1_name": "GetafeRayo Vallecano",
+        "team2_name": "Getafe",
+        "date_and_time": "Oct 19, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "team1_name": "LevanteAthletic Club",
+        "team2_name": "Levante",
+        "date_and_time": "Oct 21, 2026 at 06:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "Premier League",
