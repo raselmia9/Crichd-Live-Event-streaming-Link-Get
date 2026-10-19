@@ -9,51 +9,6 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/snooker-northern-ireland-open/2913)Link2,,https://playerbee.top/charlie/snooker-northern-ireland-open/2914)"
     },
     {
-        "event_name": "Live Sports",
-        "team1_logo": "https://cdn.img4every1.org/team/monza/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
-        "team1_name": "MonzaCagliari",
-        "team2_name": "Monza",
-        "date_and_time": "N/A",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_logo": "https://cdn.img4every1.org/team/parma/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/torino/logo.webp",
-        "team1_name": "ParmaTorino",
-        "team2_name": "Parma",
-        "date_and_time": "N/A",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
-        "team1_name": "GetafeRayo Vallecano",
-        "team2_name": "Getafe",
-        "date_and_time": "N/A",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "team1_name": "LevanteAthletic Club",
-        "team2_name": "Levante",
-        "date_and_time": "Oct 21, 2026 at 06:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Live Sports",
-        "team1_logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
-        "team1_name": "Tottenham HotspurCoventry City",
-        "team2_name": "Tottenham Hotspur",
-        "date_and_time": "N/A",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
         "event_name": "Champions League",
         "team1_logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/sabah-baku/logo.webp",
@@ -63,12 +18,12 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "Champions League",
         "team1_logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/slavia-praha/logo.webp",
         "team1_name": "FenerbahçeSlavia Praha",
         "team2_name": "Fenerbahçe",
-        "date_and_time": "N/A",
+        "date_and_time": "Oct 20, 2026 at 04:45 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
@@ -90,21 +45,21 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "Champions League",
         "team1_logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/slovan-bratislava/logo.webp",
         "team1_name": "AS RomaSlovan Bratislava",
         "team2_name": "AS Roma",
-        "date_and_time": "N/A",
+        "date_and_time": "Oct 20, 2026 at 07:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "Champions League",
         "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
         "team1_name": "FC BarcelonaPSG",
         "team2_name": "FC Barcelona",
-        "date_and_time": "N/A",
+        "date_and_time": "Oct 20, 2026 at 07:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
@@ -117,21 +72,21 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "Champions League",
         "team1_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/aek-athens/logo.webp",
         "team1_name": "Manchester CityAEK Athens",
         "team2_name": "Manchester City",
-        "date_and_time": "N/A",
+        "date_and_time": "Oct 20, 2026 at 07:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "EFL",
         "team1_logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/portsmouth/logo.webp",
         "team1_name": "Wolverhampton WanderersPortsmouth",
         "team2_name": "Wolverhampton Wanderers",
-        "date_and_time": "N/A",
+        "date_and_time": "Oct 20, 2026 at 06:45 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
@@ -141,6 +96,15 @@
         "team1_name": "ReadingLeyton Orient",
         "team2_name": "Reading",
         "date_and_time": "Oct 21, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "team1_name": "LevanteAthletic Club",
+        "team2_name": "Levante",
+        "date_and_time": "Oct 21, 2026 at 06:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     }
 ]
