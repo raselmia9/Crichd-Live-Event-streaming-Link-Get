@@ -10,33 +10,6 @@
     },
     {
         "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/arizona-cardinals/logo.webp",
-        "team1_name": "Los Angeles RamsArizona Cardinals",
-        "team2_name": "Los Angeles Rams",
-        "date_and_time": "Oct 18, 2026 at 08:05 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/rams-vs-cardinals/2929)"
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/los-angeles-chargers/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/kansas-city-chiefs/logo.webp",
-        "team1_name": "Los Angeles ChargersKansas City Chiefs",
-        "team2_name": "Los Angeles Chargers",
-        "date_and_time": "Oct 18, 2026 at 08:25 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/chargers-vs-chiefs/2932)Link2,,https://playerbee.top/charlie/chargers-vs-chiefs/2933)"
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/buffalo-bills/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/las-vegas-raiders/logo.webp",
-        "team1_name": "Buffalo BillsLas Vegas Raiders",
-        "team2_name": "Buffalo Bills",
-        "date_and_time": "Oct 18, 2026 at 08:25 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/bills-vs-raiders/2930)Link2,,https://playerbee.top/charlie/bills-vs-raiders/2931)"
-    },
-    {
-        "event_name": "NFL",
         "team1_logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/green-bay-packers/logo.webp",
         "team1_name": "Dallas CowboysGreen Bay Packers",
