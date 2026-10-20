@@ -15,7 +15,7 @@
         "team1_name": "Borussia DortmundSabah Baku",
         "team2_name": "Borussia Dortmund",
         "date_and_time": "Oct 20, 2026 at 04:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/borussia-dortmund-vs-sabah/2984)Link2,,https://playerbee.top/charlie/borussia-dortmund-vs-sabah/2985)Link3,,https://playerbee.top/charlie/borussia-dortmund-vs-sabah/2986)"
     },
     {
         "event_name": "Champions League",
@@ -24,7 +24,7 @@
         "team1_name": "FenerbahçeSlavia Praha",
         "team2_name": "Fenerbahçe",
         "date_and_time": "Oct 20, 2026 at 04:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/fenerbahce-vs-slavia-praha/2981)Link2,,https://playerbee.top/charlie/fenerbahce-vs-slavia-praha/2987)"
     },
     {
         "event_name": "Champions League",
@@ -60,7 +60,7 @@
         "team1_name": "FC BarcelonaPSG",
         "team2_name": "FC Barcelona",
         "date_and_time": "Oct 20, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/barcelona-vs-psg/2989)Link2,,https://playerbee.top/charlie/barcelona-vs-psg/2990)Link3,,https://playerbee.top/charlie/barcelona-vs-psg/2991)Link4,,https://playerbee.top/charlie/barcelona-vs-psg/2992)Link5,,https://playerbee.top/charlie/barcelona-vs-psg/2993)"
     },
     {
         "event_name": "Champions League",
@@ -69,7 +69,7 @@
         "team1_name": "Villarreal",
         "team2_name": "Team 2",
         "date_and_time": "Oct 20, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/liverpool-vs-villarreal/2994)Link2,,https://playerbee.top/charlie/liverpool-vs-villarreal/2995)"
     },
     {
         "event_name": "Champions League",
@@ -78,7 +78,16 @@
         "team1_name": "Manchester CityAEK Athens",
         "team2_name": "Manchester City",
         "date_and_time": "Oct 20, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/manchester-city-vs-athens/2996)Link2,,https://playerbee.top/charlie/manchester-city-vs-athens/2997)"
+    },
+    {
+        "event_name": "Gymnastics",
+        "team1_logo": "https://cdn.img4every1.org/league/gymnastics/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/gymnastics/logo.webp",
+        "team1_name": "World Gymnastics ChampionshipGymnastics",
+        "team2_name": "World Gymnastics Championship",
+        "date_and_time": "Oct 20, 2026 at 06:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/world-gymnastics-championship/2977)"
     },
     {
         "event_name": "EFL",
@@ -87,7 +96,16 @@
         "team1_name": "Wolverhampton WanderersPortsmouth",
         "team2_name": "Wolverhampton Wanderers",
         "date_and_time": "Oct 20, 2026 at 06:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/wolves-vs-portsmouth/2988)"
+    },
+    {
+        "event_name": "EFL",
+        "team1_logo": "https://cdn.img4every1.org/team/gillingham/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/port-vale/logo.webp",
+        "team1_name": "GillinghamPort Vale",
+        "team2_name": "Gillingham",
+        "date_and_time": "Oct 20, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/gillingham-vs-port-vale/2978)Link2,,https://playerbee.top/charlie/gillingham-vs-port-vale/2979)"
     },
     {
         "event_name": "EFL",
