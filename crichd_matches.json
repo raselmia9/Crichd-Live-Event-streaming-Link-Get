@@ -27,69 +27,6 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/pga-lpga-golf/3027)Link2,,https://playerbee.top/charlie/pga-lpga-golf/3028)Link3,,https://playerbee.top/charlie/pga-lpga-golf/3029)"
     },
     {
-        "event_name": "Europa League",
-        "team1_logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team1_name": "AFC BournemouthAC Milan",
-        "team2_name": "AFC Bournemouth",
-        "date_and_time": "Oct 22, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/bournemouth-vs-milan/3066)Link2,,https://playerbee.top/charlie/bournemouth-vs-milan/3067)Link3,,https://playerbee.top/charlie/bournemouth-vs-milan/3068)"
-    },
-    {
-        "event_name": "Europa League",
-        "team1_logo": "https://cdn.img4every1.org/team/celtic/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "team1_name": "CelticCelta de Vigo",
-        "team2_name": "Celtic",
-        "date_and_time": "Oct 22, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/celtic-vs-celta-vigo/3074)"
-    },
-    {
-        "event_name": "Europa League",
-        "team1_logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/besiktas/logo.webp",
-        "team1_name": "Crystal PalaceBesiktas",
-        "team2_name": "Crystal Palace",
-        "date_and_time": "Oct 22, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/crystal-palace-vs-besiktas/3075)"
-    },
-    {
-        "event_name": "Europa League",
-        "team1_logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
-        "team1_name": "Olympique LyonnaisHoffenheim",
-        "team2_name": "Olympique Lyonnais",
-        "date_and_time": "Oct 22, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/lyon-vs-hoffenheim/3076)"
-    },
-    {
-        "event_name": "Europa League",
-        "team1_logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/omonia-nicosia/logo.webp",
-        "team1_name": "BenficaOmonia Nicosia",
-        "team2_name": "Benfica",
-        "date_and_time": "Oct 22, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/benfica-vs-omonia-nicosia/3065)Link2,,https://playerbee.top/charlie/benfica-vs-omonia-nicosia/3080)"
-    },
-    {
-        "event_name": "Conference League",
-        "team1_logo": "https://cdn.img4every1.org/team/as-monaco/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/freiburg/logo.webp",
-        "team1_name": "AS MonacoFreiburg",
-        "team2_name": "AS Monaco",
-        "date_and_time": "Oct 22, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/monaco-vs-freiburg/3071)Link2,,https://playerbee.top/charlie/monaco-vs-freiburg/3072)Link3,,https://playerbee.top/charlie/monaco-vs-freiburg/3079)"
-    },
-    {
-        "event_name": "Europa League",
-        "team1_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/lillestrom/logo.webp",
-        "team1_name": "Real SociedadLillestrøm",
-        "team2_name": "Real Sociedad",
-        "date_and_time": "Oct 22, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/real-sociedad-vs-lillestr-m/3073)Link2,,https://playerbee.top/charlie/real-sociedad-vs-lillestr-m/3078)"
-    },
-    {
         "event_name": "MotoGP",
         "team1_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
@@ -240,6 +177,24 @@
         "team1_name": "GetafeAthletic Club",
         "team2_name": "Getafe",
         "date_and_time": "Oct 25, 2026 at 01:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+        "team1_name": "Real BetisCelta de Vigo",
+        "team2_name": "Real Betis",
+        "date_and_time": "Oct 25, 2026 at 03:15 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "team1_name": "Real SociedadLevante",
+        "team2_name": "Real Sociedad",
+        "date_and_time": "Oct 25, 2026 at 05:30 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
