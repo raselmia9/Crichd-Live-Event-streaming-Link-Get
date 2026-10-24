@@ -15,7 +15,7 @@
         "team1_name": "Snooker Northern Ireland OpenSnooker",
         "team2_name": "Snooker Northern Ireland Open",
         "date_and_time": "Oct 18, 2026 at 09:00 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/snooker-northern-ireland-open/2913)Link2,,https://playerbee.top/charlie/snooker-northern-ireland-open/2914)"
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/snooker-northern-ireland-open/2913)Link2,,https://playerbee.top/charlie/snooker-northern-ireland-open/2914)Link3,,https://playerbee.top/charlie/snooker-northern-ireland-open/3110)"
     },
     {
         "event_name": "PGA Tour",
@@ -36,24 +36,6 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/australian-grand-prix/3057)"
     },
     {
-        "event_name": "MLB",
-        "team1_logo": "https://cdn.img4every1.org/team/milwaukee-brewers/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
-        "team1_name": "Milwaukee BrewersTampa Bay Rays",
-        "team2_name": "Milwaukee Brewers",
-        "date_and_time": "Oct 24, 2026 at 12:00 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/brewers-vs-rays/3098)"
-    },
-    {
-        "event_name": "A League",
-        "team1_logo": "https://cdn.img4every1.org/team/macarthur/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/newcastle-jets/logo.webp",
-        "team1_name": "MacarthurNewcastle Jets",
-        "team2_name": "Macarthur",
-        "date_and_time": "Oct 24, 2026 at 04:00 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/macarthur-vs-newcastle-jets/3024)"
-    },
-    {
         "event_name": "A League",
         "team1_logo": "https://cdn.img4every1.org/team/auckland/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/western-sydney-wanderers/logo.webp",
@@ -61,24 +43,6 @@
         "team2_name": "Auckland",
         "date_and_time": "Oct 24, 2026 at 06:00 AM UTC",
         "multi_streaming": "Link1,,https://playerbee.top/charlie/auckland-vs-western-sydney-wanderers/3025)"
-    },
-    {
-        "event_name": "A League",
-        "team1_logo": "https://cdn.img4every1.org/team/melbourne-city/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/melbourne-victory/logo.webp",
-        "team1_name": "Melbourne CityMelbourne Victory",
-        "team2_name": "Melbourne City",
-        "date_and_time": "Oct 24, 2026 at 08:40 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/melbourne-city-vs-melbourne-victory/3026)"
-    },
-    {
-        "event_name": "Rugby League World Cup",
-        "team1_logo": "https://cdn.img4every1.org/team/papua-new-guinea/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/samoa/logo.webp",
-        "team1_name": "Papua New GuineaSamoa",
-        "team2_name": "Papua New Guinea",
-        "date_and_time": "Oct 24, 2026 at 04:25 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/png-vs-samoa/3099)Link2,,https://playerbee.top/charlie/png-vs-samoa/3102)"
     },
     {
         "event_name": "Rugby League World Cup",
@@ -90,13 +54,22 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/england-vs-france/3100)Link2,,https://playerbee.top/charlie/england-vs-france/3101)"
     },
     {
+        "event_name": "A League",
+        "team1_logo": "https://cdn.img4every1.org/team/melbourne-city/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/melbourne-victory/logo.webp",
+        "team1_name": "Melbourne CityMelbourne Victory",
+        "team2_name": "Melbourne City",
+        "date_and_time": "Oct 24, 2026 at 08:40 AM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/melbourne-city-vs-melbourne-victory/3026)"
+    },
+    {
         "event_name": "EFL",
         "team1_logo": "https://cdn.img4every1.org/team/norwich-city/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/charlton-athletic/logo.webp",
         "team1_name": "Norwich CityCharlton Athletic",
         "team2_name": "Norwich City",
         "date_and_time": "Oct 24, 2026 at 11:30 AM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/norwich-city-vs-charlton-athletic/3107)Link2,,https://playerbee.top/charlie/norwich-city-vs-charlton-athletic/3108)"
     },
     {
         "event_name": "Premier League",
@@ -105,7 +78,7 @@
         "team1_name": "Manchester CityAston Villa",
         "team2_name": "Manchester City",
         "date_and_time": "Oct 24, 2026 at 11:30 AM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/manchester-city-vs-aston-villa/3103)Link2,,https://playerbee.top/charlie/manchester-city-vs-aston-villa/3104)Link3,,https://playerbee.top/charlie/manchester-city-vs-aston-villa/3105)Link4,,https://playerbee.top/charlie/manchester-city-vs-aston-villa/3106)"
     },
     {
         "event_name": "Premier League",
@@ -177,7 +150,7 @@
         "team1_name": "Elche CFRayo Vallecano",
         "team2_name": "Elche CF",
         "date_and_time": "Oct 24, 2026 at 12:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/elche-vs-rayo-vallecano/3111)Link2,,https://playerbee.top/charlie/elche-vs-rayo-vallecano/3112)"
     },
     {
         "event_name": "LaLiga",
