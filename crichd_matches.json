@@ -1,23 +1,5 @@
 [
     {
-        "event_name": "Formula 1",
-        "team1_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "team1_name": "f1 United States Grand PrixFormula 1",
-        "team2_name": "f1 United States Grand Prix",
-        "date_and_time": "Oct 22, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/f1-united-states-grand-prix/3054)Link2,,https://playerbee.top/charlie/f1-united-states-grand-prix/3055)Link3,,https://playerbee.top/charlie/f1-united-states-grand-prix/3056)"
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team1_name": "FC BarcelonaReal Madrid",
-        "team2_name": "FC Barcelona",
-        "date_and_time": "Oct 25, 2026 at 08:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/barcelona-vs-real-madrid/3182)Link2,,https://playerbee.top/charlie/barcelona-vs-real-madrid/3183)Link3,,https://playerbee.top/charlie/barcelona-vs-real-madrid/3184)Link4,,https://playerbee.top/charlie/barcelona-vs-real-madrid/3185)Link5,,https://playerbee.top/charlie/barcelona-vs-real-madrid/3186)"
-    },
-    {
         "event_name": "PGA Tour",
         "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -25,42 +7,6 @@
         "team2_name": "PGA / LPGA Golf",
         "date_and_time": "Oct 22, 2026 at 02:00 AM UTC",
         "multi_streaming": "Link1,,https://playerbee.top/charlie/pga-lpga-golf/3027)Link2,,https://playerbee.top/charlie/pga-lpga-golf/3028)Link3,,https://playerbee.top/charlie/pga-lpga-golf/3029)"
-    },
-    {
-        "event_name": "Snooker",
-        "team1_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "team1_name": "Snooker Northern Ireland OpenSnooker",
-        "team2_name": "Snooker Northern Ireland Open",
-        "date_and_time": "Oct 25, 2026 at 01:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/snooker-northern-ireland-open/3155)"
-    },
-    {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
-        "team1_name": "AC MilanUdinese",
-        "team2_name": "AC Milan",
-        "date_and_time": "Oct 25, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/ac-milan-vs-udinese/3147)Link2,,https://playerbee.top/charlie/ac-milan-vs-udinese/3148)"
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/arizona-cardinals/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
-        "team1_name": "Arizona CardinalsDenver Broncos",
-        "team2_name": "Arizona Cardinals",
-        "date_and_time": "Oct 25, 2026 at 08:05 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/cardinals-vs-broncos/3204)"
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/las-vegas-raiders/logo.webp",
-        "team1_name": "Los Angeles RamsLas Vegas Raiders",
-        "team2_name": "Los Angeles Rams",
-        "date_and_time": "Oct 25, 2026 at 08:05 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/rams-vs-raiders/3205)"
     },
     {
         "event_name": "NFL",
