@@ -36,69 +36,6 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/snooker-northern-ireland-open/3155)"
     },
     {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/miami-dolphins/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/new-york-jets/logo.webp",
-        "team1_name": "Miami DolphinsNew York Jets",
-        "team2_name": "Miami Dolphins",
-        "date_and_time": "Oct 25, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/miami-dolphins-vs-jets/3197)"
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/tennessee-titans/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cleveland-browns/logo.webp",
-        "team1_name": "Tennessee TitansCleveland Browns",
-        "team2_name": "Tennessee Titans",
-        "date_and_time": "Oct 25, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/titans-vs-browns/3199)"
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/new-york-giants/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/houston-texans/logo.webp",
-        "team1_name": "New York GiantsHouston Texans",
-        "team2_name": "New York Giants",
-        "date_and_time": "Oct 25, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/giants-vs-texans/3200)"
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/atlanta-falcons/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
-        "team1_name": "Atlanta FalconsSan Francisco 49ers",
-        "team2_name": "Atlanta Falcons",
-        "date_and_time": "Oct 25, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/falcons-vs-49ers/3158)Link2,,https://playerbee.top/charlie/falcons-vs-49ers/3201)"
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/baltimore-ravens/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cincinnati-bengals/logo.webp",
-        "team1_name": "Baltimore RavensCincinnati Bengals",
-        "team2_name": "Baltimore Ravens",
-        "date_and_time": "Oct 25, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/baltimore-ravens-vs-cincinnati-bengals/3198)"
-    },
-    {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
-        "team1_name": "JuventusLecce",
-        "team2_name": "Juventus",
-        "date_and_time": "Oct 25, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/juventus-vs-lecce/3145)Link2,,https://playerbee.top/charlie/juventus-vs-lecce/3146)"
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "team1_name": "Real SociedadLevante",
-        "team2_name": "Real Sociedad",
-        "date_and_time": "Oct 25, 2026 at 05:30 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/real-sociedad-vs-levante/3179)Link2,,https://playerbee.top/charlie/real-sociedad-vs-levante/3180)Link3,,https://playerbee.top/charlie/real-sociedad-vs-levante/3181)"
-    },
-    {
         "event_name": "Serie A",
         "team1_logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
@@ -106,15 +43,6 @@
         "team2_name": "AC Milan",
         "date_and_time": "Oct 25, 2026 at 07:45 PM UTC",
         "multi_streaming": "Link1,,https://playerbee.top/charlie/ac-milan-vs-udinese/3147)Link2,,https://playerbee.top/charlie/ac-milan-vs-udinese/3148)"
-    },
-    {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
-        "team1_name": "LazioSassuolo",
-        "team2_name": "Lazio",
-        "date_and_time": "Oct 27, 2026 at 05:30 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "NFL",
@@ -213,6 +141,15 @@
         "team1_name": "SevillaOsasuna",
         "team2_name": "Sevilla",
         "date_and_time": "Oct 26, 2026 at 08:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Serie A",
+        "team1_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
+        "team1_name": "LazioSassuolo",
+        "team2_name": "Lazio",
+        "date_and_time": "Oct 27, 2026 at 05:30 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
