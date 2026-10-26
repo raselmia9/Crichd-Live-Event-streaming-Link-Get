@@ -10,15 +10,6 @@
     },
     {
         "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/detroit-lions/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/green-bay-packers/logo.webp",
-        "team1_name": "Detroit LionsGreen Bay Packers",
-        "team2_name": "Detroit Lions",
-        "date_and_time": "Oct 25, 2026 at 08:25 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/detroit-lions-vs-green-bay-packers/3159)Link2,,https://playerbee.top/charlie/detroit-lions-vs-green-bay-packers/3206)"
-    },
-    {
-        "event_name": "NFL",
         "team1_logo": "https://cdn.img4every1.org/team/kansas-city-chiefs/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/seattle-seahawks/logo.webp",
         "team1_name": "Kansas City ChiefsSeattle Seahawks",
