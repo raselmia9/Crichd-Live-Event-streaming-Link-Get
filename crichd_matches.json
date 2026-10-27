@@ -1,14 +1,5 @@
 [
     {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
-        "team1_name": "Dallas CowboysPhiladelphia Eagles",
-        "team2_name": "Dallas Cowboys",
-        "date_and_time": "Oct 27, 2026 at 12:15 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/cowboys-vs-eagles/3216)Link2,,https://playerbee.top/charlie/cowboys-vs-eagles/3217)Link3,,https://playerbee.top/charlie/cowboys-vs-eagles/3218)"
-    },
-    {
         "event_name": "Serie A",
         "team1_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
