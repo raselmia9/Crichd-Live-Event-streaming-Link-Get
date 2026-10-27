@@ -1,39 +1,30 @@
 [
     {
-        "event_name": "PGA Tour",
-        "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team1_name": "PGA / LPGA GolfPGA Tour",
-        "team2_name": "PGA / LPGA Golf",
-        "date_and_time": "Oct 22, 2026 at 02:00 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/pga-lpga-golf/3027)Link2,,https://playerbee.top/charlie/pga-lpga-golf/3028)Link3,,https://playerbee.top/charlie/pga-lpga-golf/3029)"
+        "event_name": "NFL",
+        "team1_logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
+        "team1_name": "Dallas CowboysPhiladelphia Eagles",
+        "team2_name": "Dallas Cowboys",
+        "date_and_time": "Oct 27, 2026 at 12:15 AM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/cowboys-vs-eagles/3216)Link2,,https://playerbee.top/charlie/cowboys-vs-eagles/3217)Link3,,https://playerbee.top/charlie/cowboys-vs-eagles/3218)"
     },
     {
-        "event_name": "Friendly",
-        "team1_logo": "https://cdn.img4every1.org/league/friendly-soccer-streams/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/friendly-soccer-streams/logo.webp",
-        "team1_name": "2026 Ballon d'OrFriendly",
-        "team2_name": "2026 Ballon d'Or",
-        "date_and_time": "Oct 26, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/ballon-dor/3214)Link2,,https://playerbee.top/delta/ballon-dor/42)Link3,,https://playerbee.top/delta/ballon-dor/43)"
+        "event_name": "Serie A",
+        "team1_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
+        "team1_name": "LazioSassuolo",
+        "team2_name": "Lazio",
+        "date_and_time": "Oct 27, 2026 at 05:30 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "French Ligue 1",
-        "team1_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
-        "team1_name": "PSGOlympique Lyonnais",
-        "team2_name": "PSG",
-        "date_and_time": "Oct 26, 2026 at 07:30 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/psg-vs-lyon/3208)Link2,,https://playerbee.top/charlie/psg-vs-lyon/3209)Link3,,https://playerbee.top/charlie/psg-vs-lyon/3215)"
-    },
-    {
-        "event_name": "EFL",
-        "team1_logo": "https://cdn.img4every1.org/team/walsall-fc/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/salford-city/logo.webp",
-        "team1_name": "Walsall FCSalford City",
-        "team2_name": "Walsall FC",
-        "date_and_time": "Oct 26, 2026 at 08:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/walsall-vs-salford-city/3212)Link2,,https://playerbee.top/charlie/walsall-vs-salford-city/3213)"
+        "event_name": "Serie A",
+        "team1_logo": "https://cdn.img4every1.org/team/como/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/torino/logo.webp",
+        "team1_name": "ComoTorino",
+        "team2_name": "Como",
+        "date_and_time": "Oct 27, 2026 at 07:45 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/como-vs-torino/3219)Link2,,https://playerbee.top/charlie/como-vs-torino/3220)"
     },
     {
         "event_name": "EFL",
@@ -60,24 +51,6 @@
         "team1_name": "Manchester CityBrighton & Hove Albion",
         "team2_name": "Manchester City",
         "date_and_time": "Oct 28, 2026 at 07:30 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "team1_name": "SevillaOsasuna",
-        "team2_name": "Sevilla",
-        "date_and_time": "Oct 26, 2026 at 08:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/sevilla-vs-osasuna/3210)Link2,,https://playerbee.top/charlie/sevilla-vs-osasuna/3211)"
-    },
-    {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
-        "team1_name": "LazioSassuolo",
-        "team2_name": "Lazio",
-        "date_and_time": "Oct 27, 2026 at 05:30 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
