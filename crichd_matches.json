@@ -1,12 +1,30 @@
 [
     {
+        "event_name": "DFB Pokal",
+        "team1_logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/hamburger-sv/logo.webp",
+        "team1_name": "Eintracht FrankfurtHamburger SV",
+        "team2_name": "Eintracht Frankfurt",
+        "date_and_time": "Oct 27, 2026 at 05:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/eintracht-frankfurt-vs-hamburger-sv/3221)Link2,,https://playerbee.top/charlie/eintracht-frankfurt-vs-hamburger-sv/3223)"
+    },
+    {
+        "event_name": "DFB Pokal",
+        "team1_logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/rot-weiss-essen/logo.webp",
+        "team1_name": "RB LeipzigRot-Weiss Essen",
+        "team2_name": "RB Leipzig",
+        "date_and_time": "Oct 27, 2026 at 05:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/rb-leipzig-vs-rot-weiss-essen/3222)"
+    },
+    {
         "event_name": "Serie A",
         "team1_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
         "team1_name": "LazioSassuolo",
         "team2_name": "Lazio",
         "date_and_time": "Oct 27, 2026 at 05:30 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/lazio-vs-sassuolo/3224)"
     },
     {
         "event_name": "Serie A",
@@ -24,7 +42,7 @@
         "team1_name": "Bradford CityPeterborough United",
         "team2_name": "Bradford City",
         "date_and_time": "Oct 27, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/bradford-city-vs-peterborough-utd/3226)Link2,,https://playerbee.top/charlie/bradford-city-vs-peterborough-utd/3227)"
     },
     {
         "event_name": "EFL",
@@ -33,7 +51,7 @@
         "team1_name": "ArsenalFleetwood Town",
         "team2_name": "Arsenal",
         "date_and_time": "Oct 27, 2026 at 08:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/arsenal-vs-fleetwood-town/3228)Link2,,https://playerbee.top/charlie/arsenal-vs-fleetwood-town/3229)"
     },
     {
         "event_name": "EFL",
