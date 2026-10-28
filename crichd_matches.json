@@ -6,7 +6,7 @@
         "team1_name": "Schalke 04Dynamo Dresden",
         "team2_name": "Schalke 04",
         "date_and_time": "Oct 28, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/schalke-04-vs-dynamo-dresden/3234)"
     },
     {
         "event_name": "DFB Pokal",
@@ -15,7 +15,7 @@
         "team1_name": "Bayern MünchenMagdeburg",
         "team2_name": "Bayern München",
         "date_and_time": "Oct 28, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/bayern-munchen-vs-magdeburg/3246)Link2,,https://playerbee.top/charlie/bayern-munchen-vs-magdeburg/3247)"
     },
     {
         "event_name": "DFB Pokal",
@@ -24,7 +24,7 @@
         "team1_name": "Bayer LeverkusenNürnberg",
         "team2_name": "Bayer Leverkusen",
         "date_and_time": "Oct 28, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/bayer-leverkusen-vs-nurnberg/3245)"
     },
     {
         "event_name": "Serie A",
@@ -51,7 +51,7 @@
         "team1_name": "NapoliMonza",
         "team2_name": "Napoli",
         "date_and_time": "Oct 28, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/napoli-vs-monza/3232)"
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/napoli-vs-monza/3232)Link2,,https://playerbee.top/charlie/napoli-vs-monza/3240)"
     },
     {
         "event_name": "Serie A",
@@ -60,7 +60,7 @@
         "team1_name": "JuventusGenoa",
         "team2_name": "Juventus",
         "date_and_time": "Oct 28, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/juventus-vs-genoa/3241)"
     },
     {
         "event_name": "Serie A",
@@ -87,7 +87,7 @@
         "team1_name": "ChelseaAS Roma",
         "team2_name": "Chelsea",
         "date_and_time": "Oct 28, 2026 at 05:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/chelsea-vs-roma/3236)"
     },
     {
         "event_name": "Womens Champions League",
@@ -96,7 +96,7 @@
         "team1_name": "Real MadridBayern München",
         "team2_name": "Real Madrid",
         "date_and_time": "Oct 28, 2026 at 05:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/real-madrid-vs-bayern-munich/3235)"
     },
     {
         "event_name": "Womens Champions League",
@@ -114,7 +114,7 @@
         "team1_name": "ArsenalBenfica",
         "team2_name": "Arsenal",
         "date_and_time": "Oct 28, 2026 at 08:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/arsenal-vs-benfica/3244)"
     },
     {
         "event_name": "EFL",
@@ -123,7 +123,7 @@
         "team1_name": "Manchester CityBrighton & Hove Albion",
         "team2_name": "Manchester City",
         "date_and_time": "Oct 28, 2026 at 07:30 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/manchester-city-vs-brighton/3237)Link2,,https://playerbee.top/charlie/manchester-city-vs-brighton/3238)"
     },
     {
         "event_name": "EFL",
@@ -132,7 +132,7 @@
         "team1_name": "FulhamCrystal Palace",
         "team2_name": "Fulham",
         "date_and_time": "Oct 28, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/fulham-vs-crystal-palace/3239)"
     },
     {
         "event_name": "EFL",
@@ -141,7 +141,7 @@
         "team1_name": "AFC BournemouthAston Villa",
         "team2_name": "AFC Bournemouth",
         "date_and_time": "Oct 28, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/bournemouth-vs-aston-villa/3242)"
     },
     {
         "event_name": "EFL",
@@ -150,7 +150,7 @@
         "team1_name": "SunderlandBrentford",
         "team2_name": "Sunderland",
         "date_and_time": "Oct 28, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/sunderland-vs-brentford/3243)"
     },
     {
         "event_name": "EFL",
@@ -171,13 +171,13 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Premier League",
+        "event_name": "EFL",
         "team1_logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
         "team1_name": "Chelsea",
         "team2_name": "Team 2",
         "date_and_time": "Oct 28, 2026 at 08:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/liverpool-vs-chelsea/3248)Link2,,https://playerbee.top/charlie/liverpool-vs-chelsea/3249)Link3,,https://playerbee.top/charlie/liverpool-vs-chelsea/3250)"
     },
     {
         "event_name": "Premier League",
