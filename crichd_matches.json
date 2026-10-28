@@ -1,30 +1,30 @@
 [
     {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
-        "team1_name": "LazioSassuolo",
-        "team2_name": "Lazio",
-        "date_and_time": "Oct 27, 2026 at 05:30 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/lazio-vs-sassuolo/3224)"
+        "event_name": "DFB Pokal",
+        "team1_logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/dynamo-dresden/logo.webp",
+        "team1_name": "Schalke 04Dynamo Dresden",
+        "team2_name": "Schalke 04",
+        "date_and_time": "Oct 28, 2026 at 05:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
-        "team1_name": "AS RomaCagliari",
-        "team2_name": "AS Roma",
-        "date_and_time": "Oct 27, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/roma-vs-cagliari/3225)"
+        "event_name": "DFB Pokal",
+        "team1_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/magdeburg/logo.webp",
+        "team1_name": "Bayern MünchenMagdeburg",
+        "team2_name": "Bayern München",
+        "date_and_time": "Oct 28, 2026 at 07:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/como/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/torino/logo.webp",
-        "team1_name": "ComoTorino",
-        "team2_name": "Como",
-        "date_and_time": "Oct 27, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/como-vs-torino/3219)Link2,,https://playerbee.top/charlie/como-vs-torino/3220)"
+        "event_name": "DFB Pokal",
+        "team1_logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/nurnberg/logo.webp",
+        "team1_name": "Bayer LeverkusenNürnberg",
+        "team2_name": "Bayer Leverkusen",
+        "date_and_time": "Oct 28, 2026 at 07:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "Serie A",
@@ -81,22 +81,40 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "EFL",
-        "team1_logo": "https://cdn.img4every1.org/team/bradford-city/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/peterborough-united/logo.webp",
-        "team1_name": "Bradford CityPeterborough United",
-        "team2_name": "Bradford City",
-        "date_and_time": "Oct 27, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/bradford-city-vs-peterborough-utd/3226)Link2,,https://playerbee.top/charlie/bradford-city-vs-peterborough-utd/3227)"
+        "event_name": "Womens Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+        "team1_name": "ChelseaAS Roma",
+        "team2_name": "Chelsea",
+        "date_and_time": "Oct 28, 2026 at 05:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "EFL",
+        "event_name": "Womens Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team1_name": "Real MadridBayern München",
+        "team2_name": "Real Madrid",
+        "date_and_time": "Oct 28, 2026 at 05:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Womens Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
+        "team1_name": "Inter MilanOlympique Lyonnais",
+        "team2_name": "Inter Milan",
+        "date_and_time": "Oct 28, 2026 at 08:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Womens Champions League",
         "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/fleetwood-town/logo.webp",
-        "team1_name": "ArsenalFleetwood Town",
+        "team2_logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
+        "team1_name": "ArsenalBenfica",
         "team2_name": "Arsenal",
-        "date_and_time": "Oct 27, 2026 at 08:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/arsenal-vs-fleetwood-town/3228)Link2,,https://playerbee.top/charlie/arsenal-vs-fleetwood-town/3229)"
+        "date_and_time": "Oct 28, 2026 at 08:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "EFL",
@@ -150,87 +168,6 @@
         "team1_name": "WrexhamSheffield United",
         "team2_name": "Wrexham",
         "date_and_time": "Oct 30, 2026 at 08:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Bundesliga",
-        "team1_logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/werder-bremen/logo.webp",
-        "team1_name": "Borussia DortmundWerder Bremen",
-        "team2_name": "Borussia Dortmund",
-        "date_and_time": "Oct 27, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/borussia-dortmund-vs-werder-bremen/3161)"
-    },
-    {
-        "event_name": "Bundesliga",
-        "team1_logo": "https://cdn.img4every1.org/team/elversberg/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/mainz-05/logo.webp",
-        "team1_name": "ElversbergMainz 05",
-        "team2_name": "Elversberg",
-        "date_and_time": "Oct 30, 2026 at 07:30 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "DFB Pokal",
-        "team1_logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/dynamo-dresden/logo.webp",
-        "team1_name": "Schalke 04Dynamo Dresden",
-        "team2_name": "Schalke 04",
-        "date_and_time": "Oct 28, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "DFB Pokal",
-        "team1_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/magdeburg/logo.webp",
-        "team1_name": "Bayern MünchenMagdeburg",
-        "team2_name": "Bayern München",
-        "date_and_time": "Oct 28, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "DFB Pokal",
-        "team1_logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/nurnberg/logo.webp",
-        "team1_name": "Bayer LeverkusenNürnberg",
-        "team2_name": "Bayer Leverkusen",
-        "date_and_time": "Oct 28, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Womens Champions League",
-        "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
-        "team1_name": "ChelseaAS Roma",
-        "team2_name": "Chelsea",
-        "date_and_time": "Oct 28, 2026 at 05:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Womens Champions League",
-        "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team1_name": "Real MadridBayern München",
-        "team2_name": "Real Madrid",
-        "date_and_time": "Oct 28, 2026 at 05:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Womens Champions League",
-        "team1_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
-        "team1_name": "Inter MilanOlympique Lyonnais",
-        "team2_name": "Inter Milan",
-        "date_and_time": "Oct 28, 2026 at 08:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Womens Champions League",
-        "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
-        "team1_name": "ArsenalBenfica",
-        "team2_name": "Arsenal",
-        "date_and_time": "Oct 28, 2026 at 08:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
@@ -333,6 +270,15 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
+        "event_name": "Bundesliga",
+        "team1_logo": "https://cdn.img4every1.org/team/elversberg/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/mainz-05/logo.webp",
+        "team1_name": "ElversbergMainz 05",
+        "team2_name": "Elversberg",
+        "date_and_time": "Oct 30, 2026 at 07:30 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
         "event_name": "LaLiga",
         "team1_logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
@@ -357,6 +303,24 @@
         "team1_name": "Celta de VigoRayo Vallecano",
         "team2_name": "Celta de Vigo",
         "date_and_time": "Oct 31, 2026 at 03:15 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "team1_name": "Real BetisMálaga",
+        "team2_name": "Real Betis",
+        "date_and_time": "Oct 31, 2026 at 05:30 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
+        "team1_name": "FC BarcelonaDeportivo Alavés",
+        "team2_name": "FC Barcelona",
+        "date_and_time": "Oct 31, 2026 at 08:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     }
 ]
