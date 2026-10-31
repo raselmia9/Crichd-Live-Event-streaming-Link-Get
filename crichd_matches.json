@@ -27,13 +27,22 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/f1-mexican-grand-prix/3256)Link2,,https://playerbee.top/charlie/f1-mexican-grand-prix/3257)Link3,,https://playerbee.top/charlie/f1-mexican-grand-prix/3258)"
     },
     {
+        "event_name": "Snooker",
+        "team1_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+        "team1_name": "Snooker International ChampionshipSnooker",
+        "team2_name": "Snooker International Championship",
+        "date_and_time": "Oct 31, 2026 at 11:30 AM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/snooker-international-championship/3287)"
+    },
+    {
         "event_name": "Premier League",
         "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
         "team1_name": "ChelseaManchester United",
         "team2_name": "Chelsea",
         "date_and_time": "Oct 31, 2026 at 12:30 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/chelsea-vs-manchester-united/3289)Link2,,https://playerbee.top/charlie/chelsea-vs-manchester-united/3290)Link3,,https://playerbee.top/charlie/chelsea-vs-manchester-united/3308)"
     },
     {
         "event_name": "Premier League",
@@ -42,7 +51,7 @@
         "team1_name": "Brighton & Hove AlbionManchester City",
         "team2_name": "Brighton & Hove Albion",
         "date_and_time": "Oct 31, 2026 at 03:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/brighton-vs-man-city/3303)Link2,,https://playerbee.top/charlie/brighton-vs-man-city/3304)"
     },
     {
         "event_name": "Premier League",
@@ -51,7 +60,7 @@
         "team1_name": "Hull CityIpswich Town",
         "team2_name": "Hull City",
         "date_and_time": "Oct 31, 2026 at 03:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/hull-city-vs-ipswich-town/3305)"
     },
     {
         "event_name": "Premier League",
@@ -60,7 +69,7 @@
         "team1_name": "SunderlandCoventry City",
         "team2_name": "Sunderland",
         "date_and_time": "Oct 31, 2026 at 03:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/sunderland-vs-coventry-city/3300)Link2,,https://playerbee.top/charlie/sunderland-vs-coventry-city/3301)"
     },
     {
         "event_name": "Premier League",
@@ -69,7 +78,7 @@
         "team1_name": "Leeds UnitedAFC Bournemouth",
         "team2_name": "Leeds United",
         "date_and_time": "Oct 31, 2026 at 03:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/leeds-united-vs-bournemouth/3302)"
     },
     {
         "event_name": "Premier League",
@@ -78,7 +87,7 @@
         "team1_name": "BrentfordNottingham Forest",
         "team2_name": "Brentford",
         "date_and_time": "Oct 31, 2026 at 03:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/brentford-vs-nottm-forest/3291)Link2,,https://playerbee.top/charlie/brentford-vs-nottm-forest/3322)"
     },
     {
         "event_name": "Premier League",
@@ -87,7 +96,7 @@
         "team1_name": "Tottenham HotspurCrystal Palace",
         "team2_name": "Tottenham Hotspur",
         "date_and_time": "Oct 31, 2026 at 05:30 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/tottenham-hotspur-vs-crystal-palace/3310)Link2,,https://playerbee.top/charlie/tottenham-hotspur-vs-crystal-palace/3311)Link3,,https://playerbee.top/charlie/tottenham-hotspur-vs-crystal-palace/3312)"
     },
     {
         "event_name": "Premier League",
@@ -96,7 +105,7 @@
         "team1_name": "Aston VillaFulham",
         "team2_name": "Aston Villa",
         "date_and_time": "Oct 31, 2026 at 08:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/aston-villa-vs-fulham/3313)Link2,,https://playerbee.top/charlie/aston-villa-vs-fulham/3314)Link3,,https://playerbee.top/charlie/aston-villa-vs-fulham/3315)"
     },
     {
         "event_name": "United Rugby",
@@ -159,7 +168,7 @@
         "team1_name": "Atlético MadridLevante",
         "team2_name": "Atlético Madrid",
         "date_and_time": "Oct 31, 2026 at 01:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/atletico-madrid-vs-levante/3294)Link2,,https://playerbee.top/charlie/atletico-madrid-vs-levante/3295)"
     },
     {
         "event_name": "LaLiga",
@@ -168,7 +177,7 @@
         "team1_name": "Celta de VigoRayo Vallecano",
         "team2_name": "Celta de Vigo",
         "date_and_time": "Oct 31, 2026 at 03:15 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/celta-vigo-vs-rayo-vallecano/3306)Link2,,https://playerbee.top/charlie/celta-vigo-vs-rayo-vallecano/3307)"
     },
     {
         "event_name": "LaLiga",
@@ -177,7 +186,7 @@
         "team1_name": "Real BetisMálaga",
         "team2_name": "Real Betis",
         "date_and_time": "Oct 31, 2026 at 05:30 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/real-betis-vs-malaga/3317)Link2,,https://playerbee.top/charlie/real-betis-vs-malaga/3318)"
     },
     {
         "event_name": "LaLiga",
@@ -187,6 +196,33 @@
         "team2_name": "FC Barcelona",
         "date_and_time": "Oct 31, 2026 at 08:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Serie A",
+        "team1_logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/monza/logo.webp",
+        "team1_name": "BolognaMonza",
+        "team2_name": "Bologna",
+        "date_and_time": "Oct 31, 2026 at 02:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/bologna-vs-monza/3296)"
+    },
+    {
+        "event_name": "Serie A",
+        "team1_logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
+        "team1_name": "AS RomaUdinese",
+        "team2_name": "AS Roma",
+        "date_and_time": "Oct 31, 2026 at 05:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/roma-vs-udinese/3297)"
+    },
+    {
+        "event_name": "Serie A",
+        "team1_logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team1_name": "AC MilanInter Milan",
+        "team2_name": "AC Milan",
+        "date_and_time": "Oct 31, 2026 at 07:45 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/ac-milan-vs-inter-milan-live/3298)Link2,,https://playerbee.top/charlie/ac-milan-vs-inter-milan-live/3299)"
     },
     {
         "event_name": "Premiership Rugby",
@@ -223,5 +259,23 @@
         "team2_name": "Northampton Saints",
         "date_and_time": "Oct 31, 2026 at 05:30 PM UTC",
         "multi_streaming": "Link1,,https://playerbee.top/charlie/northampton-vs-gloucester/3270)"
+    },
+    {
+        "event_name": "Bundesliga",
+        "team1_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
+        "team1_name": "Bayern MünchenBorussia Dortmund",
+        "team2_name": "Bayern München",
+        "date_and_time": "Oct 31, 2026 at 05:30 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/bayern-munchen-vs-borussia-dortmund/3292)Link2,,https://playerbee.top/charlie/bayern-munchen-vs-borussia-dortmund/3293)"
+    },
+    {
+        "event_name": "UFC",
+        "team1_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team1_name": "Renato MoicanoTom Nolan",
+        "team2_name": "Renato Moicano",
+        "date_and_time": "Oct 31, 2026 at 10:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/renato-moicano-vs-tom-nolan/3288)"
     }
 ]
