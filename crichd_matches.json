@@ -15,7 +15,7 @@
         "team1_name": "SassuoloFiorentina",
         "team2_name": "Sassuolo",
         "date_and_time": "Nov 02, 2026 at 05:30 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/sassuolo-vs-fiorentina/3358)"
     },
     {
         "event_name": "Serie A",
@@ -24,7 +24,7 @@
         "team1_name": "AtalantaParma",
         "team2_name": "Atalanta",
         "date_and_time": "Nov 02, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/atalanta-vs-parma/3359)Link2,,https://playerbee.top/charlie/atalanta-vs-parma/3360)"
     },
     {
         "event_name": "French Ligue 1",
@@ -33,16 +33,16 @@
         "team1_name": "LorientBrest",
         "team2_name": "Lorient",
         "date_and_time": "Nov 02, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/lorient-vs-brest/3361)Link2,,https://playerbee.top/charlie/lorient-vs-brest/3362)"
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "LaLiga",
         "team1_logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
         "team1_name": "OsasunaDeportivo La Coruña",
         "team2_name": "Osasuna",
-        "date_and_time": "N/A",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "date_and_time": "Nov 02, 2026 at 08:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/osasuna-vs-deportivo-la-coruna/3363)Link2,,https://playerbee.top/charlie/osasuna-vs-deportivo-la-coruna/3364)Link3,,https://playerbee.top/charlie/osasuna-vs-deportivo-la-coruna/3365)"
     },
     {
         "event_name": "Premier League",
@@ -51,7 +51,7 @@
         "team1_name": "Newcastle UnitedEverton",
         "team2_name": "Newcastle United",
         "date_and_time": "Nov 02, 2026 at 08:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/newcastle-united-vs-everton/3348)Link2,,https://playerbee.top/charlie/newcastle-united-vs-everton/3349)Link3,,https://playerbee.top/charlie/newcastle-united-vs-everton/3350)"
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/newcastle-united-vs-everton/3348)Link2,,https://playerbee.top/charlie/newcastle-united-vs-everton/3349)Link3,,https://playerbee.top/charlie/newcastle-united-vs-everton/3350)Link4,,https://playerbee.top/charlie/newcastle-united-vs-everton/3366)Link5,,https://playerbee.top/charlie/newcastle-united-vs-everton/3367)"
     },
     {
         "event_name": "Liga Portugal",
@@ -60,7 +60,7 @@
         "team1_name": "BenficaAlverca",
         "team2_name": "Benfica",
         "date_and_time": "Nov 02, 2026 at 08:15 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/benfica-vs-alverca/3368)Link2,,https://playerbee.top/charlie/benfica-vs-alverca/3369)Link3,,https://playerbee.top/charlie/benfica-vs-alverca/3371)"
     },
     {
         "event_name": "Liga Portugal",
@@ -69,7 +69,7 @@
         "team1_name": "Gil VicenteVitória Guimarães",
         "team2_name": "Gil Vicente",
         "date_and_time": "Nov 02, 2026 at 08:15 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/gil-vicente-vs-vitoria-guimaraes/3370)"
     },
     {
         "event_name": "Champions League",
