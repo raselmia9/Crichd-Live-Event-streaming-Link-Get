@@ -9,85 +9,13 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/snooker-international-championship/3356)Link2,,https://playerbee.top/charlie/snooker-international-championship/3357)"
     },
     {
-        "event_name": "Champions League",
-        "team1_logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/shakhtar-donetsk/logo.webp",
-        "team1_name": "Sporting CPShakhtar Donetsk",
-        "team2_name": "Sporting CP",
-        "date_and_time": "Nov 03, 2026 at 05:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/sporting-cp-vs-shakhtar-donetsk/3375)Link2,,https://playerbee.top/charlie/sporting-cp-vs-shakhtar-donetsk/3376)Link3,,https://playerbee.top/charlie/sporting-cp-vs-shakhtar-donetsk/3377)"
-    },
-    {
-        "event_name": "Champions League",
-        "team1_logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/galatasaray/logo.webp",
-        "team1_name": "StuttgartGalatasaray",
-        "team2_name": "Stuttgart",
-        "date_and_time": "Nov 03, 2026 at 05:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/stuttgart-vs-galatasaray/3378)Link2,,https://playerbee.top/charlie/stuttgart-vs-galatasaray/3379)Link3,,https://playerbee.top/charlie/stuttgart-vs-galatasaray/3380)"
-    },
-    {
-        "event_name": "Champions League",
-        "team1_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "team1_name": "FC BarcelonaAston Villa",
-        "team2_name": "FC Barcelona",
-        "date_and_time": "Nov 03, 2026 at 08:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/barcelona-vs-aston-villa/3385)Link2,,https://playerbee.top/charlie/barcelona-vs-aston-villa/3386)Link3,,https://playerbee.top/charlie/barcelona-vs-aston-villa/3387)Link4,,https://playerbee.top/charlie/barcelona-vs-aston-villa/3388)Link5,,https://playerbee.top/charlie/barcelona-vs-aston-villa/3389)"
-    },
-    {
-        "event_name": "Champions League",
-        "team1_logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-        "team1_name": "AS RomaManchester United",
-        "team2_name": "AS Roma",
-        "date_and_time": "Nov 03, 2026 at 08:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/roma-vs-manchester-united/3390)Link2,,https://playerbee.top/charlie/roma-vs-manchester-united/3391)Link3,,https://playerbee.top/charlie/roma-vs-manchester-united/3392)"
-    },
-    {
-        "event_name": "Champions League",
-        "team1_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "team1_name": "PSGVillarreal",
-        "team2_name": "PSG",
-        "date_and_time": "Nov 03, 2026 at 08:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/psg-vs-villarreal/3393)Link2,,https://playerbee.top/charlie/psg-vs-villarreal/3394)Link3,,https://playerbee.top/charlie/psg-vs-villarreal/3395)Link4,,https://playerbee.top/charlie/psg-vs-villarreal/3396)"
-    },
-    {
-        "event_name": "Champions League",
-        "team1_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "team1_name": "Bayern MünchenAtlético Madrid",
-        "team2_name": "Bayern München",
-        "date_and_time": "Nov 03, 2026 at 08:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/bayern-munchen-vs-atletico-madrid/3397)Link2,,https://playerbee.top/charlie/bayern-munchen-vs-atletico-madrid/3398)Link3,,https://playerbee.top/charlie/bayern-munchen-vs-atletico-madrid/3399)"
-    },
-    {
-        "event_name": "Champions League",
-        "team1_logo": "https://cdn.img4every1.org/team/lask/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/slovan-bratislava/logo.webp",
-        "team1_name": "LASKSlovan Bratislava",
-        "team2_name": "LASK",
-        "date_and_time": "Nov 03, 2026 at 08:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/lask-vs-slovan-bratislava/3400)"
-    },
-    {
-        "event_name": "Champions League",
-        "team1_logo": "https://cdn.img4every1.org/team/lille/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/fk-bodo-glimt/logo.webp",
-        "team1_name": "LilleFK Bodo Glimt",
-        "team2_name": "Lille",
-        "date_and_time": "Nov 03, 2026 at 08:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/lille-vs-bodo-glimt/3402)"
-    },
-    {
-        "event_name": "Champions League",
-        "team1_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/feyenoord/logo.webp",
-        "team1_name": "Inter MilanFeyenoord",
-        "team2_name": "Inter Milan",
-        "date_and_time": "Nov 03, 2026 at 08:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/inter-milan-vs-feyenoord/3381)Link2,,https://playerbee.top/charlie/inter-milan-vs-feyenoord/3382)Link3,,https://playerbee.top/charlie/inter-milan-vs-feyenoord/3383)Link4,,https://playerbee.top/charlie/inter-milan-vs-feyenoord/3384)"
+        "event_name": "Europa League",
+        "team1_logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/olympiakos-piraeus/logo.webp",
+        "team1_name": "RennesOlympiakos Piraeus",
+        "team2_name": "Rennes",
+        "date_and_time": "Nov 04, 2026 at 03:30 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "Champions League",
@@ -99,13 +27,67 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "EFL",
-        "team1_logo": "https://cdn.img4every1.org/team/southampton/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/west-bromwich-albion/logo.webp",
-        "team1_name": "SouthamptonWest Bromwich Albion",
-        "team2_name": "Southampton",
-        "date_and_time": "Nov 03, 2026 at 08:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/southampton-vs-west-brom/3351)Link2,,https://playerbee.top/charlie/southampton-vs-west-brom/3352)"
+        "event_name": "Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
+        "team1_name": "Fenerbahçe",
+        "team2_name": "Team 2",
+        "date_and_time": "Nov 04, 2026 at 05:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
+        "team1_name": "Manchester CityRB Leipzig",
+        "team2_name": "Manchester City",
+        "date_and_time": "Nov 04, 2026 at 08:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/porto/logo.webp",
+        "team1_name": "NapoliPorto",
+        "team2_name": "Napoli",
+        "date_and_time": "Nov 04, 2026 at 08:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "team1_name": "Borussia DortmundReal Betis",
+        "team2_name": "Borussia Dortmund",
+        "date_and_time": "Nov 04, 2026 at 08:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/como/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/lens/logo.webp",
+        "team1_name": "ComoLens",
+        "team2_name": "Como",
+        "date_and_time": "Nov 04, 2026 at 08:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/psv/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/club-brugge/logo.webp",
+        "team1_name": "PSVClub Brugge",
+        "team2_name": "PSV",
+        "date_and_time": "Nov 04, 2026 at 08:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/viking/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/sabah-baku/logo.webp",
+        "team1_name": "VikingSabah Baku",
+        "team2_name": "Viking",
+        "date_and_time": "Nov 04, 2026 at 08:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "EFL",
@@ -115,14 +97,5 @@
         "team2_name": "Wolverhampton Wanderers",
         "date_and_time": "Nov 04, 2026 at 08:00 PM UTC",
         "multi_streaming": "Link1,,https://playerbee.top/charlie/wolves-vs-bristol-city/3353)Link2,,https://playerbee.top/charlie/wolves-vs-bristol-city/3354)"
-    },
-    {
-        "event_name": "Europa League",
-        "team1_logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/olympiakos-piraeus/logo.webp",
-        "team1_name": "RennesOlympiakos Piraeus",
-        "team2_name": "Rennes",
-        "date_and_time": "Nov 04, 2026 at 03:30 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     }
 ]
