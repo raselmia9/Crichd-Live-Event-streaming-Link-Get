@@ -36,105 +36,6 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/f1-brazilian-grand-prix/3470)Link2,,https://playerbee.top/charlie/f1-brazilian-grand-prix/3471)Link3,,https://playerbee.top/charlie/f1-brazilian-grand-prix/3472)"
     },
     {
-        "event_name": "Bundesliga",
-        "team1_logo": "https://cdn.img4every1.org/team/hamburger-sv/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/borussia-mgladbach/logo.webp",
-        "team1_name": "Hamburger SVBorussia M'gladbach",
-        "team2_name": "Hamburger SV",
-        "date_and_time": "Nov 06, 2026 at 07:30 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/hamburger-vs-borussia-mgladbach/3475)"
-    },
-    {
-        "event_name": "French Ligue 1",
-        "team1_logo": "https://cdn.img4every1.org/team/toulouse/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/strasbourg/logo.webp",
-        "team1_name": "ToulouseStrasbourg",
-        "team2_name": "Toulouse",
-        "date_and_time": "Nov 06, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/toulouse-vs-strasbourg/3476)Link2,,https://playerbee.top/charlie/toulouse-vs-strasbourg/3477)"
-    },
-    {
-        "event_name": "FA Cup",
-        "team1_logo": "https://cdn.img4every1.org/team/oxford-city/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/leicester-city/logo.webp",
-        "team1_name": "Oxford CityLeicester City",
-        "team2_name": "Oxford City",
-        "date_and_time": "Nov 06, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/oxford-city-vs-leicester-city/3444)"
-    },
-    {
-        "event_name": "Rugby Union",
-        "team1_logo": "https://cdn.img4every1.org/team/england/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
-        "team1_name": "EnglandArgentina",
-        "team2_name": "England",
-        "date_and_time": "Nov 06, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/england-a-v-argentina-xv/3456)"
-    },
-    {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
-        "team1_name": "VeneziaUdinese",
-        "team2_name": "Venezia",
-        "date_and_time": "Nov 06, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/venezia-vs-udinese/3473)Link2,,https://playerbee.top/charlie/venezia-vs-udinese/3474)"
-    },
-    {
-        "event_name": "Premiership Rugby",
-        "team1_logo": "https://cdn.img4every1.org/team/leicester-tigers/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
-        "team1_name": "Leicester TigersNorthampton Saints",
-        "team2_name": "Leicester Tigers",
-        "date_and_time": "Nov 06, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/leicester-tigers-vs-northampton/3457)"
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
-        "team1_name": "SevillaDeportivo Alavés",
-        "team2_name": "Sevilla",
-        "date_and_time": "Nov 06, 2026 at 08:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/sevilla-vs-alaves/3478)Link2,,https://playerbee.top/charlie/sevilla-vs-alaves/3479)"
-    },
-    {
-        "event_name": "Premier League",
-        "team1_logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-        "team1_name": "Coventry CityEverton",
-        "team2_name": "Coventry City",
-        "date_and_time": "Nov 06, 2026 at 08:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/coventry-city-vs-everton/3480)Link2,,https://playerbee.top/charlie/coventry-city-vs-everton/3481)Link3,,https://playerbee.top/charlie/coventry-city-vs-everton/3482)Link4,,https://playerbee.top/charlie/coventry-city-vs-everton/3483)Link5,,https://playerbee.top/charlie/coventry-city-vs-everton/3484)Link6,,https://playerbee.top/charlie/coventry-city-vs-everton/3485)"
-    },
-    {
-        "event_name": "EFL",
-        "team1_logo": "https://cdn.img4every1.org/team/bolton-wanderers/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/derby-county/logo.webp",
-        "team1_name": "Bolton WanderersDerby County",
-        "team2_name": "Bolton Wanderers",
-        "date_and_time": "Nov 06, 2026 at 08:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/bolton-wanderers-vs-derby-county/3486)Link2,,https://playerbee.top/charlie/bolton-wanderers-vs-derby-county/3487)"
-    },
-    {
-        "event_name": "Rugby Union",
-        "team1_logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
-        "team1_name": "IrelandArgentina",
-        "team2_name": "Ireland",
-        "date_and_time": "Nov 06, 2026 at 08:10 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/ireland-vs-argentina/3458)"
-    },
-    {
-        "event_name": "Liga Portugal",
-        "team1_logo": "https://cdn.img4every1.org/team/famalicao/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/arouca/logo.webp",
-        "team1_name": "FamalicãoArouca",
-        "team2_name": "Famalicão",
-        "date_and_time": "Nov 06, 2026 at 08:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/famalicao-vs-arouca/3488)"
-    },
-    {
         "event_name": "Rugby League World Cup",
         "team1_logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/tonga/logo.webp",
@@ -142,6 +43,15 @@
         "team2_name": "New Zealand",
         "date_and_time": "Nov 07, 2026 at 09:05 AM UTC",
         "multi_streaming": "Link1,,https://playerbee.top/charlie/new-zealand-vs-tonga/3464)"
+    },
+    {
+        "event_name": "Rugby League World Cup",
+        "team1_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/samoa/logo.webp",
+        "team1_name": "AustraliaSamoa",
+        "team2_name": "Australia",
+        "date_and_time": "Nov 08, 2026 at 09:05 AM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/australia-vs-samoa/3465)"
     },
     {
         "event_name": "Rugby Union",
@@ -169,6 +79,24 @@
         "team2_name": "Japan",
         "date_and_time": "Nov 07, 2026 at 04:40 PM UTC",
         "multi_streaming": "Link1,,https://playerbee.top/charlie/japan-vs-wales/3461)"
+    },
+    {
+        "event_name": "Rugby Union",
+        "team1_logo": "https://cdn.img4every1.org/team/france/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
+        "team1_name": "FranceFiji",
+        "team2_name": "France",
+        "date_and_time": "Nov 07, 2026 at 08:10 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/france-vs-fiji/3462)"
+    },
+    {
+        "event_name": "Rugby Union",
+        "team1_logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team1_name": "EnglandAustralia",
+        "team2_name": "England",
+        "date_and_time": "Nov 08, 2026 at 03:10 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/england-vs-australia/3463)"
     },
     {
         "event_name": "Premier League",
@@ -270,6 +198,15 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
+        "team1_name": "Real MadridValencia",
+        "team2_name": "Real Madrid",
+        "date_and_time": "Nov 07, 2026 at 08:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
         "event_name": "Bundesliga",
         "team1_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/mainz-05/logo.webp",
@@ -303,6 +240,15 @@
         "team1_name": "AlvercaCasa Pia",
         "team2_name": "Alverca",
         "date_and_time": "Nov 07, 2026 at 06:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Liga Portugal",
+        "team1_logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/moreirense/logo.webp",
+        "team1_name": "Sporting CPMoreirense",
+        "team2_name": "Sporting CP",
+        "date_and_time": "Nov 07, 2026 at 08:30 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
