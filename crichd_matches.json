@@ -1,23 +1,5 @@
 [
     {
-        "event_name": "Premier League",
-        "team1_logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-        "team1_name": "Crystal Palace",
-        "team2_name": "Team 2",
-        "date_and_time": "Nov 08, 2026 at 02:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/liverpool-vs-crystal-palace/3546)Link2,,https://playerbee.top/charlie/liverpool-vs-crystal-palace/3547)Link3,,https://playerbee.top/charlie/liverpool-vs-crystal-palace/3548)"
-    },
-    {
-        "event_name": "Premier League",
-        "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
-        "team1_name": "ChelseaSunderland",
-        "team2_name": "Chelsea",
-        "date_and_time": "Nov 08, 2026 at 02:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/chelsea-vs-sunderland/3549)Link2,,https://playerbee.top/charlie/chelsea-vs-sunderland/3550)Link3,,https://playerbee.top/charlie/chelsea-vs-sunderland/3551)"
-    },
-    {
         "event_name": "PGA Tour",
         "team1_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
@@ -27,15 +9,6 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/pga-lpga-golf/3454)Link2,,https://playerbee.top/charlie/pga-lpga-golf/3455)"
     },
     {
-        "event_name": "MotoGP",
-        "team1_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-        "team1_name": "MotoGP Qatar GPMotoGP",
-        "team2_name": "MotoGP Qatar GP",
-        "date_and_time": "Nov 06, 2026 at 10:00 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/motogp-qatar/3466)"
-    },
-    {
         "event_name": "Formula 1",
         "team1_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
@@ -43,87 +16,6 @@
         "team2_name": "F1 Brazilian Grand Prix",
         "date_and_time": "Nov 06, 2026 at 03:00 PM UTC",
         "multi_streaming": "Link1,,https://playerbee.top/charlie/f1-brazilian-grand-prix/3470)Link2,,https://playerbee.top/charlie/f1-brazilian-grand-prix/3471)Link3,,https://playerbee.top/charlie/f1-brazilian-grand-prix/3472)"
-    },
-    {
-        "event_name": "Premier League",
-        "team1_logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
-        "team1_name": "Ipswich TownAFC Bournemouth",
-        "team2_name": "Ipswich Town",
-        "date_and_time": "Nov 08, 2026 at 02:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/ipswich-town-vs-bournemouth/3542)Link2,,https://playerbee.top/charlie/ipswich-town-vs-bournemouth/3543)"
-    },
-    {
-        "event_name": "Premier League",
-        "team1_logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
-        "team1_name": "BrentfordBrighton & Hove Albion",
-        "team2_name": "Brentford",
-        "date_and_time": "Nov 08, 2026 at 02:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/brentford-vs-brighton/3544)Link2,,https://playerbee.top/charlie/brentford-vs-brighton/3545)"
-    },
-    {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/monza/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
-        "team1_name": "MonzaAtalanta",
-        "team2_name": "Monza",
-        "date_and_time": "Nov 08, 2026 at 02:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/monza-vs-atalanta/3536)"
-    },
-    {
-        "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
-        "team1_name": "AC MilanGenoa",
-        "team2_name": "AC Milan",
-        "date_and_time": "Nov 08, 2026 at 02:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/ac-milan-vs-genoa/3552)"
-    },
-    {
-        "event_name": "Bundesliga",
-        "team1_logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/koln/logo.webp",
-        "team1_name": "Bayer LeverkusenKöln",
-        "team2_name": "Bayer Leverkusen",
-        "date_and_time": "Nov 08, 2026 at 02:30 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/bayer-leverkusen-vs-koln/3553)"
-    },
-    {
-        "event_name": "Rugby Union",
-        "team1_logo": "https://cdn.img4every1.org/team/england/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-        "team1_name": "EnglandAustralia",
-        "team2_name": "England",
-        "date_and_time": "Nov 08, 2026 at 03:10 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/england-vs-australia/3463)"
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
-        "team1_name": "Real SociedadRayo Vallecano",
-        "team2_name": "Real Sociedad",
-        "date_and_time": "Nov 08, 2026 at 03:15 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/real-sociedad-vs-rayo-vallecano/3558)Link2,,https://playerbee.top/charlie/real-sociedad-vs-rayo-vallecano/3559)"
-    },
-    {
-        "event_name": "Premier League",
-        "team1_logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "team1_name": "Manchester UnitedAston Villa",
-        "team2_name": "Manchester United",
-        "date_and_time": "Nov 08, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/manchester-united-vs-aston-villa/3560)Link2,,https://playerbee.top/charlie/manchester-united-vs-aston-villa/3561)Link3,,https://playerbee.top/charlie/manchester-united-vs-aston-villa/3562)"
-    },
-    {
-        "event_name": "Bundesliga",
-        "team1_logo": "https://cdn.img4every1.org/team/union-berlin/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/freiburg/logo.webp",
-        "team1_name": "Union BerlinFreiburg",
-        "team2_name": "Union Berlin",
-        "date_and_time": "Nov 08, 2026 at 04:30 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/union-berlin-vs-freiburg/3554)Link2,,https://playerbee.top/charlie/union-berlin-vs-freiburg/3555)"
     },
     {
         "event_name": "Bundesliga",
@@ -136,39 +28,12 @@
     },
     {
         "event_name": "Serie A",
-        "team1_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/como/logo.webp",
-        "team1_name": "Inter MilanComo",
-        "team2_name": "Inter Milan",
-        "date_and_time": "Nov 08, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/inter-milan-vs-como/3563)Link2,,https://playerbee.top/charlie/inter-milan-vs-como/3564)Link3,,https://playerbee.top/charlie/inter-milan-vs-como/3567)"
-    },
-    {
-        "event_name": "Serie A",
         "team1_logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
         "team1_name": "JuventusFiorentina",
         "team2_name": "Juventus",
         "date_and_time": "Nov 08, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/juventus-vs-fiorentina/3565)Link2,,https://playerbee.top/charlie/juventus-vs-fiorentina/3566)Link3,,https://playerbee.top/charlie/juventus-vs-fiorentina/3568)"
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "team1_name": "Celta de VigoLevante",
-        "team2_name": "Celta de Vigo",
-        "date_and_time": "Nov 08, 2026 at 05:30 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/celta-vigo-vs-levante/3570)"
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "team1_name": "GetafeVillarreal",
-        "team2_name": "Getafe",
-        "date_and_time": "Nov 08, 2026 at 05:30 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/getafe-vs-villarreal/3569)"
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/juventus-vs-fiorentina/3565)Link2,,https://playerbee.top/charlie/juventus-vs-fiorentina/3566)Link3,,https://playerbee.top/charlie/juventus-vs-fiorentina/3568)Link4,,https://playerbee.top/charlie/juventus-vs-fiorentina/3577)"
     },
     {
         "event_name": "LaLiga",
@@ -178,5 +43,95 @@
         "team2_name": "FC Barcelona",
         "date_and_time": "Nov 08, 2026 at 08:00 PM UTC",
         "multi_streaming": "Link1,,https://playerbee.top/charlie/barcelona-vs-atletico-madrid/3571)Link2,,https://playerbee.top/charlie/barcelona-vs-atletico-madrid/3572)Link3,,https://playerbee.top/charlie/barcelona-vs-atletico-madrid/3573)Link4,,https://playerbee.top/charlie/barcelona-vs-atletico-madrid/3574)Link5,,https://playerbee.top/charlie/barcelona-vs-atletico-madrid/3575)"
+    },
+    {
+        "event_name": "Liga Portugal",
+        "team1_logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/estrela/logo.webp",
+        "team1_name": "BenficaEstrela",
+        "team2_name": "Benfica",
+        "date_and_time": "Nov 08, 2026 at 08:30 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/benfica-vs-estrela/3576)"
+    },
+    {
+        "event_name": "FA Cup",
+        "team1_logo": "https://cdn.img4every1.org/team/plymouth-parkway/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/berkhamsted/logo.webp",
+        "team1_name": "Plymouth ParkwayBerkhamsted",
+        "team2_name": "Plymouth Parkway",
+        "date_and_time": "Nov 09, 2026 at 07:30 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/plymouth-parkway-vs-berkhamsted/3578)"
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
+        "team1_name": "TurkiyeBelgium",
+        "team2_name": "Turkiye",
+        "date_and_time": "Nov 12, 2026 at 05:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/cyprus/logo.webp",
+        "team1_name": "ArmeniaCyprus",
+        "team2_name": "Armenia",
+        "date_and_time": "Nov 12, 2026 at 05:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
+        "team1_name": "EnglandCroatia",
+        "team2_name": "England",
+        "date_and_time": "Nov 12, 2026 at 07:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/montenegro/logo.webp",
+        "team1_name": "LatviaMontenegro",
+        "team2_name": "Latvia",
+        "date_and_time": "Nov 12, 2026 at 07:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/albania/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/finland/logo.webp",
+        "team1_name": "AlbaniaFinland",
+        "team2_name": "Albania",
+        "date_and_time": "Nov 12, 2026 at 07:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/belarus/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/san-marino/logo.webp",
+        "team1_name": "BelarusSan Marino",
+        "team2_name": "Belarus",
+        "date_and_time": "Nov 12, 2026 at 07:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/spain/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/czechia/logo.webp",
+        "team1_name": "SpainCzechia",
+        "team2_name": "Spain",
+        "date_and_time": "Nov 12, 2026 at 07:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/italy/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/france/logo.webp",
+        "team1_name": "ItalyFrance",
+        "team2_name": "Italy",
+        "date_and_time": "Nov 12, 2026 at 07:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     }
 ]
