@@ -1,5 +1,14 @@
 [
     {
+        "event_name": "Snooker",
+        "team1_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+        "team1_name": "Snooker Champion of ChampionsSnooker",
+        "team2_name": "Snooker Champion of Champions",
+        "date_and_time": "Nov 09, 2026 at 12:45 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/snooker-champion-of-champions/3579)"
+    },
+    {
         "event_name": "FA Cup",
         "team1_logo": "https://cdn.img4every1.org/team/plymouth-parkway/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/berkhamsted/logo.webp",
