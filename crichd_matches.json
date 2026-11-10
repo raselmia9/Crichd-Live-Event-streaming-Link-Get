@@ -9,6 +9,15 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/snooker-champion-of-champions/3579)"
     },
     {
+        "event_name": "Friendly",
+        "team1_logo": "https://cdn.img4every1.org/team/india/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+        "team1_name": "IndiaNew Zealand",
+        "team2_name": "India",
+        "date_and_time": "Nov 12, 2026 at 06:00 AM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
         "event_name": "Nations League",
         "team1_logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
