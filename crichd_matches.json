@@ -1,92 +1,92 @@
 [
     {
-        "event_name": "Live Sports",
+        "event_name": "Snooker",
         "team1_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team1_name": "Snooker Champion of ChampionsSnooker",
         "team2_name": "Snooker Champion of Champions",
-        "date_and_time": "N/A",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "date_and_time": "Nov 09, 2026 at 12:45 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/snooker-champion-of-champions/3579)"
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "Friendly",
         "team1_logo": "https://cdn.img4every1.org/team/india/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
         "team1_name": "IndiaNew Zealand",
         "team2_name": "India",
-        "date_and_time": "N/A",
+        "date_and_time": "Nov 12, 2026 at 06:00 AM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "Nations League",
         "team1_logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
         "team1_name": "TurkiyeBelgium",
         "team2_name": "Turkiye",
-        "date_and_time": "N/A",
+        "date_and_time": "Nov 12, 2026 at 05:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "Nations League",
         "team1_logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/cyprus/logo.webp",
         "team1_name": "ArmeniaCyprus",
         "team2_name": "Armenia",
-        "date_and_time": "N/A",
+        "date_and_time": "Nov 12, 2026 at 05:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "Nations League",
         "team1_logo": "https://cdn.img4every1.org/team/england/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
         "team1_name": "EnglandCroatia",
         "team2_name": "England",
-        "date_and_time": "N/A",
+        "date_and_time": "Nov 12, 2026 at 07:45 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "Nations League",
         "team1_logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/montenegro/logo.webp",
         "team1_name": "LatviaMontenegro",
         "team2_name": "Latvia",
-        "date_and_time": "N/A",
+        "date_and_time": "Nov 12, 2026 at 07:45 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "Nations League",
         "team1_logo": "https://cdn.img4every1.org/team/albania/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/finland/logo.webp",
         "team1_name": "AlbaniaFinland",
         "team2_name": "Albania",
-        "date_and_time": "N/A",
+        "date_and_time": "Nov 12, 2026 at 07:45 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "Nations League",
         "team1_logo": "https://cdn.img4every1.org/team/belarus/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/san-marino/logo.webp",
         "team1_name": "BelarusSan Marino",
         "team2_name": "Belarus",
-        "date_and_time": "N/A",
+        "date_and_time": "Nov 12, 2026 at 07:45 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "Nations League",
         "team1_logo": "https://cdn.img4every1.org/team/spain/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/czechia/logo.webp",
         "team1_name": "SpainCzechia",
         "team2_name": "Spain",
-        "date_and_time": "N/A",
+        "date_and_time": "Nov 12, 2026 at 07:45 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Live Sports",
+        "event_name": "Nations League",
         "team1_logo": "https://cdn.img4every1.org/team/italy/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/france/logo.webp",
         "team1_name": "ItalyFrance",
         "team2_name": "Italy",
-        "date_and_time": "N/A",
+        "date_and_time": "Nov 12, 2026 at 07:45 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     }
 ]
