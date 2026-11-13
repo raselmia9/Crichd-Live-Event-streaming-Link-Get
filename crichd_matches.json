@@ -10,21 +10,12 @@
     },
     {
         "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/moldova/logo.webp",
-        "team1_name": "KazakhstanMoldova",
-        "team2_name": "Kazakhstan",
-        "date_and_time": "Nov 13, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Nations League",
         "team1_logo": "https://cdn.img4every1.org/team/azerbaijan/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/liechtenstein/logo.webp",
         "team1_name": "AzerbaijanLiechtenstein",
         "team2_name": "Azerbaijan",
         "date_and_time": "Nov 13, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/azerbaijan-vs-liechtenstein/3613)"
     },
     {
         "event_name": "Nations League",
@@ -33,7 +24,7 @@
         "team1_name": "GermanySerbia",
         "team2_name": "Germany",
         "date_and_time": "Nov 13, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/germany-vs-serbia/3614)Link2,,https://playerbee.top/charlie/germany-vs-serbia/3615)Link3,,https://playerbee.top/charlie/germany-vs-serbia/3616)Link4,,https://playerbee.top/charlie/germany-vs-serbia/3617)"
     },
     {
         "event_name": "Nations League",
@@ -42,7 +33,7 @@
         "team1_name": "NetherlandsGreece",
         "team2_name": "Netherlands",
         "date_and_time": "Nov 13, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/netherlands-vs-greece/3618)Link2,,https://playerbee.top/charlie/netherlands-vs-greece/3619)Link3,,https://playerbee.top/charlie/netherlands-vs-greece/3620)Link4,,https://playerbee.top/charlie/netherlands-vs-greece/3621)"
     },
     {
         "event_name": "Nations League",
@@ -51,7 +42,7 @@
         "team1_name": "ScotlandNorth Macedonia",
         "team2_name": "Scotland",
         "date_and_time": "Nov 13, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/scotland-vs-north-macedonia/3606)"
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/scotland-vs-north-macedonia/3606)Link2,,https://playerbee.top/charlie/scotland-vs-north-macedonia/3622)"
     },
     {
         "event_name": "Nations League",
@@ -60,7 +51,7 @@
         "team1_name": "SwitzerlandSlovenia",
         "team2_name": "Switzerland",
         "date_and_time": "Nov 13, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/switzerland-vs-slovenia/3611)Link2,,https://playerbee.top/charlie/switzerland-vs-slovenia/3612)"
     },
     {
         "event_name": "Nations League",
@@ -79,6 +70,15 @@
         "team2_name": "Wales",
         "date_and_time": "Nov 14, 2026 at 05:00 PM UTC",
         "multi_streaming": "Link1,,https://playerbee.top/charlie/wales-vs-norway/3607)"
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
+        "team1_name": "HungaryGeorgia",
+        "team2_name": "Hungary",
+        "date_and_time": "Nov 14, 2026 at 05:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "Rugby Union",
