@@ -18,67 +18,22 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/grand-slam-of-darts-live-stream/3631)Link2,,https://playerbee.top/charlie/grand-slam-of-darts-live-stream/3632)"
     },
     {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/wales/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/norway/logo.webp",
-        "team1_name": "WalesNorway",
-        "team2_name": "Wales",
-        "date_and_time": "Nov 14, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/wales-vs-norway/3607)Link2,,https://playerbee.top/charlie/wales-vs-norway/3629)Link3,,https://playerbee.top/charlie/wales-vs-norway/3630)"
+        "event_name": "CONCACAF Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/usa/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/haiti/logo.webp",
+        "team1_name": "USAHaiti",
+        "team2_name": "USA",
+        "date_and_time": "Nov 14, 2026 at 09:30 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/usa-vs-haiti/3644)Link2,,https://playerbee.top/charlie/usa-vs-haiti/3645)"
     },
     {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
-        "team1_name": "HungaryGeorgia",
-        "team2_name": "Hungary",
-        "date_and_time": "Nov 14, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/hungary-vs-georgia/3626)Link2,,https://playerbee.top/charlie/hungary-vs-georgia/3627)Link3,,https://playerbee.top/charlie/hungary-vs-georgia/3628)"
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/austria/logo.webp",
-        "team1_name": "IrelandAustria",
-        "team2_name": "Ireland",
-        "date_and_time": "Nov 14, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/ireland-vs-austria/3637)Link2,,https://playerbee.top/charlie/ireland-vs-austria/3638)"
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/ukraine/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/northern-ireland/logo.webp",
-        "team1_name": "UkraineNorthern Ireland",
-        "team2_name": "Ukraine",
-        "date_and_time": "Nov 14, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/ukraine-vs-northern-ireland/3608)Link2,,https://playerbee.top/charlie/ukraine-vs-northern-ireland/3639)"
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/poland/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/romania/logo.webp",
-        "team1_name": "PolandRomania",
-        "team2_name": "Poland",
-        "date_and_time": "Nov 14, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/poland-vs-romania/3640)Link2,,https://playerbee.top/charlie/poland-vs-romania/3641)"
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sweden/logo.webp",
-        "team1_name": "Bosnia and HerzegovinaSweden",
-        "team2_name": "Bosnia and Herzegovina",
-        "date_and_time": "Nov 14, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/bosnia-vs-sweden/3642)Link2,,https://playerbee.top/charlie/bosnia-vs-sweden/3643)"
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/denmark/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
-        "team1_name": "DenmarkPortugal",
-        "team2_name": "Denmark",
-        "date_and_time": "Nov 14, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/denmark-vs-portugal/3633)Link2,,https://playerbee.top/charlie/denmark-vs-portugal/3634)Link3,,https://playerbee.top/charlie/denmark-vs-portugal/3635)Link4,,https://playerbee.top/charlie/denmark-vs-portugal/3636)"
+        "event_name": "UFC",
+        "team1_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team1_name": "Ciryl GaneJosh Hokit",
+        "team2_name": "Ciryl Gane",
+        "date_and_time": "Nov 15, 2026 at 12:00 AM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/ciryl-gane-vs-josh-hokit/3605)"
     },
     {
         "event_name": "Nations League",
@@ -108,13 +63,49 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "Rugby Union",
-        "team1_logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
-        "team1_name": "IrelandFiji",
-        "team2_name": "Ireland",
-        "date_and_time": "Nov 14, 2026 at 08:10 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/ireland-vs-fiji/3603)"
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/albania/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/belarus/logo.webp",
+        "team1_name": "AlbaniaBelarus",
+        "team2_name": "Albania",
+        "date_and_time": "Nov 15, 2026 at 05:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/spain/logo.webp",
+        "team1_name": "EnglandSpain",
+        "team2_name": "England",
+        "date_and_time": "Nov 15, 2026 at 07:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/france/logo.webp",
+        "team1_name": "TurkiyeFrance",
+        "team2_name": "Turkiye",
+        "date_and_time": "Nov 15, 2026 at 07:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/czechia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
+        "team1_name": "CzechiaCroatia",
+        "team2_name": "Czechia",
+        "date_and_time": "Nov 15, 2026 at 07:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/italy/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
+        "team1_name": "ItalyBelgium",
+        "team2_name": "Italy",
+        "date_and_time": "Nov 15, 2026 at 07:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
         "event_name": "Rugby Union",
@@ -124,14 +115,5 @@
         "team2_name": "Australia",
         "date_and_time": "Nov 15, 2026 at 03:10 PM UTC",
         "multi_streaming": "Link1,,https://playerbee.top/charlie/australia-vs-scotland/3604)"
-    },
-    {
-        "event_name": "UFC",
-        "team1_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team1_name": "Ciryl GaneJosh Hokit",
-        "team2_name": "Ciryl Gane",
-        "date_and_time": "Nov 15, 2026 at 12:00 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/ciryl-gane-vs-josh-hokit/3605)"
     }
 ]
