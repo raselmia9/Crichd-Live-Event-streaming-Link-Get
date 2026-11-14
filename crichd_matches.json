@@ -9,22 +9,13 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/snooker-champion-of-champions/3579)"
     },
     {
-        "event_name": "Friendly",
-        "team1_logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/japan/logo.webp",
-        "team1_name": "BrazilJapan",
-        "team2_name": "Brazil",
-        "date_and_time": "Nov 14, 2026 at 10:15 AM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Rugby Union",
-        "team1_logo": "https://cdn.img4every1.org/team/italy/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
-        "team1_name": "ItalyArgentina",
-        "team2_name": "Italy",
-        "date_and_time": "Nov 14, 2026 at 11:40 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/italy-vs-argentina/3600)"
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/kosovo/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/israel/logo.webp",
+        "team1_name": "KosovoIsrael",
+        "team2_name": "Kosovo",
+        "date_and_time": "Nov 14, 2026 at 02:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/kosovo-vs-israel/3624)Link2,,https://playerbee.top/charlie/kosovo-vs-israel/3625)"
     },
     {
         "event_name": "Rugby Union",
@@ -64,21 +55,12 @@
     },
     {
         "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/kosovo/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/israel/logo.webp",
-        "team1_name": "KosovoIsrael",
-        "team2_name": "Kosovo",
-        "date_and_time": "Nov 14, 2026 at 02:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Nations League",
         "team1_logo": "https://cdn.img4every1.org/team/wales/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/norway/logo.webp",
         "team1_name": "WalesNorway",
         "team2_name": "Wales",
         "date_and_time": "Nov 14, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/wales-vs-norway/3607)"
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/wales-vs-norway/3607)Link2,,https://playerbee.top/charlie/wales-vs-norway/3629)Link3,,https://playerbee.top/charlie/wales-vs-norway/3630)"
     },
     {
         "event_name": "Nations League",
@@ -87,7 +69,7 @@
         "team1_name": "HungaryGeorgia",
         "team2_name": "Hungary",
         "date_and_time": "Nov 14, 2026 at 05:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/hungary-vs-georgia/3626)Link2,,https://playerbee.top/charlie/hungary-vs-georgia/3627)Link3,,https://playerbee.top/charlie/hungary-vs-georgia/3628)"
     },
     {
         "event_name": "Nations League",
@@ -132,6 +114,15 @@
         "team1_name": "DenmarkPortugal",
         "team2_name": "Denmark",
         "date_and_time": "Nov 14, 2026 at 07:45 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/montenegro/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/cyprus/logo.webp",
+        "team1_name": "MontenegroCyprus",
+        "team2_name": "Montenegro",
+        "date_and_time": "Nov 15, 2026 at 02:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
