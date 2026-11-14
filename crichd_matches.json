@@ -9,49 +9,13 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/snooker-champion-of-champions/3579)"
     },
     {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/kosovo/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/israel/logo.webp",
-        "team1_name": "KosovoIsrael",
-        "team2_name": "Kosovo",
-        "date_and_time": "Nov 14, 2026 at 02:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/kosovo-vs-israel/3624)Link2,,https://playerbee.top/charlie/kosovo-vs-israel/3625)"
-    },
-    {
-        "event_name": "Rugby Union",
-        "team1_logo": "https://cdn.img4every1.org/team/wales/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-        "team1_name": "WalesNew Zealand",
-        "team2_name": "Wales",
-        "date_and_time": "Nov 14, 2026 at 02:10 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/wales-vs-new-zealand/3601)"
-    },
-    {
-        "event_name": "Rugby Union",
-        "team1_logo": "https://cdn.img4every1.org/team/england/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/japan/logo.webp",
-        "team1_name": "EnglandJapan",
-        "team2_name": "England",
-        "date_and_time": "Nov 14, 2026 at 04:40 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/england-vs-japan/3602)"
-    },
-    {
-        "event_name": "Rugby Union",
-        "team1_logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
-        "team1_name": "IrelandFiji",
-        "team2_name": "Ireland",
-        "date_and_time": "Nov 14, 2026 at 08:10 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/ireland-vs-fiji/3603)"
-    },
-    {
-        "event_name": "Rugby Union",
-        "team1_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
-        "team1_name": "AustraliaScotland",
-        "team2_name": "Australia",
-        "date_and_time": "Nov 15, 2026 at 03:10 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/australia-vs-scotland/3604)"
+        "event_name": "Darts",
+        "team1_logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
+        "team1_name": "Grand Slam of DartsDarts",
+        "team2_name": "Grand Slam of Darts",
+        "date_and_time": "Nov 14, 2026 at 01:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/grand-slam-of-darts-live-stream/3631)Link2,,https://playerbee.top/charlie/grand-slam-of-darts-live-stream/3632)"
     },
     {
         "event_name": "Nations League",
@@ -78,7 +42,7 @@
         "team1_name": "IrelandAustria",
         "team2_name": "Ireland",
         "date_and_time": "Nov 14, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/ireland-vs-austria/3637)Link2,,https://playerbee.top/charlie/ireland-vs-austria/3638)"
     },
     {
         "event_name": "Nations League",
@@ -87,7 +51,7 @@
         "team1_name": "UkraineNorthern Ireland",
         "team2_name": "Ukraine",
         "date_and_time": "Nov 14, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/ukraine-vs-northern-ireland/3608)"
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/ukraine-vs-northern-ireland/3608)Link2,,https://playerbee.top/charlie/ukraine-vs-northern-ireland/3639)"
     },
     {
         "event_name": "Nations League",
@@ -96,7 +60,7 @@
         "team1_name": "PolandRomania",
         "team2_name": "Poland",
         "date_and_time": "Nov 14, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/poland-vs-romania/3640)Link2,,https://playerbee.top/charlie/poland-vs-romania/3641)"
     },
     {
         "event_name": "Nations League",
@@ -105,7 +69,7 @@
         "team1_name": "Bosnia and HerzegovinaSweden",
         "team2_name": "Bosnia and Herzegovina",
         "date_and_time": "Nov 14, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/bosnia-vs-sweden/3642)Link2,,https://playerbee.top/charlie/bosnia-vs-sweden/3643)"
     },
     {
         "event_name": "Nations League",
@@ -114,7 +78,7 @@
         "team1_name": "DenmarkPortugal",
         "team2_name": "Denmark",
         "date_and_time": "Nov 14, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/denmark-vs-portugal/3633)Link2,,https://playerbee.top/charlie/denmark-vs-portugal/3634)Link3,,https://playerbee.top/charlie/denmark-vs-portugal/3635)Link4,,https://playerbee.top/charlie/denmark-vs-portugal/3636)"
     },
     {
         "event_name": "Nations League",
@@ -124,6 +88,42 @@
         "team2_name": "Montenegro",
         "date_and_time": "Nov 15, 2026 at 02:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
+        "team1_name": "ArmeniaLatvia",
+        "team2_name": "Armenia",
+        "date_and_time": "Nov 15, 2026 at 02:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/finland/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/san-marino/logo.webp",
+        "team1_name": "FinlandSan Marino",
+        "team2_name": "Finland",
+        "date_and_time": "Nov 15, 2026 at 05:00 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "Rugby Union",
+        "team1_logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
+        "team1_name": "IrelandFiji",
+        "team2_name": "Ireland",
+        "date_and_time": "Nov 14, 2026 at 08:10 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/ireland-vs-fiji/3603)"
+    },
+    {
+        "event_name": "Rugby Union",
+        "team1_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
+        "team1_name": "AustraliaScotland",
+        "team2_name": "Australia",
+        "date_and_time": "Nov 15, 2026 at 03:10 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/australia-vs-scotland/3604)"
     },
     {
         "event_name": "UFC",
