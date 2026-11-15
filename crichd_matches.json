@@ -18,22 +18,31 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/grand-slam-of-darts-live-stream/3631)Link2,,https://playerbee.top/charlie/grand-slam-of-darts-live-stream/3632)"
     },
     {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/montenegro/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/cyprus/logo.webp",
-        "team1_name": "MontenegroCyprus",
-        "team2_name": "Montenegro",
-        "date_and_time": "Nov 15, 2026 at 02:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/montenegro-vs-cyprus/3664)Link2,,https://playerbee.top/charlie/montenegro-vs-cyprus/3665)"
+        "event_name": "NFL",
+        "team1_logo": "https://cdn.img4every1.org/team/detroit-lions/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/new-england-patriots/logo.webp",
+        "team1_name": "Detroit LionsNew England Patriots",
+        "team2_name": "Detroit Lions",
+        "date_and_time": "Nov 15, 2026 at 02:30 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/lions-vs-patriots/3650)Link2,,https://playerbee.top/charlie/lions-vs-patriots/3651)"
     },
     {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
-        "team1_name": "ArmeniaLatvia",
-        "team2_name": "Armenia",
-        "date_and_time": "Nov 15, 2026 at 02:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/armenia-vs-latvia/3660)Link2,,https://playerbee.top/charlie/armenia-vs-latvia/3661)"
+        "event_name": "Rugby Union",
+        "team1_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
+        "team1_name": "AustraliaScotland",
+        "team2_name": "Australia",
+        "date_and_time": "Nov 15, 2026 at 03:10 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/australia-vs-scotland/3604)"
+    },
+    {
+        "event_name": "WSL",
+        "team1_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/london-city-lionesses/logo.webp",
+        "team1_name": "ArsenalLondon City Lionesses",
+        "team2_name": "Arsenal",
+        "date_and_time": "Nov 15, 2026 at 04:30 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/arsenal-vs-london-city-lionesses/3652)Link2,,https://playerbee.top/charlie/arsenal-vs-london-city-lionesses/3653)"
     },
     {
         "event_name": "Nations League",
@@ -60,7 +69,7 @@
         "team1_name": "EnglandSpain",
         "team2_name": "England",
         "date_and_time": "Nov 15, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/england-vs-spain/3669)Link2,,https://playerbee.top/charlie/england-vs-spain/3670)Link3,,https://playerbee.top/charlie/england-vs-spain/3671)Link4,,https://playerbee.top/charlie/england-vs-spain/3672)Link5,,https://playerbee.top/charlie/england-vs-spain/3673)"
     },
     {
         "event_name": "Nations League",
@@ -69,7 +78,7 @@
         "team1_name": "TurkiyeFrance",
         "team2_name": "Turkiye",
         "date_and_time": "Nov 15, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/turkiye-vs-france/3678)Link2,,https://playerbee.top/charlie/turkiye-vs-france/3679)Link3,,https://playerbee.top/charlie/turkiye-vs-france/3680)"
     },
     {
         "event_name": "Nations League",
@@ -78,7 +87,7 @@
         "team1_name": "CzechiaCroatia",
         "team2_name": "Czechia",
         "date_and_time": "Nov 15, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/czechia-vs-croatia/3681)Link2,,https://playerbee.top/charlie/czechia-vs-croatia/3682)"
     },
     {
         "event_name": "Nations League",
@@ -87,15 +96,42 @@
         "team1_name": "ItalyBelgium",
         "team2_name": "Italy",
         "date_and_time": "Nov 15, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/italy-vs-belgium-live-stream/3674)Link2,,https://playerbee.top/charlie/italy-vs-belgium-live-stream/3675)Link3,,https://playerbee.top/charlie/italy-vs-belgium-live-stream/3676)Link4,,https://playerbee.top/charlie/italy-vs-belgium-live-stream/3677)"
     },
     {
-        "event_name": "Rugby Union",
-        "team1_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
-        "team1_name": "AustraliaScotland",
-        "team2_name": "Australia",
-        "date_and_time": "Nov 15, 2026 at 03:10 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/australia-vs-scotland/3604)"
+        "event_name": "NFL",
+        "team1_logo": "https://cdn.img4every1.org/team/kansas-city-chiefs/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/atlanta-falcons/logo.webp",
+        "team1_name": "Kansas City ChiefsAtlanta Falcons",
+        "team2_name": "Kansas City Chiefs",
+        "date_and_time": "Nov 15, 2026 at 06:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/chiefs-vs-falcons/3654)"
+    },
+    {
+        "event_name": "NFL",
+        "team1_logo": "https://cdn.img4every1.org/team/minnesota-vikings/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/green-bay-packers/logo.webp",
+        "team1_name": "Minnesota VikingsGreen Bay Packers",
+        "team2_name": "Minnesota Vikings",
+        "date_and_time": "Nov 15, 2026 at 06:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/minnesota-vikings-vs-green-bay-packers/3656)Link2,,https://playerbee.top/charlie/minnesota-vikings-vs-green-bay-packers/3657)"
+    },
+    {
+        "event_name": "NFL",
+        "team1_logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/new-orleans-saints/logo.webp",
+        "team1_name": "Carolina PanthersNew Orleans Saints",
+        "team2_name": "Carolina Panthers",
+        "date_and_time": "Nov 15, 2026 at 06:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/carolina-panthers-vs-new-orleans-saints/3655)"
+    },
+    {
+        "event_name": "CONCACAF Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/panama/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/curacao/logo.webp",
+        "team1_name": "PanamaCuraçao",
+        "team2_name": "Panama",
+        "date_and_time": "Nov 15, 2026 at 11:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/panama-vs-curacao/3658)Link2,,https://playerbee.top/charlie/panama-vs-curacao/3659)"
     }
 ]
