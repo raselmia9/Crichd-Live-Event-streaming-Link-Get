@@ -1,23 +1,5 @@
 [
     {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/england/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/spain/logo.webp",
-        "team1_name": "EnglandSpain",
-        "team2_name": "England",
-        "date_and_time": "Nov 15, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/england-vs-spain/3669)Link2,,https://playerbee.top/charlie/england-vs-spain/3670)Link3,,https://playerbee.top/charlie/england-vs-spain/3671)Link4,,https://playerbee.top/charlie/england-vs-spain/3672)Link5,,https://playerbee.top/charlie/england-vs-spain/3673)"
-    },
-    {
-        "event_name": "Snooker",
-        "team1_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "team1_name": "Snooker Champion of ChampionsSnooker",
-        "team2_name": "Snooker Champion of Champions",
-        "date_and_time": "Nov 09, 2026 at 12:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/snooker-champion-of-champions/3579)"
-    },
-    {
         "event_name": "Darts",
         "team1_logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
@@ -25,96 +7,6 @@
         "team2_name": "Grand Slam of Darts",
         "date_and_time": "Nov 14, 2026 at 01:00 PM UTC",
         "multi_streaming": "Link1,,https://playerbee.top/charlie/grand-slam-of-darts-live-stream/3631)Link2,,https://playerbee.top/charlie/grand-slam-of-darts-live-stream/3632)"
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/france/logo.webp",
-        "team1_name": "TurkiyeFrance",
-        "team2_name": "Turkiye",
-        "date_and_time": "Nov 15, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/turkiye-vs-france/3678)Link2,,https://playerbee.top/charlie/turkiye-vs-france/3679)Link3,,https://playerbee.top/charlie/turkiye-vs-france/3680)"
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/czechia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
-        "team1_name": "CzechiaCroatia",
-        "team2_name": "Czechia",
-        "date_and_time": "Nov 15, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/czechia-vs-croatia/3681)Link2,,https://playerbee.top/charlie/czechia-vs-croatia/3682)"
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/italy/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
-        "team1_name": "ItalyBelgium",
-        "team2_name": "Italy",
-        "date_and_time": "Nov 15, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/italy-vs-belgium-live-stream/3674)Link2,,https://playerbee.top/charlie/italy-vs-belgium-live-stream/3675)Link3,,https://playerbee.top/charlie/italy-vs-belgium-live-stream/3676)Link4,,https://playerbee.top/charlie/italy-vs-belgium-live-stream/3677)"
-    },
-    {
-        "event_name": "NFL",
-        "team1_logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
-        "team1_name": "Dallas CowboysSan Francisco 49ers",
-        "team2_name": "Dallas Cowboys",
-        "date_and_time": "Nov 15, 2026 at 09:25 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/cowboys-vs-49ers/3688)"
-    },
-    {
-        "event_name": "CONCACAF Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/panama/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/curacao/logo.webp",
-        "team1_name": "PanamaCuraçao",
-        "team2_name": "Panama",
-        "date_and_time": "Nov 15, 2026 at 11:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/panama-vs-curacao/3658)Link2,,https://playerbee.top/charlie/panama-vs-curacao/3659)"
-    },
-    {
-        "event_name": "CONCACAF Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/guyana/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/puerto-rico/logo.webp",
-        "team1_name": "GuyanaPuerto Rico",
-        "team2_name": "Guyana",
-        "date_and_time": "Nov 16, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/guyana-vs-puerto-rico/3683)"
-    },
-    {
-        "event_name": "CONCACAF Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/trinidad-and-tobago/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/antigua-and-barbuda/logo.webp",
-        "team1_name": "Trinidad and TobagoAntigua and Barbuda",
-        "team2_name": "Trinidad and Tobago",
-        "date_and_time": "Nov 17, 2026 at 12:00 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/trinidad-and-tobago-vs-antigua-and-barbuda/3684)"
-    },
-    {
-        "event_name": "CONCACAF Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/aruba/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/martinique/logo.webp",
-        "team1_name": "ArubaMartinique",
-        "team2_name": "Aruba",
-        "date_and_time": "Nov 17, 2026 at 12:00 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/aruba-vs-martinique/3685)"
-    },
-    {
-        "event_name": "CONCACAF Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/canada/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/guatemala/logo.webp",
-        "team1_name": "CanadaGuatemala",
-        "team2_name": "Canada",
-        "date_and_time": "Nov 17, 2026 at 01:00 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/canada-vs-guatemala/3686)"
-    },
-    {
-        "event_name": "CONCACAF Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/bonaire/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/saint-kitts-and-nevis/logo.webp",
-        "team1_name": "BonaireSaint Kitts and Nevis",
-        "team2_name": "Bonaire",
-        "date_and_time": "Nov 17, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/bonaire-vs-st-kitts-and-nevis/3687)"
     },
     {
         "event_name": "NFL",
@@ -196,6 +88,51 @@
         "team2_name": "Scotland",
         "date_and_time": "Nov 16, 2026 at 07:45 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "CONCACAF Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/guyana/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/puerto-rico/logo.webp",
+        "team1_name": "GuyanaPuerto Rico",
+        "team2_name": "Guyana",
+        "date_and_time": "Nov 16, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/guyana-vs-puerto-rico/3683)"
+    },
+    {
+        "event_name": "CONCACAF Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/trinidad-and-tobago/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/antigua-and-barbuda/logo.webp",
+        "team1_name": "Trinidad and TobagoAntigua and Barbuda",
+        "team2_name": "Trinidad and Tobago",
+        "date_and_time": "Nov 17, 2026 at 12:00 AM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/trinidad-and-tobago-vs-antigua-and-barbuda/3684)"
+    },
+    {
+        "event_name": "CONCACAF Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/aruba/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/martinique/logo.webp",
+        "team1_name": "ArubaMartinique",
+        "team2_name": "Aruba",
+        "date_and_time": "Nov 17, 2026 at 12:00 AM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/aruba-vs-martinique/3685)"
+    },
+    {
+        "event_name": "CONCACAF Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/canada/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/guatemala/logo.webp",
+        "team1_name": "CanadaGuatemala",
+        "team2_name": "Canada",
+        "date_and_time": "Nov 17, 2026 at 01:00 AM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/canada-vs-guatemala/3686)"
+    },
+    {
+        "event_name": "CONCACAF Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/bonaire/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/saint-kitts-and-nevis/logo.webp",
+        "team1_name": "BonaireSaint Kitts and Nevis",
+        "team2_name": "Bonaire",
+        "date_and_time": "Nov 17, 2026 at 07:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/bonaire-vs-st-kitts-and-nevis/3687)"
     },
     {
         "event_name": "Friendly",
