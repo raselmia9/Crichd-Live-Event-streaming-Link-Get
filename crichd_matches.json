@@ -9,15 +9,6 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/grand-slam-of-darts-live-stream/3631)Link2,,https://playerbee.top/charlie/grand-slam-of-darts-live-stream/3632)"
     },
     {
-        "event_name": "CONCACAF Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/canada/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/guatemala/logo.webp",
-        "team1_name": "CanadaGuatemala",
-        "team2_name": "Canada",
-        "date_and_time": "Nov 17, 2026 at 01:00 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/canada-vs-guatemala/3686)"
-    },
-    {
         "event_name": "Friendly",
         "team1_logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/singapore/logo.webp",
@@ -27,13 +18,22 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/brazil-vs-singapore/3715)"
     },
     {
+        "event_name": "SAFF Championship",
+        "team1_logo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/india/logo.webp",
+        "team1_name": "PakistanIndia",
+        "team2_name": "Pakistan",
+        "date_and_time": "Nov 17, 2026 at 02:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/pakistan-vs-india/3691)Link2,,https://playerbee.top/charlie/pakistan-vs-india/3692)"
+    },
+    {
         "event_name": "Friendly",
         "team1_logo": "https://cdn.img4every1.org/team/jordan/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
         "team1_name": "JordanAustralia",
         "team2_name": "Jordan",
         "date_and_time": "Nov 17, 2026 at 04:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/jordan-vs-australia/3720)"
     },
     {
         "event_name": "Friendly",
@@ -54,15 +54,6 @@
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
-        "event_name": "SAFF Championship",
-        "team1_logo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/india/logo.webp",
-        "team1_name": "PakistanIndia",
-        "team2_name": "Pakistan",
-        "date_and_time": "Nov 17, 2026 at 02:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/pakistan-vs-india/3691)Link2,,https://playerbee.top/charlie/pakistan-vs-india/3692)"
-    },
-    {
         "event_name": "CONCACAF Nations League",
         "team1_logo": "https://cdn.img4every1.org/team/bonaire/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/saint-kitts-and-nevis/logo.webp",
@@ -78,7 +69,7 @@
         "team1_name": "PortugalWales",
         "team2_name": "Portugal",
         "date_and_time": "Nov 17, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/portugal-vs-wales/3726)Link2,,https://playerbee.top/charlie/portugal-vs-wales/3727)Link3,,https://playerbee.top/charlie/portugal-vs-wales/3728)Link4,,https://playerbee.top/charlie/portugal-vs-wales/3729)Link5,,https://playerbee.top/charlie/portugal-vs-wales/3730)"
     },
     {
         "event_name": "Nations League",
@@ -87,7 +78,7 @@
         "team1_name": "NorwayDenmark",
         "team2_name": "Norway",
         "date_and_time": "Nov 17, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/norway-vs-denmark/3731)"
     },
     {
         "event_name": "Nations League",
@@ -96,7 +87,7 @@
         "team1_name": "IrelandKosovo",
         "team2_name": "Ireland",
         "date_and_time": "Nov 17, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/ireland-vs-kosovo/3723)"
     },
     {
         "event_name": "Nations League",
@@ -105,7 +96,7 @@
         "team1_name": "AustriaIsrael",
         "team2_name": "Austria",
         "date_and_time": "Nov 17, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/austria-vs-israel/3724)"
     },
     {
         "event_name": "Nations League",
@@ -114,7 +105,7 @@
         "team1_name": "Northern IrelandHungary",
         "team2_name": "Northern Ireland",
         "date_and_time": "Nov 17, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/northern-ireland-vs-hungary/3721)Link2,,https://playerbee.top/charlie/northern-ireland-vs-hungary/3722)"
     },
     {
         "event_name": "Nations League",
@@ -123,7 +114,7 @@
         "team1_name": "Bosnia and HerzegovinaRomania",
         "team2_name": "Bosnia and Herzegovina",
         "date_and_time": "Nov 17, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/bosnia-vs-romania/3733)"
     },
     {
         "event_name": "Nations League",
@@ -132,7 +123,7 @@
         "team1_name": "GeorgiaUkraine",
         "team2_name": "Georgia",
         "date_and_time": "Nov 17, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/georgia-vs-ukraine/3732)"
     },
     {
         "event_name": "Bundesliga",
