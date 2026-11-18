@@ -1,14 +1,5 @@
 [
     {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/wales/logo.webp",
-        "team1_name": "PortugalWales",
-        "team2_name": "Portugal",
-        "date_and_time": "Nov 17, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/portugal-vs-wales/3726)Link2,,https://playerbee.top/charlie/portugal-vs-wales/3727)Link3,,https://playerbee.top/charlie/portugal-vs-wales/3728)Link4,,https://playerbee.top/charlie/portugal-vs-wales/3729)Link5,,https://playerbee.top/charlie/portugal-vs-wales/3730)"
-    },
-    {
         "event_name": "Darts",
         "team1_logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
@@ -19,84 +10,48 @@
     },
     {
         "event_name": "CONCACAF Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/bonaire/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/saint-kitts-and-nevis/logo.webp",
-        "team1_name": "BonaireSaint Kitts and Nevis",
-        "team2_name": "Bonaire",
-        "date_and_time": "Nov 17, 2026 at 07:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/bonaire-vs-st-kitts-and-nevis/3687)"
+        "team1_logo": "https://cdn.img4every1.org/team/usa/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/haiti/logo.webp",
+        "team1_name": "USAHaiti",
+        "team2_name": "USA",
+        "date_and_time": "Nov 18, 2026 at 12:00 AM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/usa-vs-haiti/3735)Link2,,https://playerbee.top/charlie/usa-vs-haiti/3736)"
     },
     {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/norway/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/denmark/logo.webp",
-        "team1_name": "NorwayDenmark",
-        "team2_name": "Norway",
-        "date_and_time": "Nov 17, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/norway-vs-denmark/3731)"
+        "event_name": "CONCACAF Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/saint-martin/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/el-salvador/logo.webp",
+        "team1_name": "Saint MartinEl Salvador",
+        "team2_name": "Saint Martin",
+        "date_and_time": "Nov 18, 2026 at 01:00 AM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/saint-martin-vs-el-salvador/3737)"
     },
     {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/kosovo/logo.webp",
-        "team1_name": "IrelandKosovo",
-        "team2_name": "Ireland",
-        "date_and_time": "Nov 17, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/ireland-vs-kosovo/3723)"
+        "event_name": "CONCACAF Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/jamaica/logo.webp",
+        "team1_name": "MexicoJamaica",
+        "team2_name": "Mexico",
+        "date_and_time": "Nov 18, 2026 at 02:30 AM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/mexico-vs-jamaica/3738)Link2,,https://playerbee.top/charlie/mexico-vs-jamaica/3739)"
     },
     {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/austria/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/israel/logo.webp",
-        "team1_name": "AustriaIsrael",
-        "team2_name": "Austria",
-        "date_and_time": "Nov 17, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/austria-vs-israel/3724)"
+        "event_name": "CONCACAF Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/nicaragua/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/montserrat/logo.webp",
+        "team1_name": "NicaraguaMontserrat",
+        "team2_name": "Nicaragua",
+        "date_and_time": "Nov 18, 2026 at 03:00 AM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/nicaragua-vs-montserrat/3740)"
     },
     {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/northern-ireland/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
-        "team1_name": "Northern IrelandHungary",
-        "team2_name": "Northern Ireland",
-        "date_and_time": "Nov 17, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/northern-ireland-vs-hungary/3721)Link2,,https://playerbee.top/charlie/northern-ireland-vs-hungary/3722)"
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/romania/logo.webp",
-        "team1_name": "Bosnia and HerzegovinaRomania",
-        "team2_name": "Bosnia and Herzegovina",
-        "date_and_time": "Nov 17, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/bosnia-vs-romania/3733)"
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/ukraine/logo.webp",
-        "team1_name": "GeorgiaUkraine",
-        "team2_name": "Georgia",
-        "date_and_time": "Nov 17, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/georgia-vs-ukraine/3732)"
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/poland/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sweden/logo.webp",
-        "team1_name": "PolandSweden",
-        "team2_name": "Poland",
-        "date_and_time": "Nov 17, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/poland-vs-sweden/3725)"
-    },
-    {
-        "event_name": "Friendly",
-        "team1_logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/costa-rica/logo.webp",
-        "team1_name": "ArgentinaCosta Rica",
-        "team2_name": "Argentina",
-        "date_and_time": "Nov 17, 2026 at 11:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/argentina-vs-costa-rica/3734)"
+        "event_name": "Womens Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team1_name": "Real MadridInter Milan",
+        "team2_name": "Real Madrid",
+        "date_and_time": "Nov 18, 2026 at 05:45 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/real-madrid-vs-inter-milan/3741)Link2,,https://playerbee.top/charlie/real-madrid-vs-inter-milan/3742)"
     },
     {
         "event_name": "Bundesliga",
