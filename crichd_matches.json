@@ -1,5 +1,14 @@
 [
     {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/wales/logo.webp",
+        "team1_name": "PortugalWales",
+        "team2_name": "Portugal",
+        "date_and_time": "Nov 17, 2026 at 07:45 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/portugal-vs-wales/3726)Link2,,https://playerbee.top/charlie/portugal-vs-wales/3727)Link3,,https://playerbee.top/charlie/portugal-vs-wales/3728)Link4,,https://playerbee.top/charlie/portugal-vs-wales/3729)Link5,,https://playerbee.top/charlie/portugal-vs-wales/3730)"
+    },
+    {
         "event_name": "Darts",
         "team1_logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
@@ -9,51 +18,6 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/grand-slam-of-darts-live-stream/3631)Link2,,https://playerbee.top/charlie/grand-slam-of-darts-live-stream/3632)"
     },
     {
-        "event_name": "Friendly",
-        "team1_logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/singapore/logo.webp",
-        "team1_name": "BrazilSingapore",
-        "team2_name": "Brazil",
-        "date_and_time": "Nov 17, 2026 at 10:00 AM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/brazil-vs-singapore/3715)"
-    },
-    {
-        "event_name": "SAFF Championship",
-        "team1_logo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/india/logo.webp",
-        "team1_name": "PakistanIndia",
-        "team2_name": "Pakistan",
-        "date_and_time": "Nov 17, 2026 at 02:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/pakistan-vs-india/3691)Link2,,https://playerbee.top/charlie/pakistan-vs-india/3692)"
-    },
-    {
-        "event_name": "Friendly",
-        "team1_logo": "https://cdn.img4every1.org/team/jordan/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-        "team1_name": "JordanAustralia",
-        "team2_name": "Jordan",
-        "date_and_time": "Nov 17, 2026 at 04:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/jordan-vs-australia/3720)"
-    },
-    {
-        "event_name": "Friendly",
-        "team1_logo": "https://cdn.img4every1.org/team/iran/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/iraq/logo.webp",
-        "team1_name": "IranIraq",
-        "team2_name": "Iran",
-        "date_and_time": "Nov 17, 2026 at 04:15 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
-        "event_name": "Friendly",
-        "team1_logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/costa-rica/logo.webp",
-        "team1_name": "ArgentinaCosta Rica",
-        "team2_name": "Argentina",
-        "date_and_time": "Nov 17, 2026 at 11:00 PM UTC",
-        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
-    },
-    {
         "event_name": "CONCACAF Nations League",
         "team1_logo": "https://cdn.img4every1.org/team/bonaire/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/saint-kitts-and-nevis/logo.webp",
@@ -61,15 +25,6 @@
         "team2_name": "Bonaire",
         "date_and_time": "Nov 17, 2026 at 07:00 PM UTC",
         "multi_streaming": "Link1,,https://playerbee.top/charlie/bonaire-vs-st-kitts-and-nevis/3687)"
-    },
-    {
-        "event_name": "Nations League",
-        "team1_logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/wales/logo.webp",
-        "team1_name": "PortugalWales",
-        "team2_name": "Portugal",
-        "date_and_time": "Nov 17, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/portugal-vs-wales/3726)Link2,,https://playerbee.top/charlie/portugal-vs-wales/3727)Link3,,https://playerbee.top/charlie/portugal-vs-wales/3728)Link4,,https://playerbee.top/charlie/portugal-vs-wales/3729)Link5,,https://playerbee.top/charlie/portugal-vs-wales/3730)"
     },
     {
         "event_name": "Nations League",
@@ -124,6 +79,24 @@
         "team2_name": "Georgia",
         "date_and_time": "Nov 17, 2026 at 07:45 PM UTC",
         "multi_streaming": "Link1,,https://playerbee.top/charlie/georgia-vs-ukraine/3732)"
+    },
+    {
+        "event_name": "Nations League",
+        "team1_logo": "https://cdn.img4every1.org/team/poland/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/sweden/logo.webp",
+        "team1_name": "PolandSweden",
+        "team2_name": "Poland",
+        "date_and_time": "Nov 17, 2026 at 07:45 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/poland-vs-sweden/3725)"
+    },
+    {
+        "event_name": "Friendly",
+        "team1_logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/costa-rica/logo.webp",
+        "team1_name": "ArgentinaCosta Rica",
+        "team2_name": "Argentina",
+        "date_and_time": "Nov 17, 2026 at 11:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/argentina-vs-costa-rica/3734)"
     },
     {
         "event_name": "Bundesliga",
