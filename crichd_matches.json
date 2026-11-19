@@ -18,6 +18,15 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/real-madrid-vs-inter-milan/3741)Link2,,https://playerbee.top/charlie/real-madrid-vs-inter-milan/3742)"
     },
     {
+        "event_name": "Womens Champions League",
+        "team1_logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team1_name": "ChelseaPSG",
+        "team2_name": "Chelsea",
+        "date_and_time": "Nov 18, 2026 at 08:00 PM UTC",
+        "multi_streaming": "Link1,,https://playerbee.top/charlie/chelsea-vs-psg/3743)Link2,,https://playerbee.top/charlie/chelsea-vs-psg/3744)"
+    },
+    {
         "event_name": "Bundesliga",
         "team1_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/koln/logo.webp",
