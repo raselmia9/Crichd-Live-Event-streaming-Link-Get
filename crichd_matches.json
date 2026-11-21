@@ -27,60 +27,6 @@
         "multi_streaming": "Link1,,https://playerbee.top/charlie/motogp-portugal/3745)"
     },
     {
-        "event_name": "Bundesliga",
-        "team1_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/koln/logo.webp",
-        "team1_name": "Bayern MünchenKöln",
-        "team2_name": "Bayern München",
-        "date_and_time": "Nov 20, 2026 at 07:30 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/bayern-munchen-vs-koln/3756)Link2,,https://playerbee.top/charlie/bayern-munchen-vs-koln/3757)"
-    },
-    {
-        "event_name": "Premiership Rugby",
-        "team1_logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/bristol-bears/logo.webp",
-        "team1_name": "Bath RugbyBristol Bears",
-        "team2_name": "Bath Rugby",
-        "date_and_time": "Nov 20, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/bath-vs-bristol-bears/3765)"
-    },
-    {
-        "event_name": "French Ligue 1",
-        "team1_logo": "https://cdn.img4every1.org/team/troyes/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/le-havre/logo.webp",
-        "team1_name": "TroyesLe Havre",
-        "team2_name": "Troyes",
-        "date_and_time": "Nov 20, 2026 at 07:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/troyes-vs-le-havre/3760)Link2,,https://playerbee.top/charlie/troyes-vs-le-havre/3761)Link3,,https://playerbee.top/charlie/troyes-vs-le-havre/3762)"
-    },
-    {
-        "event_name": "LaLiga",
-        "team1_logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "team1_name": "EspanyolAthletic Club",
-        "team2_name": "Espanyol",
-        "date_and_time": "Nov 20, 2026 at 08:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/espanyol-vs-athletic-club/3758)Link2,,https://playerbee.top/charlie/espanyol-vs-athletic-club/3759)"
-    },
-    {
-        "event_name": "League One",
-        "team1_logo": "https://cdn.img4every1.org/team/barnsley/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/sheffield-wednesday/logo.webp",
-        "team1_name": "BarnsleySheffield Wednesday",
-        "team2_name": "Barnsley",
-        "date_and_time": "Nov 20, 2026 at 08:00 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/barnsley-vs-sheffield-wednesday/3763)Link2,,https://playerbee.top/charlie/barnsley-vs-sheffield-wednesday/3764)"
-    },
-    {
-        "event_name": "Taca de Portugal",
-        "team1_logo": "https://cdn.img4every1.org/team/porto/logo.webp",
-        "team2_logo": "https://cdn.img4every1.org/team/paredes/logo.webp",
-        "team1_name": "PortoParedes",
-        "team2_name": "Porto",
-        "date_and_time": "Nov 20, 2026 at 08:45 PM UTC",
-        "multi_streaming": "Link1,,https://playerbee.top/charlie/porto-vs-paredes/3717)Link2,,https://playerbee.top/charlie/porto-vs-paredes/3718)Link3,,https://playerbee.top/charlie/porto-vs-paredes/3719)"
-    },
-    {
         "event_name": "EFL",
         "team1_logo": "https://cdn.img4every1.org/team/queens-park-rangers/logo.webp",
         "team2_logo": "https://cdn.img4every1.org/team/millwall-fc/logo.webp",
@@ -249,6 +195,24 @@
         "team1_name": "Racing SantanderReal Sociedad",
         "team2_name": "Racing Santander",
         "date_and_time": "Nov 22, 2026 at 03:15 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "team1_name": "OsasunaMálaga",
+        "team2_name": "Osasuna",
+        "date_and_time": "Nov 22, 2026 at 05:30 PM UTC",
+        "multi_streaming": "Stream links will be activated before 1 hr of starting time."
+    },
+    {
+        "event_name": "LaLiga",
+        "team1_logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+        "team2_logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "team1_name": "Atlético MadridGetafe",
+        "team2_name": "Atlético Madrid",
+        "date_and_time": "Nov 22, 2026 at 08:00 PM UTC",
         "multi_streaming": "Stream links will be activated before 1 hr of starting time."
     },
     {
